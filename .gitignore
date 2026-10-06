@@ -1,0 +1,10 @@
+﻿runtime/
+.edge-*/
+__pycache__/
+*.pyc
+*.log
+*.pid
+.DS_Store
+Thumbs.db
+.planning/
+

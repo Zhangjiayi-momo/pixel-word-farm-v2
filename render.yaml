@@ -1,0 +1,10 @@
+﻿services:
+  - type: web
+    name: pixel-word-farm
+    runtime: docker
+    plan: free
+    autoDeploy: true
+    healthCheckPath: /api/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.6

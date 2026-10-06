@@ -1,0 +1,6 @@
+﻿runtime/
+.planning/
+*.png
+*.err
+*.log
+*.pid
