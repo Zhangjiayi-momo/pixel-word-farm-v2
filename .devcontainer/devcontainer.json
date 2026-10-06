@@ -10,6 +10,7 @@
     }
   },
   "postStartCommand": "bash scripts/codespace-start.sh",
+  "postAttachCommand": "bash scripts/codespace-start.sh",
   "customizations": {
     "vscode": {
       "settings": {
