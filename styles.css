@@ -454,7 +454,7 @@ body.module-read .classroom,
 body.module-understand .classroom,
 body.module-spell .classroom {
   position: relative;
-  z-index: 1;
+  /* 不创建新的层叠上下文，确保右侧批注工具栏位于全屏画布上方。 */
 }
 body.module-read .game-header,
 body.module-understand .game-header,
