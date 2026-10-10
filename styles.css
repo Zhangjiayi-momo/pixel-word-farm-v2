@@ -615,3 +615,12 @@ body.module-understand .understand-head span,
 body.module-spell .spell-prompt p {
   color: #6d513b;
 }
+/* 学生永久复习版发布 */
+.seed-export-button { width: calc(100% - 22px); margin: 0 11px 11px; }
+.student-publish-form { padding: 20px; }
+.student-page-preview { margin: 10px 0 13px; padding: 10px; color: #5f452f; font-size: 12px; line-height: 1.6; background: #fff1c6; border: 2px solid #b98b4d; overflow-wrap: anywhere; }
+.student-page-preview b { font-family: var(--font-pixel); font-size: 11px; }
+.student-publish-status { margin-top: 11px; padding: 9px 10px; color: #6c4b35; font-size: 12px; line-height: 1.55; background: rgba(255,255,255,.46); border: 2px dashed #b98b4d; }
+.student-publish-status.success { color: #245e39; background: #e3f3c5; border-color: #5d9a61; }
+.student-publish-status.error { color: #8b3029; background: #f4d0b1; border-color: #bd5a49; }
+.student-publish-actions { flex-wrap: wrap; }

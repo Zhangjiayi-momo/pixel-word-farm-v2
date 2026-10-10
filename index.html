@@ -28,7 +28,7 @@
     @keyframes boot-bob { 50% { transform: translateY(-8px); } }
     @media (prefers-reduced-motion: reduce) { .boot-sprout { animation: none; } }
   </style>
-  <link rel="stylesheet" href="styles.css?v=20261006-3">
+  <link rel="stylesheet" href="styles.css?v=20261010-1">
 </head>
 <body class="resources-loading">
   <div id="loadingScreen" class="boot-screen" role="status" aria-live="polite">
@@ -135,6 +135,7 @@
               <select id="wordBankSelect"></select>
               <button id="loadWordBankButton" class="pixel-button teacher-only" type="button">加载所选词库</button>
               <button id="manageWordBanksButton" class="pixel-button teacher-only" type="button">管理历史词库</button>
+              <button id="exportStudentDataButton" class="pixel-button teacher-only seed-export-button" type="button">发布学生版</button>
             </div>
           </div>
         </section>
@@ -319,8 +320,37 @@
     </div>
   </dialog>
 
+  <dialog id="studentPublishDialog" class="pixel-dialog small-dialog">
+    <form method="dialog" class="student-publish-form">
+      <header class="dialog-header">
+        <div>
+          <p class="pixel-eyebrow">PUBLIC REVIEW PAGE</p>
+          <h2>发布学生复习版</h2>
+        </div>
+        <button id="closeStudentPublishButton" class="icon-close" type="button" aria-label="关闭">×</button>
+      </header>
+      <p class="bank-manager-hint">学生通过 GitHub Pages 永久链接复习，不需要打开 Codespaces。这里只发布只读词义和例句，不包含课堂互动数据。</p>
+      <p class="student-page-preview">学生链接将生成在：<b id="studentPageUrlPreview">https://zhangjiayi-momo.github.io/pixel-word-farm-v2/student.html</b></p>
+      <label>GitHub Token（仅用于发布本仓库）
+        <input id="studentPublishToken" type="password" autocomplete="off" placeholder="github_pat_...">
+      </label>
+      <label>仓库
+        <input id="studentPublishRepo" type="text" value="Zhangjiayi-momo/pixel-word-farm-v2" autocomplete="off">
+      </label>
+      <label>分支
+        <input id="studentPublishBranch" type="text" value="main" autocomplete="off">
+      </label>
+      <label class="enrich-option"><input id="studentPublishRememberToken" type="checkbox"> 在此浏览器记住 Token（不建议在公共电脑勾选）</label>
+      <div id="studentPublishStatus" class="student-publish-status">可以先下载数据文件，或填写 Token 后直接发布。</div>
+      <footer class="dialog-actions student-publish-actions">
+        <button id="downloadStudentDataButton" class="pixel-button" type="button">下载学生数据</button>
+        <button id="publishStudentDataButton" class="pixel-button primary" type="button">发布到 GitHub Pages</button>
+      </footer>
+    </form>
+  </dialog>
+
   <script src="data.js?v=20261004-2"></script>
-  <script src="app.js?v=20261010-1"></script>
+  <script src="app.js?v=20261010-2"></script>
 </body>
 </html>
 

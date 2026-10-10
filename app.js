@@ -94,6 +94,7 @@
       "uploadText", "uploadPreview", "autoEnrich", "cancelUpload", "confirmUpload", "dayNav", "dayWordList",
       "dailyPendingCount", "weekProgressText", "wordListCount", "wordBankLabel", "enrichCurrentWordsButton", "wordBankSelect", "loadWordBankButton", "manageWordBanksButton",
       "bankManagerDialog", "bankManagerList", "closeBankManagerButton",
+      "exportStudentDataButton", "studentPublishDialog", "studentPublishToken", "studentPublishRepo", "studentPublishBranch", "studentPublishRememberToken", "studentPublishStatus", "downloadStudentDataButton", "publishStudentDataButton", "closeStudentPublishButton", "studentPageUrlPreview",
       "activeDayLabel", "moduleEyebrow", "moduleTitle", "wordPosition", "studentCount",
       "readView", "readWordGrid", "readQueueButton", "previousWord", "nextWord",
       "understandView", "understandingList", "spellView", "spellSelectedCount",
@@ -132,6 +133,10 @@
     dom.manageWordBanksButton.addEventListener("click", openBankManager);
     dom.closeBankManagerButton.addEventListener("click", () => dom.bankManagerDialog.close());
     dom.bankManagerList.addEventListener("click", handleBankManagerClick);
+    dom.exportStudentDataButton.addEventListener("click", openStudentPublishDialog);
+    dom.closeStudentPublishButton.addEventListener("click", () => dom.studentPublishDialog.close());
+    dom.downloadStudentDataButton.addEventListener("click", downloadStudentData);
+    dom.publishStudentDataButton.addEventListener("click", publishStudentData);
     dom.dayWordList.addEventListener("click", (event) => {
       const button = event.target.closest("[data-word-id]");
       if (button) selectWord(button.dataset.wordId);
@@ -849,6 +854,158 @@
       renderBankManager();
     } catch (error) {
       alert(`删除历史词库失败：${error.message}`);
+    }
+  }
+
+  function cleanStudentWord(word) {
+    return {
+      id: word.id,
+      word: word.word,
+      phonetic: word.phonetic || "",
+      part: word.part || "",
+      meaning: word.meaning || "",
+      segments: word.segments || [],
+      mnemonic: word.mnemonic || word.hook || "",
+      derivatives: word.derivatives || [],
+      phrases: word.phrases || [],
+      phraseExamples: word.phraseExamples || [],
+      example: word.example || "",
+      exampleTranslation: word.exampleTranslation || ""
+    };
+  }
+
+  function buildStudentPayload() {
+    const entries = bankDisplayEntries(session.state?.wordBanks || []).filter((entry) => !isSeedBank(entry.bank));
+    const source = entries.length
+      ? entries
+      : [{ bank: { id: session.state?.activeBankId || "current", name: session.state?.batchName || "当前词库", date: session.state?.batchDate || "", words: session.state?.words || [] }, label: "当前词库" }];
+    const banks = source.map(({ bank, label }) => ({
+      id: bank.id || "current",
+      label,
+      date: formatBankDate(bank.date || session.state?.batchDate),
+      words: (bank.words || session.state?.words || []).map(cleanStudentWord).filter((word) => word.word)
+    })).filter((bank) => bank.words.length);
+    if (!banks.length) throw new Error("当前没有可发布的学生词库");
+    return {
+      version: 1,
+      title: "像素词汇农场",
+      updatedAt: new Date().toISOString(),
+      activeBankId: banks.some((bank) => bank.id === session.state?.activeBankId) ? session.state.activeBankId : banks[0].id,
+      banks
+    };
+  }
+
+  function studentPageUrlFromRepo(repo) {
+    const [owner, repoName] = String(repo || "").split("/");
+    return owner && repoName ? `https://${owner.toLowerCase()}.github.io/${repoName}/student.html` : "";
+  }
+
+  function setStudentPublishStatus(message, type = "") {
+    dom.studentPublishStatus.textContent = message;
+    dom.studentPublishStatus.className = `student-publish-status${type ? ` ${type}` : ""}`;
+  }
+
+  function openStudentPublishDialog() {
+    if (session.role !== "teacher" || !session.state) return;
+    const savedRepo = localStorage.getItem("wordMemoryCoach.studentRepo.v1") || "Zhangjiayi-momo/pixel-word-farm-v2";
+    const savedBranch = localStorage.getItem("wordMemoryCoach.studentBranch.v1") || "main";
+    dom.studentPublishRepo.value = savedRepo;
+    dom.studentPublishBranch.value = savedBranch;
+    dom.studentPageUrlPreview.textContent = studentPageUrlFromRepo(savedRepo);
+    const savedToken = localStorage.getItem("wordMemoryCoach.studentToken.v1") || "";
+    if (savedToken) {
+      dom.studentPublishToken.value = savedToken;
+      dom.studentPublishRememberToken.checked = true;
+    }
+    setStudentPublishStatus("可以先下载数据文件，或填写 Token 后直接发布。");
+    if (!dom.studentPublishDialog.open) dom.studentPublishDialog.showModal();
+  }
+
+  function downloadStudentData() {
+    try {
+      const payload = buildStudentPayload();
+      const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json;charset=utf-8" });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = "student-data.json";
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+      URL.revokeObjectURL(url);
+      setStudentPublishStatus("学生数据已下载。将它替换到 GitHub 仓库根目录的 student-data.json 即可。", "success");
+    } catch (error) {
+      setStudentPublishStatus(`下载失败：${error.message}`, "error");
+    }
+  }
+
+  function encodeBase64Utf8(value) {
+    const bytes = new TextEncoder().encode(value);
+    let binary = "";
+    bytes.forEach((byte) => { binary += String.fromCharCode(byte); });
+    return btoa(binary);
+  }
+
+  async function gitHubJson(url, options = {}) {
+    const response = await fetch(url, options);
+    const text = await response.text();
+    let payload = {};
+    try { payload = text ? JSON.parse(text) : {}; } catch (error) { payload = {}; }
+    if (!response.ok) throw new Error(payload.message || `GitHub 请求失败：${response.status}`);
+    return payload;
+  }
+
+  async function publishStudentData() {
+    const token = dom.studentPublishToken.value.trim();
+    const repo = dom.studentPublishRepo.value.trim();
+    const branch = dom.studentPublishBranch.value.trim() || "main";
+    if (!token) {
+      setStudentPublishStatus("请先填写 GitHub Token，或使用“下载学生数据”手动替换。", "error");
+      return;
+    }
+    if (!/^[^/]+\/[^/]+$/.test(repo)) {
+      setStudentPublishStatus("仓库格式应为 owner/repository。", "error");
+      return;
+    }
+    dom.publishStudentDataButton.disabled = true;
+    setStudentPublishStatus("正在发布到 GitHub Pages…");
+    try {
+      const payload = buildStudentPayload();
+      const path = "student-data.json";
+      const headers = {
+        "Authorization": `Bearer ${token}`,
+        "Accept": "application/vnd.github+json",
+        "X-GitHub-Api-Version": "2022-11-28"
+      };
+      let sha = "";
+      const getResponse = await fetch(`https://api.github.com/repos/${repo}/contents/${path}?ref=${encodeURIComponent(branch)}`, { headers });
+      if (getResponse.status === 200) {
+        sha = (await getResponse.json()).sha || "";
+      } else if (getResponse.status !== 404) {
+        const errorBody = await getResponse.json().catch(() => ({}));
+        throw new Error(errorBody.message || `读取 GitHub 文件失败：${getResponse.status}`);
+      }
+      await gitHubJson(`https://api.github.com/repos/${repo}/contents/${path}`, {
+        method: "PUT",
+        headers: { ...headers, "Content-Type": "application/json" },
+        body: JSON.stringify({
+          message: `发布学生复习词库 ${new Date().toLocaleString("zh-CN")}`,
+          content: encodeBase64Utf8(JSON.stringify(payload, null, 2)),
+          branch,
+          ...(sha ? { sha } : {})
+        })
+      });
+      localStorage.setItem("wordMemoryCoach.studentRepo.v1", repo);
+      localStorage.setItem("wordMemoryCoach.studentBranch.v1", branch);
+      if (dom.studentPublishRememberToken.checked) localStorage.setItem("wordMemoryCoach.studentToken.v1", token);
+      else localStorage.removeItem("wordMemoryCoach.studentToken.v1");
+      const url = studentPageUrlFromRepo(repo);
+      dom.studentPageUrlPreview.textContent = url;
+      setStudentPublishStatus(`发布成功。GitHub Pages 更新完成后，学生可打开：${url}`, "success");
+    } catch (error) {
+      setStudentPublishStatus(`发布失败：${error.message}`, "error");
+    } finally {
+      dom.publishStudentDataButton.disabled = false;
     }
   }
 

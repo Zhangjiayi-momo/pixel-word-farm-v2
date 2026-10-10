@@ -1,0 +1,49 @@
+name: 部署学生复习版
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'student.html'
+      - 'student.css'
+      - 'student.js'
+      - 'student-data.json'
+      - '.github/workflows/pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 配置 GitHub Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - name: 准备学生版静态文件
+        run: |
+          mkdir -p _site
+          cp student.html student.css student.js student-data.json .nojekyll _site/
+      - name: 上传 Pages 文件
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: 部署
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,635 @@
+{
+  "version": 1,
+  "title": "像素词汇农场",
+  "updatedAt": "2026-10-10T18:10:03+08:00",
+  "activeBankId": "seed",
+  "banks": [
+    {
+      "id": "seed",
+      "label": "种子词库 · 10-10",
+      "date": "2026-10-10",
+      "words": [
+        {
+          "id": "field",
+          "day": 1,
+          "word": "field",
+          "phonetic": "/fiːld/",
+          "part": "n.",
+          "meaning": "田地；场地；领域",
+          "hook": "field 读音像“肥的”——田地肥沃（肥的），就是 field。",
+          "logic": "先把“肥的”绑定到读音，再从“肥沃的土地”扩展到场地、领域。",
+          "derivatives": [
+            [
+              "fieldwork",
+              "实地调查；野外工作"
+            ],
+            [
+              "battlefield",
+              "战场"
+            ]
+          ],
+          "phrases": [
+            "in the field of 在……领域",
+            "field trip 实地考察"
+          ]
+        },
+        {
+          "id": "manage",
+          "day": 1,
+          "word": "manage",
+          "phonetic": "/ˈmænɪdʒ/",
+          "part": "v.",
+          "meaning": "管理；设法做到",
+          "hook": "马（ma）拉着你（ni）挤（ge）着走，马群需要 manage。",
+          "logic": "读音拆成 ma-ni-ge，用“管住挤作一团的马”连接“管理”。",
+          "derivatives": [
+            [
+              "manager",
+              "管理者；经理"
+            ],
+            [
+              "management",
+              "管理"
+            ],
+            [
+              "manageable",
+              "可管理的"
+            ]
+          ],
+          "phrases": [
+            "manage a company 管理公司",
+            "manage to do 设法做到"
+          ]
+        },
+        {
+          "id": "candidate",
+          "day": 1,
+          "word": "candidate",
+          "phonetic": "/ˈkændɪdət/",
+          "part": "n.",
+          "meaning": "候选人；报考者",
+          "hook": "简历上写：我能（can）、我做过（did）、我愿吃苦（ate）——候选人。",
+          "logic": "把 can + did + ate 作为词形记忆锚点，三个片段按顺序出现。",
+          "derivatives": [
+            [
+              "candidacy",
+              "候选资格"
+            ],
+            [
+              "candidates",
+              "候选人（复数）"
+            ]
+          ],
+          "phrases": [
+            "a candidate for ……的候选人",
+            "presidential candidate 总统候选人"
+          ]
+        },
+        {
+          "id": "combine",
+          "day": 1,
+          "word": "combine",
+          "phonetic": "/kəmˈbaɪn/",
+          "part": "v.",
+          "meaning": "使联合；结合",
+          "hook": "com 表示“共同”，bind 表示“绑”——共同绑在一起，就是 combine。",
+          "logic": "用 com-（共同）和 bind（绑）建立词根联系，比纯谐音更稳。",
+          "derivatives": [
+            [
+              "combination",
+              "结合；组合"
+            ],
+            [
+              "combined",
+              "联合的"
+            ]
+          ],
+          "phrases": [
+            "combine A with B 把 A 与 B 结合",
+            "combined efforts 共同努力"
+          ]
+        },
+        {
+          "id": "pleasure",
+          "day": 2,
+          "word": "pleasure",
+          "phonetic": "/ˈpleʒə(r)/",
+          "part": "n.",
+          "meaning": "愉快；令人高兴的事",
+          "hook": "please 让“你”开心，pleasure 就是那份愉快。",
+          "logic": "从熟悉的 please 切到 pleasure，读音接近，词义也自然相连。",
+          "derivatives": [
+            [
+              "pleasant",
+              "令人愉快的"
+            ],
+            [
+              "pleased",
+              "感到高兴的"
+            ]
+          ],
+          "phrases": [
+            "with pleasure 乐意地",
+            "take pleasure in 从……中获得乐趣"
+          ]
+        },
+        {
+          "id": "analyze",
+          "day": 2,
+          "word": "analyze",
+          "phonetic": "/ˈænəlaɪz/",
+          "part": "v.",
+          "meaning": "分析",
+          "hook": "安娜（ana）把问题拆开看（lyze），这就是 analyze。",
+          "logic": "读音拆为 ana-lyze，把“拆开问题”的动作固定在单词上。",
+          "derivatives": [
+            [
+              "analysis",
+              "分析；分析报告"
+            ],
+            [
+              "analyst",
+              "分析师"
+            ],
+            [
+              "analytical",
+              "分析的"
+            ]
+          ],
+          "phrases": [
+            "analyze data 分析数据",
+            "analyze the causes 分析原因"
+          ]
+        },
+        {
+          "id": "welfare",
+          "day": 2,
+          "word": "welfare",
+          "phonetic": "/ˈwelfeə(r)/",
+          "part": "n.",
+          "meaning": "福利；幸福；安宁",
+          "hook": "well（好）+ fare（生活）——好生活就是 welfare。",
+          "logic": "一眼拆出 well + fare，词义几乎不需要额外解释。",
+          "derivatives": [
+            [
+              "welfare state",
+              "福利国家"
+            ],
+            [
+              "social welfare",
+              "社会福利"
+            ]
+          ],
+          "phrases": [
+            "child welfare 儿童福利",
+            "welfare benefits 福利待遇"
+          ]
+        },
+        {
+          "id": "escape",
+          "day": 2,
+          "word": "escape",
+          "phonetic": "/ɪˈskeɪp/",
+          "part": "v. & n.",
+          "meaning": "逃跑；逃脱；逃避",
+          "hook": "披上 cape（披风），迅速 e-s-cape——逃离现场。",
+          "logic": "把 cape 固定为画面中心，前面的 es- 只负责把音节接到读音上。",
+          "derivatives": [
+            [
+              "escapee",
+              "逃脱者"
+            ],
+            [
+              "escapism",
+              "逃避现实"
+            ]
+          ],
+          "phrases": [
+            "escape from 从……逃出",
+            "a narrow escape 侥幸脱险"
+          ]
+        },
+        {
+          "id": "hostess",
+          "day": 3,
+          "word": "hostess",
+          "phonetic": "/ˈhəʊstəs/",
+          "part": "n.",
+          "meaning": "女主人；女主持人",
+          "hook": "host 是主人，-ess 常表示女性：女主人就是 hostess。",
+          "logic": "先记 host 和女性后缀 -ess，再迁移到女主持人的含义。",
+          "derivatives": [
+            [
+              "host",
+              "主人；主持"
+            ],
+            [
+              "hosting",
+              "主持；主办"
+            ]
+          ],
+          "phrases": [
+            "air hostess 空乘人员",
+            "wedding hostess 婚礼女主持"
+          ]
+        },
+        {
+          "id": "explore",
+          "day": 3,
+          "word": "explore",
+          "phonetic": "/ɪkˈsplɔː(r)/",
+          "part": "v.",
+          "meaning": "探究；探索",
+          "hook": "ex- 是“向外”，离开熟悉的区域去寻找，就是 explore。",
+          "logic": "用 ex-（向外）建立方向感，再连接“向外探索”。",
+          "derivatives": [
+            [
+              "explorer",
+              "探险者"
+            ],
+            [
+              "exploration",
+              "探索"
+            ],
+            [
+              "exploratory",
+              "探索性的"
+            ]
+          ],
+          "phrases": [
+            "explore the world 探索世界",
+            "explore possibilities 探究可能性"
+          ]
+        },
+        {
+          "id": "companion",
+          "day": 3,
+          "word": "companion",
+          "phonetic": "/kəmˈpæniən/",
+          "part": "n.",
+          "meaning": "同伴；伴侣",
+          "hook": "company 里有陪伴，companion 就是陪你同行的人。",
+          "logic": "从 company 联想到“陪伴”，再把名词词尾 -ion 读顺。",
+          "derivatives": [
+            [
+              "company",
+              "陪伴；公司"
+            ],
+            [
+              "accompany",
+              "陪伴；伴随"
+            ]
+          ],
+          "phrases": [
+            "a faithful companion 忠实的伙伴",
+            "companion to ……的伙伴"
+          ]
+        },
+        {
+          "id": "direction",
+          "day": 3,
+          "word": "direction",
+          "phonetic": "/dəˈrekʃn/",
+          "part": "n.",
+          "meaning": "方向；用法说明",
+          "hook": "direct 是“指路”，加上 -ion 就变成“方向”。",
+          "logic": "direct + -ion，把动词“指向”转成名词“方向”。",
+          "derivatives": [
+            [
+              "direct",
+              "直接的；指导"
+            ],
+            [
+              "director",
+              "主管；导演"
+            ],
+            [
+              "directory",
+              "名录；目录"
+            ]
+          ],
+          "phrases": [
+            "in the direction of 朝……方向",
+            "follow directions 按照说明"
+          ]
+        },
+        {
+          "id": "quarrel",
+          "day": 4,
+          "word": "quarrel",
+          "phonetic": "/ˈkwɒrəl/",
+          "part": "n. & v.",
+          "meaning": "争吵；争论",
+          "hook": "quar 读音像“快啊”——两个人越吵越快，快啊快啊。",
+          "logic": "把“快啊”的口吻和争吵场面绑定，同时注意 qu 的组合发音。",
+          "derivatives": [
+            [
+              "quarrelsome",
+              "爱争吵的"
+            ],
+            [
+              "quarrelling",
+              "争吵（英式拼写）"
+            ]
+          ],
+          "phrases": [
+            "quarrel with sb 与某人争吵",
+            "quarrel about sth 为某事争吵"
+          ]
+        },
+        {
+          "id": "reasonable",
+          "day": 4,
+          "word": "reasonable",
+          "phonetic": "/ˈriːznəbl/",
+          "part": "adj.",
+          "meaning": "合理的；公道的；通情达理的",
+          "hook": "reason（理由）+ able（能够）——讲得出理由，就 reasonable。",
+          "logic": "拆词后把中文理解固定为“能讲道理、能讲得通”。",
+          "derivatives": [
+            [
+              "reason",
+              "理由；推理"
+            ],
+            [
+              "reasonably",
+              "合理地"
+            ],
+            [
+              "unreasonable",
+              "不合理的"
+            ]
+          ],
+          "phrases": [
+            "a reasonable price 公道价格",
+            "a reasonable explanation 合理解释"
+          ]
+        },
+        {
+          "id": "disappear",
+          "day": 4,
+          "word": "disappear",
+          "phonetic": "/ˌdɪsəˈpɪə(r)/",
+          "part": "v.",
+          "meaning": "消失；不复存在",
+          "hook": "dis- 是不/离开，appear 是出现——不再出现，就是 disappear。",
+          "logic": "用熟词 appear 加前缀 dis-，同时复习反义构词。",
+          "derivatives": [
+            [
+              "appear",
+              "出现"
+            ],
+            [
+              "appearance",
+              "外貌；出现"
+            ],
+            [
+              "disappearance",
+              "消失"
+            ]
+          ],
+          "phrases": [
+            "disappear from 从……消失",
+            "disappear without a trace 消失得无影无踪"
+          ]
+        },
+        {
+          "id": "touch",
+          "day": 4,
+          "word": "touch",
+          "phonetic": "/tʌtʃ/",
+          "part": "n. & v.",
+          "meaning": "触觉；触碰；接触；感动",
+          "hook": "touch 读音像“踏去”——伸手踏上去接触一下。",
+          "logic": "把“踏去/触到”的动作固定到读音，再扩展为“感动”。",
+          "derivatives": [
+            [
+              "touching",
+              "感人的"
+            ],
+            [
+              "touched",
+              "受感动的"
+            ],
+            [
+              "untouched",
+              "未受触动的"
+            ]
+          ],
+          "phrases": [
+            "get in touch with 与……联系",
+            "touch on 谈及"
+          ]
+        },
+        {
+          "id": "outstanding",
+          "day": 5,
+          "word": "outstanding",
+          "phonetic": "/aʊtˈstændɪŋ/",
+          "part": "adj.",
+          "meaning": "突出的；显著的",
+          "hook": "out（出）+ standing（站着）——站出来，特别显眼。",
+          "logic": "把 out + standing 字面化为“站在外面/站出来”，对应突出。",
+          "derivatives": [
+            [
+              "stand out",
+              "突出；显眼"
+            ],
+            [
+              "outstandingly",
+              "非常；显著地"
+            ]
+          ],
+          "phrases": [
+            "outstanding performance 出色表现",
+            "outstanding student 优秀学生"
+          ]
+        },
+        {
+          "id": "handsome",
+          "day": 5,
+          "word": "handsome",
+          "phonetic": "/ˈhænsəm/",
+          "part": "adj.",
+          "meaning": "英俊的",
+          "hook": "hand（手）+ some（一些）——手上有些本事，气场也很英俊。",
+          "logic": "用 hand + some 的熟悉词形拆分，注意 h 后只有一个音节。",
+          "derivatives": [
+            [
+              "handsomely",
+              "慷慨地；漂亮地"
+            ],
+            [
+              "handsomeness",
+              "英俊"
+            ]
+          ],
+          "phrases": [
+            "a handsome man 英俊的男子",
+            "a handsome sum 一笔可观的金额"
+          ]
+        },
+        {
+          "id": "rely",
+          "day": 5,
+          "word": "rely",
+          "phonetic": "/rɪˈlaɪ/",
+          "part": "v.",
+          "meaning": "信任；依靠",
+          "hook": "rely 读音像“瑞赖”——“赖”着你，就是依靠你。",
+          "logic": "用“赖着”绑定 rely on 的结构和“依靠”含义。",
+          "derivatives": [
+            [
+              "reliable",
+              "可靠的"
+            ],
+            [
+              "reliance",
+              "依赖"
+            ],
+            [
+              "reliant",
+              "依赖的"
+            ]
+          ],
+          "phrases": [
+            "rely on 依靠；信赖",
+            "heavily rely on 严重依赖"
+          ]
+        },
+        {
+          "id": "cure",
+          "day": 5,
+          "word": "cure",
+          "phonetic": "/kjʊə(r)/",
+          "part": "n. & v.",
+          "meaning": "治愈；疗法",
+          "hook": "cure 读音像“Q儿”——给病人一颗神奇 Q 糖，帮助他治愈。",
+          "logic": "把“Q 糖治愈”画面绑定读音，同时复习 cure sb of sth。",
+          "derivatives": [
+            [
+              "curable",
+              "可治愈的"
+            ],
+            [
+              "incurable",
+              "无法治愈的"
+            ],
+            [
+              "curative",
+              "有疗效的"
+            ]
+          ],
+          "phrases": [
+            "cure sb of sth 治好某人的病",
+            "a cure for ……的疗法"
+          ]
+        },
+        {
+          "id": "interest",
+          "day": 6,
+          "word": "interest",
+          "phonetic": "/ˈɪntrəst/",
+          "part": "n. & v.",
+          "meaning": "兴趣；使产生兴趣",
+          "hook": "inter（在……之间）+ rest（休息）——休息时聊得多，往往就是兴趣。",
+          "logic": "用 inter + rest 拆词，明确名词和动词两种用法。",
+          "derivatives": [
+            [
+              "interesting",
+              "有趣的"
+            ],
+            [
+              "interested",
+              "感兴趣的"
+            ]
+          ],
+          "phrases": [
+            "take an interest in 对……感兴趣",
+            "be interested in 对……感兴趣"
+          ]
+        },
+        {
+          "id": "puzzle",
+          "day": 6,
+          "word": "puzzle",
+          "phonetic": "/ˈpʌzl/",
+          "part": "n. & v.",
+          "meaning": "谜；难题；使迷惑",
+          "hook": "puzzle 读音像“扒走”——答案被人扒走了，只剩一个谜。",
+          "logic": "把“扒走答案”的场景和拼图/谜题绑定，注意双写 z。",
+          "derivatives": [
+            [
+              "puzzled",
+              "感到困惑的"
+            ],
+            [
+              "puzzling",
+              "令人费解的"
+            ],
+            [
+              "puzzlement",
+              "困惑"
+            ]
+          ],
+          "phrases": [
+            "puzzle over 苦苦思索",
+            "a jigsaw puzzle 拼图"
+          ]
+        },
+        {
+          "id": "wander",
+          "day": 6,
+          "word": "wander",
+          "phonetic": "/ˈwɒndə(r)/",
+          "part": "v.",
+          "meaning": "漫游；闲逛",
+          "hook": "wonder 是“想知道”，wander 像“边走边想”，于是到处闲逛。",
+          "logic": "用 wonder / wander 的最小对比记住拼写和词义差异。",
+          "derivatives": [
+            [
+              "wanderer",
+              "漫游者"
+            ],
+            [
+              "wandering",
+              "漫游；闲逛"
+            ]
+          ],
+          "phrases": [
+            "wander around 四处闲逛",
+            "wander off 走散；离题"
+          ]
+        },
+        {
+          "id": "determine",
+          "day": 6,
+          "word": "determine",
+          "phonetic": "/dɪˈtɜːmɪn/",
+          "part": "v.",
+          "meaning": "下决心；决定",
+          "hook": "de + term（期限）——给目标定下期限，人就会下决心。",
+          "logic": "抓住 term（期限）作为读音和词义中心，连接 determine to do。",
+          "derivatives": [
+            [
+              "determination",
+              "决心"
+            ],
+            [
+              "determined",
+              "坚决的"
+            ],
+            [
+              "predetermined",
+              "预先决定的"
+            ]
+          ],
+          "phrases": [
+            "determine to do 决定做某事",
+            "be determined to do 下定决心做某事"
+          ]
+        }
+      ]
+    }
+  ]
+}

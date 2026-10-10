@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#8ccf89">
+  <title>像素词汇农场 · 学生复习版</title>
+  <link rel="stylesheet" href="student.css">
+</head>
+<body>
+  <header class="student-header">
+    <div class="student-brand">
+      <span class="brand-mark" aria-hidden="true">⌂</span>
+      <div>
+        <strong>像素词汇农场</strong>
+        <span>学生随时复习版</span>
+      </div>
+    </div>
+    <div class="student-meta">
+      <span id="studentUpdated">正在读取词库…</span>
+      <a href="https://github.com/Zhangjiayi-momo/pixel-word-farm-v2" target="_blank" rel="noreferrer">课堂互动版</a>
+    </div>
+  </header>
+
+  <main class="student-shell">
+    <section class="student-toolbar">
+      <div id="dayTabs" class="day-tabs" aria-label="选择 Day"></div>
+      <nav id="studyTabs" class="study-tabs" aria-label="学习方式">
+        <button class="is-active" data-view="read" type="button">💧 读音浇灌</button>
+        <button data-view="understand" type="button">📖 理解施肥</button>
+      </nav>
+      <label class="search-box">
+        <span>搜索</span>
+        <input id="studentSearch" type="search" placeholder="输入单词或中文释义" autocomplete="off">
+      </label>
+    </section>
+
+    <section id="readView" class="student-view">
+      <div class="view-intro"><strong>听音跟读</strong><span>点击蓝色小喇叭，随时听单词读音。</span></div>
+      <div id="studentWordGrid" class="student-word-grid"></div>
+    </section>
+
+    <section id="understandView" class="student-view is-hidden">
+      <div class="view-intro"><strong>理解记忆</strong><span>释义、派生词、短语和例句都在这里。</span></div>
+      <div id="studentUnderstandingList" class="student-understanding-list"></div>
+    </section>
+
+    <div id="studentEmpty" class="student-empty is-hidden"></div>
+  </main>
+
+  <script src="student.js"></script>
+</body>
+</html>

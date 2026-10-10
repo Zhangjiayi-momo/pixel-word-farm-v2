@@ -1,6 +1,6 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Zhangjiayi-momo/pixel-word-farm-v2)
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https%3A%2F%2Fgithub.com%2FZhangjiayi-momo%2Fpixel-word-farm)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https%3A%2F%2Fgithub.com%2FZhangjiayi-momo%2Fpixel-word-farm-v2)
 
 # 像素词汇农场
 
@@ -232,5 +232,17 @@ powershell -ExecutionPolicy Bypass -File .\start-public-tunnel.ps1
 
 - 拼写补全：保留首尾字母，随机挖空内部字母，并显示词性和中文释义。
 - 单词-汉译连线：左侧单词使用 1、2、3、4 编号，右侧汉意打乱并使用 A、B、C、D 顺序编号，底部答题卡录入对应字母。
+## 学生永久复习版（GitHub Pages）
 
+教师完成当天词库导入或智能补全后，可以在左侧“单词种子”区域点击“发布学生版”，然后：
 
+- 使用“下载学生数据”导出 `student-data.json`，手动替换仓库根目录文件；
+- 或填写 GitHub Token，直接把当前全部 Day 词库发布到仓库。
+
+学生永久复习地址：
+
+```text
+https://zhangjiayi-momo.github.io/pixel-word-farm-v2/student.html
+```
+
+该页面不依赖 Codespaces，学生可以随时打开听发音、看释义、派生词和例句。课堂互动、默写和教师验收仍在 Codespaces 中进行。
