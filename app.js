@@ -977,31 +977,36 @@
         "Accept": "application/vnd.github+json",
         "X-GitHub-Api-Version": "2022-11-28"
       };
-      let sha = "";
-      const getResponse = await fetch(`https://api.github.com/repos/${repo}/contents/${path}?ref=${encodeURIComponent(branch)}`, { headers });
-      if (getResponse.status === 200) {
-        sha = (await getResponse.json()).sha || "";
-      } else if (getResponse.status !== 404) {
-        const errorBody = await getResponse.json().catch(() => ({}));
-        throw new Error(errorBody.message || `读取 GitHub 文件失败：${getResponse.status}`);
+      const targetBranches = repo === "Zhangjiayi-momo/pixel-word-farm-v2"
+        ? [...new Set([branch, "main", "gh-pages"])]
+        : [branch];
+      for (const targetBranch of targetBranches) {
+        let sha = "";
+        const getResponse = await fetch(`https://api.github.com/repos/${repo}/contents/${path}?ref=${encodeURIComponent(targetBranch)}`, { headers });
+        if (getResponse.status === 200) {
+          sha = (await getResponse.json()).sha || "";
+        } else if (getResponse.status !== 404) {
+          const errorBody = await getResponse.json().catch(() => ({}));
+          throw new Error(errorBody.message || `读取 ${targetBranch} 分支文件失败：${getResponse.status}`);
+        }
+        await gitHubJson(`https://api.github.com/repos/${repo}/contents/${path}`, {
+          method: "PUT",
+          headers: { ...headers, "Content-Type": "application/json" },
+          body: JSON.stringify({
+            message: `发布学生复习词库 ${new Date().toLocaleString("zh-CN")}`,
+            content: encodeBase64Utf8(JSON.stringify(payload, null, 2)),
+            branch: targetBranch,
+            ...(sha ? { sha } : {})
+          })
+        });
       }
-      await gitHubJson(`https://api.github.com/repos/${repo}/contents/${path}`, {
-        method: "PUT",
-        headers: { ...headers, "Content-Type": "application/json" },
-        body: JSON.stringify({
-          message: `发布学生复习词库 ${new Date().toLocaleString("zh-CN")}`,
-          content: encodeBase64Utf8(JSON.stringify(payload, null, 2)),
-          branch,
-          ...(sha ? { sha } : {})
-        })
-      });
       localStorage.setItem("wordMemoryCoach.studentRepo.v1", repo);
       localStorage.setItem("wordMemoryCoach.studentBranch.v1", branch);
       if (dom.studentPublishRememberToken.checked) localStorage.setItem("wordMemoryCoach.studentToken.v1", token);
       else localStorage.removeItem("wordMemoryCoach.studentToken.v1");
       const url = studentPageUrlFromRepo(repo);
       dom.studentPageUrlPreview.textContent = url;
-      setStudentPublishStatus(`发布成功。GitHub Pages 更新完成后，学生可打开：${url}`, "success");
+      setStudentPublishStatus(`发布成功。已同步 main 和 gh-pages，学生永久链接：${url}`, "success");
     } catch (error) {
       setStudentPublishStatus(`发布失败：${error.message}`, "error");
     } finally {
