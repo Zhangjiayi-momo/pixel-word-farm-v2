@@ -487,29 +487,60 @@
     }
   }
 
+  async function readJsonResponse(response) {
+    const text = await response.text();
+    if (!text.trim()) {
+      throw new Error(`服务器返回为空（HTTP ${response.status}），Codespace 可能正在重启，请稍后重试。`);
+    }
+    try {
+      return JSON.parse(text);
+    } catch (error) {
+      throw new Error(`服务器返回异常（HTTP ${response.status}），请稍后重试。`);
+    }
+  }
+
+  function isRetryableRequestError(error) {
+    return error?.name === "TypeError" || /为空|Failed to fetch|NetworkError|network|超时|JSON input|response/i.test(String(error?.message || ""));
+  }
+
+  async function fetchJson(url, options = {}, retries = 0) {
+    let lastError = null;
+    for (let attempt = 0; attempt <= retries; attempt += 1) {
+      try {
+        const response = await fetch(url, options);
+        const result = await readJsonResponse(response);
+        if (!response.ok || result?.ok === false) {
+          throw new Error(result?.error || `请求失败：${response.status}`);
+        }
+        return result;
+      } catch (error) {
+        lastError = error;
+        if (attempt >= retries || !isRetryableRequestError(error)) throw error;
+        await new Promise((resolve) => window.setTimeout(resolve, 600 * (attempt + 1)));
+      }
+    }
+    throw lastError || new Error("请求失败");
+  }
+
   async function requestState(sinceVersion = null) {
     let url = `/api/state?room=${encodeURIComponent(session.room)}`;
     if (Number.isInteger(sinceVersion)) url += `&since=${encodeURIComponent(sinceVersion)}`;
-    const response = await fetch(url, { cache: "no-store" });
-    if (!response.ok) throw new Error(`状态请求失败：${response.status}`);
-    const payload = await response.json();
+    const payload = await fetchJson(url, { cache: "no-store" });
     if (Number.isInteger(sinceVersion) && payload.changed === false) return null;
     return payload.state || payload;
   }
 
-  async function sendAction(action, payload, rerender = true) {
+  async function sendAction(action, payload, rerender = true, options = {}) {
     if (session.offline) {
       applyOfflineAction(action, payload);
       if (rerender) renderAll();
       return { ok: true };
     }
-    const response = await fetch("/api/action", {
+    const result = await fetchJson("/api/action", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ room: session.room, role: session.role, clientId: session.clientId, action, payload: payload || {} })
-    });
-    const result = await response.json();
-    if (!response.ok || !result.ok) throw new Error(result.error || "操作失败");
+    }, options.retries || 0);
     session.state = result.state;
     if (rerender) renderAll();
     return result;
@@ -1862,7 +1893,7 @@
         if (token === session.enrichmentToken) dom.enrichCurrentWordsButton.textContent = `智能补全 ${end}/${total}`;
       });
       if (token !== session.enrichmentToken || session.state?.batchName !== batchName) return;
-      await sendAction("mergeEnrichment", { words: enriched, batchName }, false);
+      await sendAction("mergeEnrichment", { words: enriched, batchName }, false, { retries: 1 });
       if (token !== session.enrichmentToken) return;
       renderAll();
       dom.enrichCurrentWordsButton.textContent = "补全完成";
@@ -1892,14 +1923,12 @@
       const end = Math.min(start + chunk.length, words.length);
       dom.uploadPreview.textContent = `正在联网补充 ${start + 1}–${end} / ${words.length}……`;
       if (typeof onProgress === "function") onProgress(start + 1, end, words.length);
-      const response = await fetch("/api/enrich-batch", {
+      const result = await fetchJson("/api/enrich-batch", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ role: "teacher", clientId: session.clientId, words: chunk })
-      });
-      if (!response.ok) throw new Error(`在线补全请求失败：${response.status}`);
-      const result = await response.json();
-      if (!result.ok || !Array.isArray(result.words)) throw new Error(result.error || "在线补全失败");
+      }, 1);
+      if (!Array.isArray(result.words)) throw new Error(result.error || "在线补全失败");
       enriched.push(...result.words);
     }
     const reviewCount = enriched.filter((word) => word.enrichment && word.enrichment.needsReview).length;
@@ -1913,7 +1942,7 @@
         if (token === session.enrichmentToken) dom.enrichCurrentWordsButton.textContent = `后台补全 ${end}/${total}`;
       });
       if (token !== session.enrichmentToken || session.state?.batchName !== batchName) return;
-      await sendAction("mergeEnrichment", { words: enriched, batchName }, false);
+      await sendAction("mergeEnrichment", { words: enriched, batchName }, false, { retries: 1 });
       if (token !== session.enrichmentToken) return;
       renderAll();
       dom.enrichCurrentWordsButton.textContent = "智能补全完成";
@@ -1941,7 +1970,7 @@
       const token = session.enrichmentToken + 1;
       session.enrichmentToken = token;
       const originalText = "智能补全当前词库";
-      await sendAction("replaceWords", { words, batchName }, false);
+      await sendAction("replaceWords", { words, batchName }, false, { retries: 1 });
       dom.uploadDialog.close();
       renderAll();
       if (shouldEnrich) {
