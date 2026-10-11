@@ -1,6 +1,6 @@
 (function () {
   "use strict";
-  const state = { data: null, activeBankId: "", view: "read", query: "" };
+  const state = { data: null, activeBankId: "", view: "read", query: "", limit: 60 };
   const $ = (id) => document.getElementById(id);
 
   function escapeHtml(value) {
@@ -44,8 +44,14 @@
     $("dayTabs").innerHTML = banks.map((bank) => `<button type="button" class="${bank.id === state.activeBankId ? "is-active" : ""}" data-bank-id="${escapeHtml(bank.id)}">${escapeHtml(bank.label || bank.id)}</button>`).join("");
   }
 
+  function loadMoreButton(total, type) {
+    if (total <= state.limit) return "";
+    return `<button class="student-load-more" type="button" data-load-more="${type}">继续加载（已显示 ${state.limit} / ${total}）</button>`;
+  }
+
   function renderRead() {
-    const words = visibleWords();
+    const allWords = visibleWords();
+    const words = allWords.slice(0, state.limit);
     $("studentWordGrid").innerHTML = words.map((word) => `
       <article class="student-word-card">
         <strong>${escapeHtml(word.word)}</strong>
@@ -53,11 +59,12 @@
         <p>${escapeHtml(word.part || "")} ${escapeHtml(word.meaning || "")}</p>
         <button class="student-speaker" type="button" data-speak="${escapeHtml(word.word)}" aria-label="播放 ${escapeHtml(word.word)}">🔊</button>
       </article>
-    `).join("");
+    `).join("") + loadMoreButton(allWords.length, "read");
   }
 
   function renderUnderstand() {
-    const words = visibleWords();
+    const allWords = visibleWords();
+    const words = allWords.slice(0, state.limit);
     $("studentUnderstandingList").innerHTML = words.map((word) => {
       const derivatives = (word.derivatives || []).map((item) => {
         const name = Array.isArray(item) ? item[0] : item;
@@ -78,7 +85,7 @@
           <section><h3>单词例句</h3><p>${escapeHtml(word.example || "暂无例句")}</p>${word.exampleTranslation ? `<span>${escapeHtml(word.exampleTranslation)}</span>` : ""}</section>
         </div>
       </article>`;
-    }).join("");
+    }).join("") + loadMoreButton(allWords.length, "understand");
   }
 
   function render() {
@@ -108,12 +115,20 @@
     const bankButton = event.target.closest("[data-bank-id]");
     if (bankButton) {
       state.activeBankId = bankButton.dataset.bankId;
+      state.limit = 60;
+      render();
+      return;
+    }
+    const moreButton = event.target.closest("[data-load-more]");
+    if (moreButton) {
+      state.limit += 60;
       render();
       return;
     }
     const viewButton = event.target.closest("[data-view]");
     if (viewButton) {
       state.view = viewButton.dataset.view;
+      state.limit = 60;
       document.querySelectorAll("[data-view]").forEach((button) => button.classList.toggle("is-active", button === viewButton));
       render();
     }
@@ -122,6 +137,7 @@
   document.addEventListener("input", (event) => {
     if (event.target.id !== "studentSearch") return;
     state.query = event.target.value;
+    state.limit = 60;
     render();
   });
 

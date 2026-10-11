@@ -124,3 +124,16 @@ body::after {
 .student-understand-card { background: rgba(255,248,218,.95); }
 .student-grid section { background: rgba(255,252,233,.68); }
 .student-empty { background: rgba(255,247,211,.92); }
+.student-load-more {
+  grid-column: 1 / -1;
+  width: min(420px, 100%);
+  margin: 4px auto 0;
+  padding: 12px 18px;
+  color: #fff8df;
+  background: linear-gradient(180deg, #55a76a, #347b4b);
+  border: 3px solid #275c37;
+  box-shadow: 0 4px 0 #1f472d;
+  font-family: Consolas, monospace;
+  font-weight: 800;
+}
+.student-load-more:hover { transform: translateY(-2px); }
