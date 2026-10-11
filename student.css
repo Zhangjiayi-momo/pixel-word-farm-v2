@@ -52,3 +52,81 @@ button { cursor: pointer; }
 .student-footer-note { margin-top: 18px; color: #6b4b35; font-size: 11px; text-align: center; }
 @media (max-width: 900px) { .student-toolbar { grid-template-columns: 1fr; } .student-grid { grid-template-columns: 1fr; } }
 @media (max-width: 560px) { .student-header { align-items: flex-start; flex-direction: column; } .student-meta { width: 100%; justify-content: space-between; } .student-word-grid { grid-template-columns: 1fr; } }
+/* 农场图背景与高质量卡片层次 */
+html { background: #f4dfaa; }
+body {
+  position: relative;
+  background: transparent;
+}
+body::before {
+  content: "";
+  position: fixed;
+  z-index: 0;
+  inset: -12px;
+  pointer-events: none;
+  background: url("assets/student-bg.jpg") center / cover no-repeat;
+  filter: blur(2.8px) saturate(.94) brightness(1.03);
+  transform: scale(1.03);
+}
+body::after {
+  content: "";
+  position: fixed;
+  z-index: 1;
+  inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(180deg, rgba(255,244,201,.18) 0%, rgba(255,249,222,.48) 48%, rgba(255,246,205,.66) 100%),
+    radial-gradient(circle at 50% 35%, rgba(255,255,225,.16), transparent 58%);
+}
+.student-header,
+.student-shell { position: relative; z-index: 2; }
+.student-header {
+  background: rgba(255,244,199,.88);
+  backdrop-filter: blur(12px) saturate(.95);
+  box-shadow: 0 5px 0 rgba(83,45,29,.2), 0 10px 28px rgba(111,68,34,.12);
+}
+.student-toolbar {
+  padding: 12px;
+  background: rgba(255,248,218,.78);
+  border: 3px solid rgba(107,57,40,.88);
+  box-shadow: 0 0 0 3px rgba(255,239,174,.55), 8px 8px 0 rgba(83,45,29,.16);
+  backdrop-filter: blur(10px) saturate(.96);
+}
+.day-tabs button,
+.study-tabs button {
+  background: rgba(255,244,198,.95);
+  backdrop-filter: blur(7px);
+}
+.day-tabs button.is-active,
+.study-tabs button.is-active {
+  color: #fff8df;
+  background: linear-gradient(180deg, #52a56a, #347b4b);
+}
+.search-box input {
+  background: rgba(255,249,226,.97);
+  backdrop-filter: blur(7px);
+}
+.view-intro {
+  background: rgba(255,247,211,.87);
+  border-color: rgba(107,57,40,.88);
+  backdrop-filter: blur(10px) saturate(.96);
+  box-shadow: 0 0 0 3px rgba(255,237,166,.58), 7px 7px 0 rgba(83,45,29,.2);
+}
+.student-word-card,
+.student-understand-card {
+  background: rgba(255,247,213,.93);
+  backdrop-filter: blur(9px) saturate(.96);
+  border-color: rgba(107,57,40,.92);
+  box-shadow: 0 0 0 3px rgba(255,230,147,.76), 7px 7px 0 rgba(83,45,29,.2), inset 0 0 0 3px rgba(255,255,255,.35);
+}
+.student-word-card {
+  transition: transform .16s ease, box-shadow .16s ease, background .16s ease;
+}
+.student-word-card:hover {
+  transform: translateY(-3px);
+  background: rgba(255,249,222,.98);
+  box-shadow: 0 0 0 3px rgba(255,229,133,.88), 10px 11px 0 rgba(83,45,29,.22), inset 0 0 0 3px rgba(255,255,255,.42);
+}
+.student-understand-card { background: rgba(255,248,218,.95); }
+.student-grid section { background: rgba(255,252,233,.68); backdrop-filter: blur(5px); }
+.student-empty { background: rgba(255,247,211,.92); backdrop-filter: blur(8px); }
