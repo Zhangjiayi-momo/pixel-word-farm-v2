@@ -1,7 +1,7 @@
 {
   "version": 1,
   "title": "像素词汇农场",
-  "updatedAt": "2026-10-11T10:47:17+00:00",
+  "updatedAt": "2026-10-11T14:36:55+00:00",
   "activeBankId": "day-1",
   "banks": [
     {
@@ -32402,6 +32402,1444 @@
             "needsReview": true,
             "verifiedExampleCount": 1,
             "phraseCount": 1
+          },
+          "enriched": true
+        }
+      ]
+    },
+    {
+      "id": "day-9",
+      "label": "Day9 · 10-11 · 20 词",
+      "date": "2026-10-11",
+      "words": [
+        {
+          "id": "peaceful",
+          "day": 9,
+          "word": "peaceful",
+          "phonetic": "/ˈpiːsfəl/",
+          "part": "adj.",
+          "meaning": "和平的；平静的",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "peaceable",
+              "和平的；平静的；温顺的"
+            ],
+            [
+              "peacekeeping",
+              "维护和平的；执行停火协定的"
+            ],
+            [
+              "peacenik",
+              "反战分子的；和平主义者的"
+            ],
+            [
+              "peacetime",
+              "平时的；和平时期的"
+            ],
+            [
+              "peacefully",
+              "平静地"
+            ],
+            [
+              "peaceably",
+              "和平地；温和地"
+            ],
+            [
+              "peace",
+              "和平；平静；和睦；秩序"
+            ],
+            [
+              "peacefulness",
+              "平静；温和"
+            ]
+          ],
+          "phrases": [
+            "peaceful reunification",
+            "peaceful coexistence",
+            "peaceful life",
+            "peaceful use"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "peaceful reunification",
+              "meaning": "和平统一",
+              "example": "",
+              "translation": "",
+              "source": ""
+            },
+            {
+              "phrase": "peaceful coexistence",
+              "meaning": "和平共处",
+              "example": "The first one is peaceful coexistence. It is the prerequisite for cooperation.",
+              "translation": "第一，和平共处是前提。",
+              "source": ""
+            },
+            {
+              "phrase": "peaceful life",
+              "meaning": "安宁平静的生活",
+              "example": "I am hungry for a peaceful life.",
+              "translation": "我渴望过平静的生活。",
+              "source": ""
+            },
+            {
+              "phrase": "peaceful use",
+              "meaning": "和平利用",
+              "example": "To ensure peaceful use of outer space is in the common interest of humankind.",
+              "translation": "确保外空和平利用符合全人类的共同利益。",
+              "source": ""
+            }
+          ],
+          "example": "The first one is peaceful coexistence. It is the prerequisite for cooperation.",
+          "exampleTranslation": "第一，和平共处是前提。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 3,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "pale",
+          "day": 9,
+          "word": "pale",
+          "phonetic": "/ˈpeɪl/",
+          "part": "adj.",
+          "meaning": "苍白的；无力的",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "palely",
+              "苍白地；淡色地；青青地"
+            ],
+            [
+              "paleness",
+              "苍白；淡薄；变青"
+            ]
+          ],
+          "phrases": [
+            "pale yellow",
+            "turn pale",
+            "pale green",
+            "in pale"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "pale yellow",
+              "meaning": "adj. 淡黄色，浅黄色",
+              "example": "The walls were covered with a pale yellow wash.",
+              "translation": "墙壁刷了一层薄的浅黄色涂料。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "turn pale",
+              "meaning": "变得苍白（脸色）",
+              "example": "Mary caught her breath in a short gasp and felt herself turn pale.",
+              "translation": "玛丽吓得屏住呼吸，差点喘不过气来，感到自己的脸色都变白了。",
+              "source": ""
+            },
+            {
+              "phrase": "pale green",
+              "meaning": "淡绿，浅绿",
+              "example": "They wear brown or pale green coats with many sticks up.",
+              "translation": "他们穿着棕色或淡绿色的外套，上面有许多凸起的饰条。",
+              "source": ""
+            },
+            {
+              "phrase": "in pale",
+              "meaning": "(纹章图案)一个竖置于另一个之上的；(单图案)竖置于中部的",
+              "example": "The bedroom was decorated in pale pinks.",
+              "translation": "卧室涂成了淡粉红色。",
+              "source": "《牛津词典》"
+            }
+          ],
+          "example": "The walls were covered with a pale yellow wash.",
+          "exampleTranslation": "墙壁刷了一层薄的浅黄色涂料。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "assumption",
+          "day": 9,
+          "word": "assumption",
+          "phonetic": "/əˈsʌmpʃən/",
+          "part": "n.",
+          "meaning": "假定，假设",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "assumed",
+              "假定的；假装的"
+            ],
+            [
+              "assume",
+              "装腔作势；多管闲事"
+            ]
+          ],
+          "phrases": [
+            "on the assumption that",
+            "fundamental assumption"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "on the assumption that",
+              "meaning": "假设",
+              "example": "We are working on the assumption that it was a gas explosion.",
+              "translation": "我们正依据它是一起燃气爆炸的假设而行动。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "fundamental assumption",
+              "meaning": "n. 基本假定",
+              "example": "The \"logic\" of this interpretation of the hypothetical experiment rests on a fundamental assumption.",
+              "translation": "对该假想实验的这种解释的“逻辑”，建立在一个基本假设上。",
+              "source": ""
+            }
+          ],
+          "example": "We are working on the assumption that it was a gas explosion.",
+          "exampleTranslation": "我们正依据它是一起燃气爆炸的假设而行动。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 2,
+            "phraseCount": 2
+          },
+          "enriched": true
+        },
+        {
+          "id": "typewriter",
+          "day": 9,
+          "word": "typewriter",
+          "phonetic": "/ˈtaɪpraɪtər/",
+          "part": "n.",
+          "meaning": "打字机",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "typewritten",
+              "用打字机打出的，打字的"
+            ],
+            [
+              "type",
+              "类型，品种；模范；样式"
+            ],
+            [
+              "typeface",
+              "字型；铅字样；打字机字体"
+            ],
+            [
+              "typescript",
+              "打字文件"
+            ],
+            [
+              "typesetter",
+              "排字工人，排字机"
+            ],
+            [
+              "typewriting",
+              "打字；打字稿；打字工作"
+            ],
+            [
+              "typewrite",
+              "打字"
+            ]
+          ],
+          "phrases": [
+            "typewriter ribbon"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "typewriter ribbon",
+              "meaning": "打字带；打字机色带",
+              "example": "Did you get me a typewriter ribbon?",
+              "translation": "你给我买了打字机的色带吗？",
+              "source": ""
+            }
+          ],
+          "example": "Did you get me a typewriter ribbon?",
+          "exampleTranslation": "你给我买了打字机的色带吗？",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 1,
+            "phraseCount": 1
+          },
+          "enriched": true
+        },
+        {
+          "id": "concentrate",
+          "day": 9,
+          "word": "concentrate",
+          "phonetic": "/ˈkɑnsəntreɪt/",
+          "part": "n.",
+          "meaning": "集中；专注于",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "concentre",
+              "集中于一点"
+            ]
+          ],
+          "phrases": [
+            "concentrate on",
+            "copper concentrate",
+            "ore concentrate",
+            "zinc concentrate"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "concentrate on",
+              "meaning": "集中精力于；全神贯注于",
+              "example": "We need to concentrate on our core business.",
+              "translation": "我们需要集中在核心业务上。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "copper concentrate",
+              "meaning": "铜精矿",
+              "example": "The loss of tin in the sulphide copper concentrate was less than 4%.",
+              "translation": "同时锡在铜精矿中的损失也不到4%。",
+              "source": ""
+            },
+            {
+              "phrase": "ore concentrate",
+              "meaning": "精矿",
+              "example": "Cold back to mine the ore concentrate into specialized chutes, feeder by the disk will be returned to the ore unloading machine belt.",
+              "translation": "冷返矿集中到专门的矿槽，由圆盘给料机将返矿卸到皮带机上。",
+              "source": ""
+            },
+            {
+              "phrase": "zinc concentrate",
+              "meaning": "锌精矿；精炼锌",
+              "example": "Typically, a zinc concentrate contains about 55% of zinc with some copper, lead and iron.",
+              "translation": "一般而言，锌精矿含有大约55%锌和一些铜、铅和铁。",
+              "source": ""
+            }
+          ],
+          "example": "We need to concentrate on our core business.",
+          "exampleTranslation": "我们需要集中在核心业务上。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "several",
+          "day": 9,
+          "word": "several",
+          "phonetic": "/ˈsevrəl/",
+          "part": "adj.",
+          "meaning": "几个",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "severally",
+              "各自地；分别地；分开地"
+            ]
+          ],
+          "phrases": [
+            "in several",
+            "several times",
+            "several people",
+            "several liability"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "in several",
+              "meaning": "adv. 分别地；各个地",
+              "example": "You can customize the software in several ways.",
+              "translation": "你可用几种方法按需要编制这个软件。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "several times",
+              "meaning": "几次",
+              "example": "I was delirious and blacked out several times.",
+              "translation": "我当时神志不清，几次昏过去。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "several people",
+              "meaning": "几个人",
+              "example": "Several people nodded in approval.",
+              "translation": "好几个人点头表示同意。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "several liability",
+              "meaning": "连带责任；个别责任",
+              "example": "Joint act of tort incurs joint and several liability based on the combination of joint offence and joint act.",
+              "translation": "共同侵权行为产生连带责任，其基础在于共同过错和共同行为的结合。",
+              "source": ""
+            }
+          ],
+          "example": "You can customize the software in several ways.",
+          "exampleTranslation": "你可用几种方法按需要编制这个软件。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "bitter",
+          "day": 9,
+          "word": "bitter",
+          "phonetic": "/ˈbɪtər/",
+          "part": "adj.",
+          "meaning": "苦味的；痛苦的",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "bitterish",
+              "稍苦的；带苦味的"
+            ],
+            [
+              "bitterly",
+              "苦涩地，悲痛的；残酷地；怨恨地"
+            ],
+            [
+              "bitterness",
+              "苦味；苦难；怨恨"
+            ],
+            [
+              "bitters",
+              "苦味剂；苦味药；苦味补药"
+            ]
+          ],
+          "phrases": [
+            "bitter taste",
+            "bitter cold",
+            "bitter gourd",
+            "bitter pill"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "bitter taste",
+              "meaning": "味苦，苦味",
+              "example": "He grimaced at the bitter taste.",
+              "translation": "他一尝那苦味，做了个怪相。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "bitter cold",
+              "meaning": "严寒",
+              "example": "On Wednesday, a polar wind brought bitter cold to the Midwest.",
+              "translation": "周三，一股极地风给中西部地区带来了刺骨的严寒。",
+              "source": ""
+            },
+            {
+              "phrase": "bitter gourd",
+              "meaning": "苦瓜，苦味葫芦",
+              "example": "Take this bitter gourd along.",
+              "translation": "把这个苦瓜带走。",
+              "source": ""
+            },
+            {
+              "phrase": "bitter pill",
+              "meaning": "困恼；苦涩的药丸",
+              "example": "It is worth noting that climate change is not a bitter pill only for the poor to swallow.",
+              "translation": "值得注意的是，气候变化不是仅有穷人才会面临的严酷现实。",
+              "source": ""
+            }
+          ],
+          "example": "He grimaced at the bitter taste.",
+          "exampleTranslation": "他一尝那苦味，做了个怪相。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "reason",
+          "day": 9,
+          "word": "reason",
+          "phonetic": "/ˈriːzən/",
+          "part": "n.",
+          "meaning": "原因，理由 (v.)推论；辩论",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "reasonable",
+              "合理的，公道的；通情达理的"
+            ],
+            [
+              "reasoning",
+              "推理的"
+            ],
+            [
+              "reasoned",
+              "详尽论述的；理由充分的；合乎逻辑的"
+            ],
+            [
+              "reasonless",
+              "不合理的；不理智的，无理性的；无推理能力的"
+            ],
+            [
+              "reasonably",
+              "合理地；相当地；适度地"
+            ],
+            [
+              "reasonableness",
+              "合理；妥当"
+            ]
+          ],
+          "phrases": [
+            "reason for",
+            "main reason",
+            "for this reason",
+            "no reason"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "reason for",
+              "meaning": "原因，理由",
+              "example": "This was the real reason for her call.",
+              "translation": "这是她打电话的真实原因。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "main reason",
+              "meaning": "主要原因",
+              "example": "My main reason for subscribing to New Scientist is to keep abreast of advances in science.",
+              "translation": "我订阅《新科学家》的主要原因是要跟上科学的进步。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "for this reason",
+              "meaning": "为此；由于这个原因",
+              "example": "For this reason local officials rejected the proposal.",
+              "translation": "因此，当地官员拒绝了这一提议。",
+              "source": ""
+            },
+            {
+              "phrase": "no reason",
+              "meaning": "没有理由",
+              "example": "There is no reason to disbelieve him.",
+              "translation": "没理由不相信他。",
+              "source": "《柯林斯英汉双解大词典》"
+            }
+          ],
+          "example": "This was the real reason for her call.",
+          "exampleTranslation": "这是她打电话的真实原因。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "shame",
+          "day": 9,
+          "word": "shame",
+          "phonetic": "/ˈʃeɪm/",
+          "part": "n.",
+          "meaning": "羞愧；耻辱 (v.)使感到羞愧",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "shameful",
+              "可耻的；不体面的；不道德的；猥亵的"
+            ],
+            [
+              "shameless",
+              "无耻的；不要脸的；伤风败俗的"
+            ],
+            [
+              "shamelessly",
+              "不知羞耻地；厚着脸皮地"
+            ],
+            [
+              "shamefacedly",
+              "羞愧地；羞怯地；谦卑地"
+            ],
+            [
+              "shamefully",
+              "可耻地；不体面地"
+            ],
+            [
+              "shamefulness",
+              "可耻"
+            ]
+          ],
+          "phrases": [
+            "put to shame",
+            "in shame",
+            "bring shame on",
+            "sense of shame"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "put to shame",
+              "meaning": "使蒙羞；使自愧不如",
+              "example": "Do not let me be put to shame, nor let my enemies triumph over me.",
+              "translation": "求你不要叫我羞愧。不要叫我的仇敌向我夸胜。",
+              "source": ""
+            },
+            {
+              "phrase": "in shame",
+              "meaning": "因为耻辱；因为害羞",
+              "example": "She bowed her head in shame.",
+              "translation": "她羞愧地低下了头。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "bring shame on",
+              "meaning": "抹黑，使……蒙羞",
+              "example": "The student felt that his failure would bring shame on his family, but in fact there is no shame in failing.",
+              "translation": "那个学生觉得他的失败会使家人蒙羞，但实际上失败并不可耻。",
+              "source": ""
+            },
+            {
+              "phrase": "sense of shame",
+              "meaning": "羞耻感",
+              "example": "She felt a deep sense of shame.",
+              "translation": "她深感羞耻。",
+              "source": "《柯林斯英汉双解大词典》"
+            }
+          ],
+          "example": "Do not let me be put to shame, nor let my enemies triumph over me.",
+          "exampleTranslation": "求你不要叫我羞愧。不要叫我的仇敌向我夸胜。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "bored",
+          "day": 9,
+          "word": "bored",
+          "phonetic": "/ˈbɔrd/",
+          "part": "adj.",
+          "meaning": "无聊的",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "bore",
+              "孔；令人讨厌的人"
+            ],
+            [
+              "boredom",
+              "厌倦；令人厌烦的事物"
+            ]
+          ],
+          "phrases": [
+            "bored with",
+            "bored pile",
+            "get bored"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "bored with",
+              "meaning": "对…厌倦",
+              "example": "I get the impression that he is bored with his job.",
+              "translation": "我的印象是他厌倦他的工作。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "bored pile",
+              "meaning": "螺旋钻孔桩；填充桩；螺旋桩",
+              "example": "The results indicate that the bored pile works well and has high potential carrying capacity.",
+              "translation": "分析结果表明，高层建筑灌注桩工作性能良好，有较高的承载潜力。",
+              "source": ""
+            },
+            {
+              "phrase": "get bored",
+              "meaning": "感到厌烦；感到无聊",
+              "example": "Do you get bored easily?",
+              "translation": "你很容易感到无聊？",
+              "source": ""
+            }
+          ],
+          "example": "I get the impression that he is bored with his job.",
+          "exampleTranslation": "我的印象是他厌倦他的工作。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 3,
+            "phraseCount": 3
+          },
+          "enriched": true
+        },
+        {
+          "id": "point",
+          "day": 9,
+          "word": "point",
+          "phonetic": "/ˈpɔɪnt/",
+          "part": "n.",
+          "meaning": "点；要点；得分",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "pointless",
+              "无意义的；钝的；不尖的；不得要领的"
+            ],
+            [
+              "pointed",
+              "尖的；突出的；锐利的；率直的"
+            ],
+            [
+              "pointedly",
+              "尖锐地；指向地"
+            ],
+            [
+              "pointlessly",
+              "不相干地；漫无目标地；不得要领地（pointless的副词形式）"
+            ],
+            [
+              "pointer",
+              "指针；指示器；教鞭；暗示"
+            ],
+            [
+              "pointlessness",
+              "钝；无意义；漫无目标"
+            ]
+          ],
+          "phrases": [
+            "point of view",
+            "point out",
+            "at this point",
+            "point in"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "point of view",
+              "meaning": "观点；见地；立场",
+              "example": "Why can't you ever see my point of view?",
+              "translation": "你怎么老不明白我的观点呢？",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "point out",
+              "meaning": "指出，指明",
+              "example": "I wish to point out your misrepresentation of the facts.",
+              "translation": "我想指出你们对事实的曲解。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "at this point",
+              "meaning": "这时候，此时此刻",
+              "example": "Speed is key at this point.",
+              "translation": "在这个时候速度是关键。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "point in",
+              "meaning": "有意义；在…有作用",
+              "example": "The evidence seems to point in that direction.",
+              "translation": "证据似乎指向那个方向。",
+              "source": "《牛津词典》"
+            }
+          ],
+          "example": "Why can't you ever see my point of view?",
+          "exampleTranslation": "你怎么老不明白我的观点呢？",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "analysis",
+          "day": 9,
+          "word": "analysis",
+          "phonetic": "/əˈnæləsəs/",
+          "part": "n.",
+          "meaning": "分析，分解",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "analyser",
+              "分析器，分析仪；分析者"
+            ],
+            [
+              "analyse",
+              "分析；分解；细察"
+            ]
+          ],
+          "phrases": [
+            "analysis method",
+            "quantitative analysis",
+            "finite element analysis",
+            "data analysis"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "analysis method",
+              "meaning": "解析法；离子微探针质谱仪分析法",
+              "example": "Nonlinear finite element numerical analysis method will be one of effective means in air spring design.",
+              "translation": "非线性有限元数值分析方法将是空气弹簧设计的有效手段之一。",
+              "source": ""
+            },
+            {
+              "phrase": "quantitative analysis",
+              "meaning": "[化]定量分析",
+              "example": "This paper describes the quantitative analysis methods of naringin and limonin.",
+              "translation": "本文概括了柚皮苷和柠檬苦素的定量分析方法。",
+              "source": ""
+            },
+            {
+              "phrase": "finite element analysis",
+              "meaning": "有限元分析",
+              "example": "And ANSYS is a large scale general finite element analysis software with abroad application.",
+              "translation": "而ANSYS是得到广泛应用的大型通用有限元分析软件。",
+              "source": ""
+            },
+            {
+              "phrase": "data analysis",
+              "meaning": "数据分析",
+              "example": "Some of this data analysis can yield unexpected results.",
+              "translation": "某些数据分析可能会产生意想不到的结果。",
+              "source": ""
+            }
+          ],
+          "example": "Nonlinear finite element numerical analysis method will be one of effective means in air spring design.",
+          "exampleTranslation": "非线性有限元数值分析方法将是空气弹簧设计的有效手段之一。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "identification",
+          "day": 9,
+          "word": "identification",
+          "phonetic": "/aɪdentəfəˈkeɪʃən/",
+          "part": "n.",
+          "meaning": "鉴定，识别；身份证明",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "identifying",
+              "识别，标识；标识关系"
+            ],
+            [
+              "identify",
+              "确定；认同；一致"
+            ]
+          ],
+          "phrases": [
+            "system identification",
+            "fingerprint identification",
+            "identification card",
+            "identification number"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "system identification",
+              "meaning": "系统辨识；系统识别",
+              "example": "Updated AIX system identification.",
+              "translation": "更新的AIX系统标识。",
+              "source": ""
+            },
+            {
+              "phrase": "fingerprint identification",
+              "meaning": "指纹鉴定",
+              "example": "O.K., on the one hand, fingerprint practitioners state that fingerprint identification is a science.",
+              "translation": "好的，一方面指纹鉴定者认为指纹识别是一门科学。",
+              "source": ""
+            },
+            {
+              "phrase": "identification card",
+              "meaning": "身份证；[计]标识卡",
+              "example": "Through a mathematical algorithm, a private key is like your electronic identification card.",
+              "translation": "通过一个数学算法，一个私钥如同您的电子身份证。",
+              "source": ""
+            },
+            {
+              "phrase": "identification number",
+              "meaning": "标识号；身份证号码；成套设备编号",
+              "example": "Car manufacturers stamp a vehicle identification number at several places on new cars to help track down stolen vehicles.",
+              "translation": "汽车生产商们在新车车身的几个地方打上车辆识别码以帮助追查被盗车辆。",
+              "source": "《柯林斯英汉双解大词典》"
+            }
+          ],
+          "example": "Updated AIX system identification.",
+          "exampleTranslation": "更新的AIX系统标识。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "spoon",
+          "day": 9,
+          "word": "spoon",
+          "phonetic": "/ˈspuːn/",
+          "part": "n.",
+          "meaning": "匙；调羹",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "spoony",
+              "spoony"
+            ],
+            [
+              "spoondrift",
+              "spoondrift"
+            ],
+            [
+              "spoonfed",
+              "勺子喂养"
+            ],
+            [
+              "spooning",
+              "勺子"
+            ],
+            [
+              "spoons",
+              "规则词形"
+            ]
+          ],
+          "phrases": [
+            "greasy spoon",
+            "silver spoon",
+            "wooden spoon",
+            "soup spoon"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "greasy spoon",
+              "meaning": "低级小饭馆；经济小吃店",
+              "example": "Several years ago, that cafe served fairly decent food, but now it's just a greasy spoon.",
+              "translation": "几年前那间餐厅供应相当好的食物，但现在它只是间劣等餐厅。",
+              "source": ""
+            },
+            {
+              "phrase": "silver spoon",
+              "meaning": "财富（尤指继承的遗产）；电影（集合名词）；电影业",
+              "example": "For those who are not born with a silver spoon in their mouth, they can only change their social status through their own efforts.",
+              "translation": "对于那些不是含着银汤匙出生的人来说，他们只能通过自己的努力改变自己的社会地位。",
+              "source": ""
+            },
+            {
+              "phrase": "wooden spoon",
+              "meaning": "木匙；末名奖",
+              "example": "Using a wooden spoon, fold in the buttermilk and the coffee.",
+              "translation": "然后改用一只木勺，拌入脱脂奶和咖啡。",
+              "source": ""
+            },
+            {
+              "phrase": "soup spoon",
+              "meaning": "汤匙",
+              "example": "This is a soup spoon.",
+              "translation": "这是一个汤匙。",
+              "source": ""
+            }
+          ],
+          "example": "Several years ago, that cafe served fairly decent food, but now it's just a greasy spoon.",
+          "exampleTranslation": "几年前那间餐厅供应相当好的食物，但现在它只是间劣等餐厅。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退",
+              "Datamuse"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "nephew",
+          "day": 9,
+          "word": "nephew",
+          "phonetic": "/ˈnefju/",
+          "part": "n.",
+          "meaning": "外甥，侄子",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "nephews",
+              "侄子"
+            ]
+          ],
+          "phrases": [],
+          "phraseExamples": [],
+          "example": "This is my nephew.",
+          "exampleTranslation": "",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退",
+              "Tatoeba",
+              "Datamuse"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 0,
+            "phraseCount": 0
+          },
+          "enriched": true
+        },
+        {
+          "id": "physician",
+          "day": 9,
+          "word": "physician",
+          "phonetic": "/fəˈzɪʃən/",
+          "part": "n.",
+          "meaning": "内科医生",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "physicians",
+              "医师"
+            ],
+            [
+              "physicianed",
+              "医生"
+            ],
+            [
+              "physiciancy",
+              "物理学"
+            ],
+            [
+              "physicianship",
+              "医生"
+            ]
+          ],
+          "phrases": [
+            "chief physician",
+            "attending physician",
+            "family physician"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "chief physician",
+              "meaning": "主任医师",
+              "example": "The average Russian now drinks 15 litres of alcohol per year - up from 5.4 litres in 1990, the report by Russia's chief physician, Gennady Onishchenko, found.",
+              "translation": "俄罗斯的首席医师Gennady Onishchenko的报告中发现，俄罗斯人均每年饮酒15升——比起1990年的5.4升，上升明显。",
+              "source": ""
+            },
+            {
+              "phrase": "attending physician",
+              "meaning": "主治医生",
+              "example": "But the attending physician refused to give him prescriptions.",
+              "translation": "但是主治医生拒绝给他处方。",
+              "source": ""
+            },
+            {
+              "phrase": "family physician",
+              "meaning": "家庭医生；家庭医师",
+              "example": "Before undergoing either therapy, it's best to consult your family physician.",
+              "translation": "接受治疗之前，最好咨询一下您的家庭医生。",
+              "source": ""
+            }
+          ],
+          "example": "The average Russian now drinks 15 litres of alcohol per year - up from 5.4 litres in 1990, the report by Russia's chief physician, Gennady Onishchenko, found.",
+          "exampleTranslation": "俄罗斯的首席医师Gennady Onishchenko的报告中发现，俄罗斯人均每年饮酒15升——比起1990年的5.4升，上升明显。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退",
+              "Datamuse"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 3,
+            "phraseCount": 3
+          },
+          "enriched": true
+        },
+        {
+          "id": "judg",
+          "day": 9,
+          "word": "judg",
+          "phonetic": "/dʒədʒ/",
+          "part": "e",
+          "meaning": "ment (n.)判断；判断力",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "judgment",
+              "判决"
+            ],
+            [
+              "judge",
+              "判断"
+            ],
+            [
+              "judgement",
+              "裁决"
+            ],
+            [
+              "judging",
+              "judging"
+            ],
+            [
+              "judgs",
+              "规则词形"
+            ]
+          ],
+          "phrases": [],
+          "phraseExamples": [],
+          "example": "Do not judge.",
+          "exampleTranslation": "",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退",
+              "Tatoeba",
+              "Datamuse"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 0,
+            "phraseCount": 0
+          },
+          "enriched": true
+        },
+        {
+          "id": "tobacco",
+          "day": 9,
+          "word": "tobacco",
+          "phonetic": "/təˈbækoʊ/",
+          "part": "n.",
+          "meaning": "烟草，烟叶",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "tobacconist",
+              "烟草店"
+            ],
+            [
+              "tobaccoism",
+              "烟草中毒"
+            ],
+            [
+              "tobaccos",
+              "烟草"
+            ],
+            [
+              "tobacconing",
+              "烟草加工"
+            ]
+          ],
+          "phrases": [
+            "cut tobacco",
+            "tobacco leaf",
+            "tobacco smoke",
+            "cured tobacco"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "cut tobacco",
+              "meaning": "生切烟丝",
+              "example": "The problem of cut tobacco drop from running feed dolly was then resolved and the environment of workshop was improved.",
+              "translation": "改进后使用效果良好，解决了小车在运行中飘落烟丝的问题，改善了生产现场的环境。",
+              "source": ""
+            },
+            {
+              "phrase": "tobacco leaf",
+              "meaning": "烟叶",
+              "example": "Tobacco leaf leavening is a complex biochemistry process.",
+              "translation": "烟叶发酵是一复杂的生化过程。",
+              "source": ""
+            },
+            {
+              "phrase": "tobacco smoke",
+              "meaning": "烟草烟雾",
+              "example": "The conference room reeked of tobacco smoke.",
+              "translation": "会议室里弥漫着烟草的臭味。",
+              "source": ""
+            },
+            {
+              "phrase": "cured tobacco",
+              "meaning": "烤烟；热烟草；烟叶加工；熟烟",
+              "example": "The fruity type flue-cured tobacco essence mainly consists of trans-2-hexenal, hexenyl formate and the like.",
+              "translation": "果味型烤烟香精主要由反式-2-己烯醛，甲酸己烯酯等组成。",
+              "source": ""
+            }
+          ],
+          "example": "The problem of cut tobacco drop from running feed dolly was then resolved and the environment of workshop was improved.",
+          "exampleTranslation": "改进后使用效果良好，解决了小车在运行中飘落烟丝的问题，改善了生产现场的环境。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退",
+              "Datamuse"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "relation",
+          "day": 9,
+          "word": "relation",
+          "phonetic": "/riˈleɪʃən/",
+          "part": "n.",
+          "meaning": "关系；亲属",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "related",
+              "有关系的，有关联的；讲述的，叙述的"
+            ],
+            [
+              "relatedness",
+              "关联性；关系；亲缘"
+            ],
+            [
+              "relate",
+              "涉及；认同；符合；与…有某种联系"
+            ]
+          ],
+          "phrases": [
+            "in relation to",
+            "public relation",
+            "direct relation",
+            "linear relation"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "in relation to",
+              "meaning": "关于；涉及",
+              "example": "When taking diagonal falls, pay attention to the rope in relation to your feet.",
+              "translation": "当你采取斜线坠落时，注意绳索和双脚的关系。",
+              "source": ""
+            },
+            {
+              "phrase": "public relation",
+              "meaning": "公共关系",
+              "example": "A famous company wanted to employ a reception secretary for its public relation department.",
+              "translation": "一家著名公司想为其公关部聘请一名接待秘书。",
+              "source": ""
+            },
+            {
+              "phrase": "direct relation",
+              "meaning": "直接联系",
+              "example": "The paid manager acting for the company was in more direct relation.",
+              "translation": "代表公司的花钱雇来的经理与工人及其需求的关系更加直接，但是就连。",
+              "source": ""
+            },
+            {
+              "phrase": "linear relation",
+              "meaning": "线性关系",
+              "example": "Whenever this linear relation between F and x holds, that is referred to as Hooke's Law.",
+              "translation": "不管F和x之间的,线性关系是多少，这就是所谓的胡克定律。",
+              "source": ""
+            }
+          ],
+          "example": "When taking diagonal falls, pay attention to the rope in relation to your feet.",
+          "exampleTranslation": "当你采取斜线坠落时，注意绳索和双脚的关系。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "breathe",
+          "day": 9,
+          "word": "breathe",
+          "phonetic": "/ˈbriːð/",
+          "part": "v.",
+          "meaning": "呼吸",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "breathing",
+              "呼吸的；逼真的"
+            ],
+            [
+              "breathless",
+              "喘不过气来的；停止呼吸的"
+            ],
+            [
+              "breathed",
+              "无声的；有气的"
+            ],
+            [
+              "breath",
+              "呼吸，气息；一口气，（呼吸的）一次；瞬间，瞬息；微风；迹象；无声音，气音"
+            ],
+            [
+              "breather",
+              "呼吸者；呼吸的东西；剧烈的运动；短时间的休息"
+            ],
+            [
+              "breathlessness",
+              "呼吸急促，气喘吁吁"
+            ]
+          ],
+          "phrases": [
+            "breathe in",
+            "breathe out",
+            "breathe freely",
+            "breathe deeply"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "breathe in",
+              "meaning": "吸入",
+              "example": "It first infects you because you breathe in some of the infectious agents.",
+              "translation": "只要吸入病原体，你就会被感染。",
+              "source": ""
+            },
+            {
+              "phrase": "breathe out",
+              "meaning": "呼出",
+              "example": "Humans take in oxygen and breathe out carbon dioxide.",
+              "translation": "人吸入氧气，呼出二氧化碳。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "breathe freely",
+              "meaning": "透气；安心",
+              "example": "He's gone; You can breathe freely again.",
+              "translation": "他已走了，你可以完全放心了。",
+              "source": ""
+            },
+            {
+              "phrase": "breathe deeply",
+              "meaning": "深呼吸",
+              "example": "As you make your movements, you breathe deeply and naturally with meditation.",
+              "translation": "当你做动作时，你在冥想过程中自然地深呼吸。",
+              "source": ""
+            }
+          ],
+          "example": "It first infects you because you breathe in some of the infectious agents.",
+          "exampleTranslation": "只要吸入病原体，你就会被感染。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
           },
           "enriched": true
         }
