@@ -1,7 +1,7 @@
 {
   "version": 1,
   "title": "像素词汇农场",
-  "updatedAt": "2026-10-11T10:37:12+00:00",
+  "updatedAt": "2026-10-11T10:41:18+00:00",
   "activeBankId": "day-1",
   "banks": [
     {
@@ -20053,6 +20053,4252 @@
             "needsReview": true,
             "verifiedExampleCount": 2,
             "phraseCount": 2
+          },
+          "enriched": true
+        }
+      ]
+    },
+    {
+      "id": "day-6",
+      "label": "Day6 · 10-11 · 60 词",
+      "date": "2026-10-11",
+      "words": [
+        {
+          "id": "interest",
+          "day": 6,
+          "word": "interest",
+          "phonetic": "/ˈɪntrəst/",
+          "part": "n.",
+          "meaning": "兴趣 (v.)使产生兴趣",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "interesting",
+              "有趣的；引起兴趣的，令人关注的"
+            ],
+            [
+              "interested",
+              "感兴趣的；有权益的；有成见的"
+            ],
+            [
+              "interestingly",
+              "有趣地"
+            ]
+          ],
+          "phrases": [
+            "interest in",
+            "of interest",
+            "interest rate",
+            "public interest"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "interest in",
+              "meaning": "对…有兴趣",
+              "example": "I had no real interest in politics.",
+              "translation": "我对政治的兴趣不大。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "of interest",
+              "meaning": "有…兴趣；权益的转易",
+              "example": "This proposal has attracted a lot of interest.",
+              "translation": "这个提案引起了很大的兴趣。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "interest rate",
+              "meaning": "[经]利率",
+              "example": "Interest rates should come down.",
+              "translation": "利率应下降。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "public interest",
+              "meaning": "公共利益",
+              "example": "Schools are riding a wave of renewed public interest.",
+              "translation": "各校重新受益于公众的关注。",
+              "source": "《牛津词典》"
+            }
+          ],
+          "example": "I had no real interest in politics.",
+          "exampleTranslation": "我对政治的兴趣不大。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "single",
+          "day": 6,
+          "word": "single",
+          "phonetic": "/ˈsɪŋɡəl/",
+          "part": "adj.",
+          "meaning": "单一的；单身的；单程的",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "singleness",
+              "单一；独身；真诚；专心"
+            ]
+          ],
+          "phrases": [
+            "every single",
+            "single chip",
+            "single crystal",
+            "single day"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "every single",
+              "meaning": "[口语][加强语气]每一个",
+              "example": "Between films he often winds up spending every single morning on his psychiatrist's couch.",
+              "translation": "在拍电影的间隔期间，他经常是在心理医生的诊察台上度过每一个早晨。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "single chip",
+              "meaning": "单晶片",
+              "example": "This is equivalent to 32 logical processors on a single chip or socket.",
+              "translation": "这相当于在一个芯片或插槽上支持32个逻辑处理器。",
+              "source": ""
+            },
+            {
+              "phrase": "single crystal",
+              "meaning": "单晶",
+              "example": "I hand pick up a piece of snow as a single crystal flower, quickly melted in the hand.",
+              "translation": "我伸手接了一片，雪花象一朵晶莹的小花，转眼就在手心融化了。",
+              "source": ""
+            },
+            {
+              "phrase": "single day",
+              "meaning": "单日；光棍节",
+              "example": "Go to catch brightly-hued autumn vistas and steep canyon lookouts, and all of these are packed into a single day-trip.",
+              "translation": "去欣赏秋天绚丽的景色和陡峭的峡谷景观，所有这些都被压缩在一天的旅行中。",
+              "source": ""
+            }
+          ],
+          "example": "Between films he often winds up spending every single morning on his psychiatrist's couch.",
+          "exampleTranslation": "在拍电影的间隔期间，他经常是在心理医生的诊察台上度过每一个早晨。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "puzzle",
+          "day": 6,
+          "word": "puzzle",
+          "phonetic": "/ˈpʌzəl/",
+          "part": "v.",
+          "meaning": "使迷惑 (n.)谜；难题",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "puzzled",
+              "困惑的；茫然的；搞糊涂的"
+            ],
+            [
+              "puzzlement",
+              "迷惑；费解"
+            ],
+            [
+              "puzzler",
+              "难题；使困惑的人"
+            ]
+          ],
+          "phrases": [
+            "jigsaw puzzle",
+            "crossword puzzle",
+            "puzzle out",
+            "chinese puzzle"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "jigsaw puzzle",
+              "meaning": "n. 七巧板；智力拼图玩具",
+              "example": "This process is akin to piecing together a jigsaw puzzle.",
+              "translation": "这过程类似于拼七巧板。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "crossword puzzle",
+              "meaning": "纵横字谜游戏",
+              "example": "Her mother sighed and rubbed out another mistake in the crossword puzzle.",
+              "translation": "她母亲叹了口气，擦掉了拼字游戏中的另一个填错的地方。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "puzzle out",
+              "meaning": "苦苦思索而弄清楚",
+              "example": "He was trying to puzzle out why he had been brought to the house.",
+              "translation": "他想弄明白自己为何被带到这所房子。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "chinese puzzle",
+              "meaning": "中国智力玩具（如七巧板、九连环等）；复杂难懂的事物",
+              "example": "Tangram, an ancient Chinese puzzle, are said to have a history that goes back many thousands of years.",
+              "translation": "七巧板，一种中国老祖先所传承的智力游戏，据说已有数千年的历史。",
+              "source": ""
+            }
+          ],
+          "example": "This process is akin to piecing together a jigsaw puzzle.",
+          "exampleTranslation": "这过程类似于拼七巧板。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "mean",
+          "day": 6,
+          "word": "mean",
+          "phonetic": "/ˈmiːn/",
+          "part": "v.",
+          "meaning": "意思是；打算 (adj.)吝啬的",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "meaning",
+              "意味深长的"
+            ],
+            [
+              "meaningful",
+              "有意义的；意味深长的"
+            ],
+            [
+              "meaningless",
+              "无意义的；无目的的"
+            ],
+            [
+              "meaningfully",
+              "有意义地；意味深长地；有意图地"
+            ],
+            [
+              "meanly",
+              "卑贱地；吝啬地；简陋地"
+            ],
+            [
+              "meanness",
+              "卑鄙；吝啬；劣等"
+            ],
+            [
+              "meaningfulness",
+              "有意义，富有意义"
+            ],
+            [
+              "meaninglessness",
+              "无意义；无道理"
+            ]
+          ],
+          "phrases": [
+            "in the mean",
+            "mean time",
+            "mean square",
+            "in the mean time"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "in the mean",
+              "meaning": "当其时；同时；在此期间",
+              "example": "In the mean time, be a smart shopper.",
+              "translation": "与此同时，是一个聪明的购物者。",
+              "source": ""
+            },
+            {
+              "phrase": "mean time",
+              "meaning": "n. 平均时间（平均太阳时）",
+              "example": "In the mean time, be a smart shopper.",
+              "translation": "与此同时，是一个聪明的购物者。",
+              "source": ""
+            },
+            {
+              "phrase": "mean square",
+              "meaning": "均方；均方差；均方值",
+              "example": "That's your root mean square.",
+              "translation": "那就是你的均方根。",
+              "source": ""
+            },
+            {
+              "phrase": "in the mean time",
+              "meaning": "同时",
+              "example": "In the mean time, be a smart shopper.",
+              "translation": "与此同时，是一个聪明的购物者。",
+              "source": ""
+            }
+          ],
+          "example": "In the mean time, be a smart shopper.",
+          "exampleTranslation": "与此同时，是一个聪明的购物者。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "break",
+          "day": 6,
+          "word": "break",
+          "phonetic": "/ˈbreɪk/",
+          "part": "v.",
+          "meaning": "打破 (n.)中间休息",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "breakable",
+              "易碎的"
+            ],
+            [
+              "breaker",
+              "[电] 断路器；打破者；碎浪"
+            ],
+            [
+              "breakage",
+              "破坏；破损；裂口；破损量"
+            ],
+            [
+              "breaking",
+              "破坏；阻断"
+            ]
+          ],
+          "phrases": [
+            "break through",
+            "break up",
+            "break down",
+            "take a break"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "break through",
+              "meaning": "突破；突围；有重要创见",
+              "example": "Scientists think they are beginning to break through in the fight against cancer.",
+              "translation": "科学家认为他们在对抗癌症的研究中开始有所突破。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "break up",
+              "meaning": "打碎，破碎；结束；解散；衰落",
+              "example": "About 100 officers in riot gear were needed to break up the fight.",
+              "translation": "大约需要100名配备防暴装备的警官来结束那场斗殴。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "break down",
+              "meaning": "分解；发生故障；失败；毁掉；制服",
+              "example": "Many people were expecting (that) the peace talks would break down.",
+              "translation": "许多人预料和平谈判会破裂。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "take a break",
+              "meaning": "休息一下",
+              "example": "We take a break and go for lunch.",
+              "translation": "我们休息一下，去吃午饭。",
+              "source": ""
+            }
+          ],
+          "example": "Scientists think they are beginning to break through in the fight against cancer.",
+          "exampleTranslation": "科学家认为他们在对抗癌症的研究中开始有所突破。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "certificate",
+          "day": 6,
+          "word": "certificate",
+          "phonetic": "/sərˈtɪfɪkət/",
+          "part": "n.",
+          "meaning": "证明书",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "certify",
+              "证明；保证"
+            ]
+          ],
+          "phrases": [
+            "qualification certificate",
+            "registration certificate",
+            "certificate of origin",
+            "inspection certificate"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "qualification certificate",
+              "meaning": "资格证书",
+              "example": "I've got an Associate Professor's Qualification Certificate.",
+              "translation": "我获得了副教授资格证书。",
+              "source": ""
+            },
+            {
+              "phrase": "registration certificate",
+              "meaning": "登记证；注册证书；注册证明",
+              "example": "The format of the tax registration certificate shall be determined by the State Administration of Taxation.",
+              "translation": "税务登记证件的式样，由国家税务总局制定。",
+              "source": ""
+            },
+            {
+              "phrase": "certificate of origin",
+              "meaning": "[商]原产地证书",
+              "example": "You didn't refer to the certificate of origin.",
+              "translation": "您没有提到原产地证书。",
+              "source": ""
+            },
+            {
+              "phrase": "inspection certificate",
+              "meaning": "检验证明书；检查证明",
+              "example": "Motor vehicle safety inspection certificate.",
+              "translation": "《机动车辆刑侦检验通知书》。",
+              "source": ""
+            }
+          ],
+          "example": "I've got an Associate Professor's Qualification Certificate.",
+          "exampleTranslation": "我获得了副教授资格证书。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "crowd",
+          "day": 6,
+          "word": "crowd",
+          "phonetic": "/ˈkraʊd/",
+          "part": "n.",
+          "meaning": "人群 (v.)拥挤",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "crowded",
+              "拥挤的；塞满的"
+            ]
+          ],
+          "phrases": [
+            "a crowd of",
+            "crowd out",
+            "crowd into",
+            "a large crowd of"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "a crowd of",
+              "meaning": "一大群；许多的",
+              "example": "A crowd of reporters was hammering on the door.",
+              "translation": "一群记者在砰砰敲那扇门。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "crowd out",
+              "meaning": "vt. 挤出；推开",
+              "example": "In particular, Ripley contends that sports crowd out the academic missions of schools: America should learn from South Korea and Finland and every other country in the top level of international test scores, all of whom emphasize athletics far less in school.",
+              "translation": "里普利特别指出，体育运动挤占了学校的学术使命：美国应该向韩国和芬兰以及国际考试成绩最高的每个其他国家学习，所有这些人在学校都不太重视体育运动。",
+              "source": ""
+            },
+            {
+              "phrase": "crowd into",
+              "meaning": "涌入；挤入",
+              "example": "He could whip a crowd into hysteria.",
+              "translation": "他可以怂恿一群人，使他们变得歇斯底里。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "a large crowd of",
+              "meaning": "一大群的",
+              "example": "A large crowd of students got together to watch.",
+              "translation": "一大群学生聚在一起观看。",
+              "source": ""
+            }
+          ],
+          "example": "A crowd of reporters was hammering on the door.",
+          "exampleTranslation": "一群记者在砰砰敲那扇门。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "wander",
+          "day": 6,
+          "word": "wander",
+          "phonetic": "/ˈwɑndər/",
+          "part": "v.",
+          "meaning": "漫游；闲逛",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "wandering",
+              "流浪的；漫游的，徘徊的；蜿蜒的"
+            ],
+            [
+              "wanderer",
+              "流浪者；漫游者；迷路的动物"
+            ],
+            [
+              "wanderlust",
+              "流浪癖；漫游癖；旅游热"
+            ]
+          ],
+          "phrases": [
+            "wander off",
+            "wander about",
+            "wander from",
+            "baseline wander"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "wander off",
+              "meaning": "漫步；漫游；离群走散",
+              "example": "It concluded that pandas fail to wander off in search of new mates if they find their habitat too comfortable, resulting in a lack of vital genetic diversity.",
+              "translation": "研究得出结论：如果大熊猫发现其栖息地过于舒适，就不会四处游荡寻找新配偶，从而导致关键的遗传多样性缺失。",
+              "source": ""
+            },
+            {
+              "phrase": "wander about",
+              "meaning": "徘徊；流浪；漫步",
+              "example": "My father was not at all nervous about allowing me to wander about freely.",
+              "translation": "父亲允许我四处自由地漫游，一点儿也不感到担心。",
+              "source": ""
+            },
+            {
+              "phrase": "wander from",
+              "meaning": "离题",
+              "example": "Map and compass: In case you wander from the trail.",
+              "translation": "地图和指南针：迷路时用得上。",
+              "source": ""
+            },
+            {
+              "phrase": "baseline wander",
+              "meaning": "基线漂移",
+              "example": "A method using median filter to remove the baseline wander in electrocardiogram is proposed in this paper.",
+              "translation": "介绍了一种利用中值滤波器来滤除信号中基线漂移的方法。",
+              "source": ""
+            }
+          ],
+          "example": "It concluded that pandas fail to wander off in search of new mates if they find their habitat too comfortable, resulting in a lack of vital genetic diversity.",
+          "exampleTranslation": "研究得出结论：如果大熊猫发现其栖息地过于舒适，就不会四处游荡寻找新配偶，从而导致关键的遗传多样性缺失。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "fix",
+          "day": 6,
+          "word": "fix",
+          "phonetic": "/ˈfɪks/",
+          "part": "v.",
+          "meaning": "修理；固定",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "fixed",
+              "固执的；<美口>处境...的；准备好的；确定的"
+            ],
+            [
+              "fixative",
+              "固定的；定色的；防挥发的"
+            ],
+            [
+              "fixedly",
+              "固定地；不动，不变"
+            ],
+            [
+              "fixture",
+              "设备；固定装置；固定于某处不大可能移动之物"
+            ],
+            [
+              "fixation",
+              "固定；定位；定影"
+            ],
+            [
+              "fixing",
+              "固定；安装；设备；修理"
+            ],
+            [
+              "fixer",
+              "固定器；[摄] 定影剂；毒贩子；调停者"
+            ],
+            [
+              "fixity",
+              "固定性，不变性；固定物"
+            ]
+          ],
+          "phrases": [
+            "fix on",
+            "in a fix",
+            "fix up",
+            "quick fix"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "fix on",
+              "meaning": "确定；固定；使集中于",
+              "example": "They managed to get a fix on the yacht's position.",
+              "translation": "他们设法确定了快艇的方位。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "in a fix",
+              "meaning": "[美国英语]进退两难，处境艰难，陷于困境",
+              "example": "We've got ourselves in a fix about this.",
+              "translation": "在这个问题上我们已陷入了困境。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "fix up",
+              "meaning": "修理；解决；改进；为…作好安排；商妥",
+              "example": "How did you fix up the broken bicycle?",
+              "translation": "你是怎么修好这辆坏掉的自行车的？",
+              "source": ""
+            },
+            {
+              "phrase": "quick fix",
+              "meaning": "权宜之计",
+              "example": "Any tax measures enacted now as a quick fix would only be reversed in a few years when the economy picks up.",
+              "translation": "现在作为权宜之计颁布的任何税收措施等几年后经济好转时就会被撤消。",
+              "source": "《柯林斯英汉双解大词典》"
+            }
+          ],
+          "example": "They managed to get a fix on the yacht's position.",
+          "exampleTranslation": "他们设法确定了快艇的方位。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "clinic",
+          "day": 6,
+          "word": "clinic",
+          "phonetic": "/ˈklɪnɪk/",
+          "part": "n.",
+          "meaning": "诊所",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "clinical",
+              "临床的；诊所的"
+            ],
+            [
+              "clinically",
+              "临床地；门诊部地；不偏不倚；通过临床诊断"
+            ],
+            [
+              "clinician",
+              "临床医生"
+            ]
+          ],
+          "phrases": [
+            "dental clinic",
+            "mayo clinic",
+            "health clinic",
+            "outpatient clinic"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "dental clinic",
+              "meaning": "牙科诊所，牙科诊室；牙科门诊部",
+              "example": "Mike works in a dental clinic.",
+              "translation": "迈克在一家牙科诊所工作。",
+              "source": ""
+            },
+            {
+              "phrase": "mayo clinic",
+              "meaning": "梅约诊所（美国一家医院）",
+              "example": "At the Mayo Clinic, doctors who treat out-of-state patients can follow up with them via phone, email or web chats when they return home, but they can only discuss the conditions they treated in person.",
+              "translation": "在梅奥诊所，接诊外州患者的医生可以在患者回家后通过电话、电子邮件或网络聊天跟进他们的情况，但只能讨论他们当面诊治过的病情。",
+              "source": ""
+            },
+            {
+              "phrase": "health clinic",
+              "meaning": "卫生所；健康中心；保健室",
+              "example": "Her year-long service included comforting AIDS patients at a free health clinic and delivering meals to the homebound.",
+              "translation": "她为期一年的服务包括在免费健康诊所安慰艾滋病患者，并为居家者送餐。",
+              "source": ""
+            },
+            {
+              "phrase": "outpatient clinic",
+              "meaning": "门诊诊所",
+              "example": "Outpatient clinic; Operating room; Cross infection.",
+              "translation": "门诊医疗；手术室；交叉感染。",
+              "source": ""
+            }
+          ],
+          "example": "Mike works in a dental clinic.",
+          "exampleTranslation": "迈克在一家牙科诊所工作。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "translate",
+          "day": 6,
+          "word": "translate",
+          "phonetic": "/træˈnzleɪt/",
+          "part": "v.",
+          "meaning": "翻译；转化",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "translates",
+              "translates"
+            ],
+            [
+              "translated",
+              "将相应地翻译。"
+            ],
+            [
+              "translater",
+              "译者"
+            ],
+            [
+              "translating",
+              "规则词形"
+            ]
+          ],
+          "phrases": [
+            "translate into"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "translate into",
+              "meaning": "翻译成",
+              "example": "I guess sometimes it can translate into work or opportunity.",
+              "translation": "我猜它有时候可以翻译为工作或者机会。",
+              "source": ""
+            }
+          ],
+          "example": "I guess sometimes it can translate into work or opportunity.",
+          "exampleTranslation": "我猜它有时候可以翻译为工作或者机会。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退",
+              "Datamuse"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 1,
+            "phraseCount": 1
+          },
+          "enriched": true
+        },
+        {
+          "id": "delete",
+          "day": 6,
+          "word": "delete",
+          "phonetic": "/dɪˈliːt/",
+          "part": "v.",
+          "meaning": "删除",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "deleterious",
+              "創傷"
+            ],
+            [
+              "deleteriously",
+              "有害地"
+            ],
+            [
+              "deleted",
+              "已删除"
+            ],
+            [
+              "deleteriousness",
+              "有害性"
+            ],
+            [
+              "deletes",
+              "规则词形"
+            ],
+            [
+              "deleting",
+              "规则词形"
+            ]
+          ],
+          "phrases": [
+            "delete all",
+            "delete from",
+            "delete key"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "delete all",
+              "meaning": "全部删除",
+              "example": "Delete all except the first one.",
+              "translation": "删除第一个属性以外所有的属性。",
+              "source": ""
+            },
+            {
+              "phrase": "delete from",
+              "meaning": "删除；从…上删掉",
+              "example": "To delete from the first line until the first blank line.",
+              "translation": "若要删除从第一行直到第一个空白行的所有内容，可以使用以下命令。",
+              "source": ""
+            },
+            {
+              "phrase": "delete key",
+              "meaning": "n. [计]删除字符键",
+              "example": "I selected a file and pressed the delete key.",
+              "translation": "我选定了一份文件，然后按下了删除键。",
+              "source": "《柯林斯英汉双解大词典》"
+            }
+          ],
+          "example": "Delete all except the first one.",
+          "exampleTranslation": "删除第一个属性以外所有的属性。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退",
+              "Datamuse"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 3,
+            "phraseCount": 3
+          },
+          "enriched": true
+        },
+        {
+          "id": "cheat",
+          "day": 6,
+          "word": "cheat",
+          "phonetic": "/ˈtʃiːt/",
+          "part": "v.",
+          "meaning": "欺骗；作弊 (n.)骗子",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "cheating",
+              "欺骗的"
+            ],
+            [
+              "cheater",
+              "骗子；背叛者；眼镜"
+            ]
+          ],
+          "phrases": [
+            "cheat on",
+            "cheat death",
+            "cheat sheet"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "cheat on",
+              "meaning": "vt. 对...不忠",
+              "example": "\"People cheat on their sleep, and they don't even realize they're doing it,\" says Dr. David.",
+              "translation": "“人们在睡眠这件事上自欺欺人，甚至都没有意识到自己正在这么做。”大卫博士说。",
+              "source": ""
+            },
+            {
+              "phrase": "cheat death",
+              "meaning": "逃脱死亡",
+              "example": "To cheat death, they invented the anti-entropy transformer.",
+              "translation": "为了逃避死亡，他们实现了反熵的转化。",
+              "source": ""
+            },
+            {
+              "phrase": "cheat sheet",
+              "meaning": "小抄；备忘单",
+              "example": "So I have little cheat sheet.",
+              "translation": "所以我有一个备忘单。",
+              "source": ""
+            }
+          ],
+          "example": "\"People cheat on their sleep, and they don't even realize they're doing it,\" says Dr. David.",
+          "exampleTranslation": "“人们在睡眠这件事上自欺欺人，甚至都没有意识到自己正在这么做。”大卫博士说。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 3,
+            "phraseCount": 3
+          },
+          "enriched": true
+        },
+        {
+          "id": "adjust",
+          "day": 6,
+          "word": "adjust",
+          "phonetic": "/əˈdʒʌst/",
+          "part": "v.",
+          "meaning": "调节；校正",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "adjustable",
+              "可调节的"
+            ],
+            [
+              "adjusted",
+              "调整过的，调节了的"
+            ],
+            [
+              "adjustive",
+              "调节的；调整的"
+            ],
+            [
+              "adjustment",
+              "调整，调节；调节器"
+            ],
+            [
+              "adjuster",
+              "[自] 调节器；调停者；（保险等）理算员"
+            ],
+            [
+              "adjustability",
+              "适应性"
+            ],
+            [
+              "adjustor",
+              "调节器；调停者"
+            ]
+          ],
+          "phrases": [
+            "adjust and control",
+            "adjust price"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "adjust and control",
+              "meaning": "调控",
+              "example": "Strategies in learning refers to the optimal adjust and control.",
+              "translation": "学习中的策略是指对学习过程最理想的调控。",
+              "source": ""
+            },
+            {
+              "phrase": "adjust price",
+              "meaning": "调整价格",
+              "example": "Each time order, the stainless steel material price rise or fall out of 5%, the price of stainless steel sink according it to adjust, otherwise can not adjust price.",
+              "translation": "不锈钢材料价格浮动低于或者超出5%，不锈钢 洗手盆 的价格将根据每次订单时的浮动来调整，否则不得调整价格。",
+              "source": ""
+            }
+          ],
+          "example": "Strategies in learning refers to the optimal adjust and control.",
+          "exampleTranslation": "学习中的策略是指对学习过程最理想的调控。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 2,
+            "phraseCount": 2
+          },
+          "enriched": true
+        },
+        {
+          "id": "quarter",
+          "day": 6,
+          "word": "quarter",
+          "phonetic": "/ˈkwɔrtər/",
+          "part": "n.",
+          "meaning": "四分之一；一刻钟；住处(复数)",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "quarterly",
+              "季度的，按季度的；一年四次的"
+            ],
+            [
+              "quarterfinal",
+              "四分之一决赛的"
+            ],
+            [
+              "quartering",
+              "成直角的；四等分的"
+            ],
+            [
+              "quart",
+              "夸脱（容量单位）；一夸脱的容器"
+            ],
+            [
+              "quarterback",
+              "橄榄球的四分卫"
+            ],
+            [
+              "quarterdeck",
+              "[船] 后甲板（等于quarter-deck）"
+            ],
+            [
+              "quartern",
+              "四分之一品脱；四等分，四分之一"
+            ]
+          ],
+          "phrases": [
+            "first quarter",
+            "fourth quarter",
+            "a quarter of",
+            "one quarter"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "first quarter",
+              "meaning": "第一个季度；上弦月；上弦",
+              "example": "The moon is in its first quarter.",
+              "translation": "月亮正处于上弦。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "fourth quarter",
+              "meaning": "第四季度；第四节",
+              "example": "This prompted the company to cut its forecasts for the full fourth quarter.",
+              "translation": "这促使该公司下调了它对整个第四季度的预测。",
+              "source": ""
+            },
+            {
+              "phrase": "a quarter of",
+              "meaning": "四分之一的；四分之一",
+              "example": "He has the backing of almost a quarter of the electorate.",
+              "translation": "他有将近四分之一的选民的支持。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "one quarter",
+              "meaning": "num. 四分之一",
+              "example": "I ate one quarter of a mooncake.",
+              "translation": "我吃了四分之一的月饼。",
+              "source": ""
+            }
+          ],
+          "example": "The moon is in its first quarter.",
+          "exampleTranslation": "月亮正处于上弦。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "brain",
+          "day": 6,
+          "word": "brain",
+          "phonetic": "/ˈbreɪn/",
+          "part": "n.",
+          "meaning": "脑袋；头脑，智力",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "brainy",
+              "聪明的；脑筋好的；有头脑的"
+            ],
+            [
+              "brainless",
+              "无头脑的，愚蠢的"
+            ]
+          ],
+          "phrases": [
+            "human brain",
+            "brain injury",
+            "brain damage",
+            "brain drain"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "human brain",
+              "meaning": "人脑",
+              "example": "She is best known for her work on the human brain.",
+              "translation": "她在对人脑的研究方面最为知名。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "brain injury",
+              "meaning": "[医]脑损伤",
+              "example": "It has trouble concentrating after a brain injury.",
+              "translation": "脑部受伤后很难集中注意力。",
+              "source": ""
+            },
+            {
+              "phrase": "brain damage",
+              "meaning": "脑损伤",
+              "example": "There is a small risk of brain damage from the procedure.",
+              "translation": "存在该手术导致脑损伤的小风险。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "brain drain",
+              "meaning": "人才外流；智囊流失",
+              "example": "Brain drain or net gain?",
+              "translation": "人才流失或净赚？",
+              "source": ""
+            }
+          ],
+          "example": "She is best known for her work on the human brain.",
+          "exampleTranslation": "她在对人脑的研究方面最为知名。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "attach",
+          "day": 6,
+          "word": "attach",
+          "phonetic": "/əˈtætʃ/",
+          "part": "v.",
+          "meaning": "附上；从属",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "attached",
+              "附加的；依恋的，充满爱心的"
+            ],
+            [
+              "attachable",
+              "可附上的；可连接的；可逮捕的；可没收的"
+            ],
+            [
+              "attachment",
+              "附件；依恋；连接物；扣押财产"
+            ]
+          ],
+          "phrases": [
+            "attached please find",
+            "attach file"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "attached please find",
+              "meaning": "附上…请查收[书信用语]",
+              "example": "Attached please find today's meeting notes.",
+              "translation": "今天的会议记录正在附件里。",
+              "source": ""
+            },
+            {
+              "phrase": "attach file",
+              "meaning": "附件",
+              "example": "Attach file summary information to the file.",
+              "translation": "将文件摘要信息附加到文件。",
+              "source": ""
+            }
+          ],
+          "example": "Attached please find today's meeting notes.",
+          "exampleTranslation": "今天的会议记录正在附件里。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 2,
+            "phraseCount": 2
+          },
+          "enriched": true
+        },
+        {
+          "id": "blind",
+          "day": 6,
+          "word": "blind",
+          "phonetic": "/ˈblaɪnd/",
+          "part": "adj.",
+          "meaning": "失明的；盲目的",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "blinding",
+              "使人眩目的；使人失去判断力的"
+            ],
+            [
+              "blindly",
+              "盲目地；轻率地；摸索地"
+            ],
+            [
+              "blindness",
+              "失明；无知；盲区"
+            ],
+            [
+              "blinder",
+              "眼罩；眩目的人"
+            ]
+          ],
+          "phrases": [
+            "blind date",
+            "blind eye",
+            "blind spot",
+            "blind area"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "blind date",
+              "meaning": "n. 从未见面的男女经第三者安排所作的约会",
+              "example": "I meet my wife on a blind date.",
+              "translation": "我是通过介绍认识我妻子的。",
+              "source": ""
+            },
+            {
+              "phrase": "blind eye",
+              "meaning": "视而不见；[科]不育芽眼",
+              "example": "Teachers are turning a blind eye to pupils smoking at school, a report reveals today.",
+              "translation": "今天的一篇报道称，教师对学生在校抽烟视而不见。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "blind spot",
+              "meaning": "（视网膜上的）盲点；（驾驶车辆等视力以外的）盲区；偏见；无知",
+              "example": "It produces \"A Blind Spot\" in our field of vision.",
+              "translation": "它在我们的视野中产生了“盲点”。",
+              "source": ""
+            },
+            {
+              "phrase": "blind area",
+              "meaning": "盲区；静区；封闭地块；阴影区",
+              "example": "But with some reasons, both of the pipe ends have blind area.",
+              "translation": "但因种种原因，钢管两端存在探伤盲区。",
+              "source": ""
+            }
+          ],
+          "example": "I meet my wife on a blind date.",
+          "exampleTranslation": "我是通过介绍认识我妻子的。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "wild",
+          "day": 6,
+          "word": "wild",
+          "phonetic": "/ˈwaɪld/",
+          "part": "adj.",
+          "meaning": "野生的；狂热的 (n.)荒野",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "wilding",
+              "野生的；未驯服的"
+            ],
+            [
+              "wildly",
+              "野生地；野蛮地；狂暴地；鲁莽地"
+            ],
+            [
+              "wilder",
+              "撒野者"
+            ],
+            [
+              "wildness",
+              "野蛮；原始；荒凉"
+            ]
+          ],
+          "phrases": [
+            "in the wild",
+            "wild flower",
+            "wild animal",
+            "run wild"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "in the wild",
+              "meaning": "在野外，野生的；在自然环境下",
+              "example": "They went camping in the wild.",
+              "translation": "他们在野外露营。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "wild flower",
+              "meaning": "野花",
+              "example": "This region is the home of many species of wild flower.",
+              "translation": "这个地区有很多种类的野花。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "wild animal",
+              "meaning": "n. 野生动物；野兽",
+              "example": "He was attacked by wild animals.",
+              "translation": "他被野兽袭击了。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "run wild",
+              "meaning": "失去控制；变得荒芜",
+              "example": "The ivy has run wild.",
+              "translation": "常春藤长疯了。",
+              "source": "《牛津词典》"
+            }
+          ],
+          "example": "They went camping in the wild.",
+          "exampleTranslation": "他们在野外露营。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "plastic",
+          "day": 6,
+          "word": "plastic",
+          "phonetic": "/ˈplæstɪk/",
+          "part": "n.",
+          "meaning": "塑料",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "plasticizer",
+              "塑化剂；可塑剂"
+            ],
+            [
+              "plasticity",
+              "塑性，可塑性；适应性；柔软性"
+            ],
+            [
+              "plasticiser",
+              "增塑剂"
+            ],
+            [
+              "plastically",
+              "可塑性"
+            ],
+            [
+              "plasticize",
+              "塑化"
+            ],
+            [
+              "plasticise",
+              "（英）增塑（等于plasticize）"
+            ]
+          ],
+          "phrases": [
+            "plastic deformation",
+            "plastic film",
+            "plastic bag",
+            "plastic packaging"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "plastic deformation",
+              "meaning": "[化]塑性变形，塑性应变",
+              "example": "Plastic deformation is the ability of bend or deform before breaking.",
+              "translation": "塑性变形就是在断裂前弯曲或变形的能力。",
+              "source": ""
+            },
+            {
+              "phrase": "plastic film",
+              "meaning": "塑料薄膜；塑胶膜",
+              "example": "This is covered in plastic film.",
+              "translation": "覆盖它的是塑料薄膜。",
+              "source": ""
+            },
+            {
+              "phrase": "plastic bag",
+              "meaning": "塑料袋；塑胶袋",
+              "example": "A plastic bag was floating in the water.",
+              "translation": "一个塑料袋在水中漂浮。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "plastic packaging",
+              "meaning": "塑料封装",
+              "example": "On the bottom of most plastic packaging, there's a small triangle with a letter or a number written inside.",
+              "translation": "在大多数塑料包装的底部都有一个小三角形，里面写着一个字母或数字。",
+              "source": ""
+            }
+          ],
+          "example": "Plastic deformation is the ability of bend or deform before breaking.",
+          "exampleTranslation": "塑性变形就是在断裂前弯曲或变形的能力。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "reply",
+          "day": 6,
+          "word": "reply",
+          "phonetic": "/rɪˈplaɪ/",
+          "part": "n.& v.",
+          "meaning": "回答；回应",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "reply-paid",
+              "回覆已付款"
+            ],
+            [
+              "replying",
+              "回复。"
+            ],
+            [
+              "replyer",
+              "回复者"
+            ],
+            [
+              "replies",
+              "规则词形"
+            ],
+            [
+              "replyed",
+              "规则词形"
+            ]
+          ],
+          "phrases": [
+            "in reply",
+            "no reply",
+            "reply for",
+            "reply immediately"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "in reply",
+              "meaning": "作为答复",
+              "example": "He said in reply that the question was unfair.",
+              "translation": "他回答说这个问题不公平。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "no reply",
+              "meaning": "无回答，无应答",
+              "example": "I asked her what her name was but she made no reply.",
+              "translation": "我问她叫什么名字，但她没有回答。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "reply for",
+              "meaning": "代表…作答",
+              "example": "For several seconds he did not reply.",
+              "translation": "一连几秒钟，他都没有回答。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "reply immediately",
+              "meaning": "速复",
+              "example": "Everybody agrees that we should not reply immediately.",
+              "translation": "大家都同意我们不应立即答复。",
+              "source": ""
+            }
+          ],
+          "example": "He said in reply that the question was unfair.",
+          "exampleTranslation": "他回答说这个问题不公平。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退",
+              "Datamuse"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "assume",
+          "day": 6,
+          "word": "assume",
+          "phonetic": "/əˈsuːm/",
+          "part": "v.",
+          "meaning": "假设",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "assumed",
+              "假定的；假装的"
+            ],
+            [
+              "assumedly",
+              "大概；多半"
+            ]
+          ],
+          "phrases": [
+            "assume responsibility",
+            "assume liability",
+            "subjective assume"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "assume responsibility",
+              "meaning": "承担责任",
+              "example": "Some sensitive individuals may assume responsibility for other people's sadness or anger, which ultimately stresses them out.",
+              "translation": "一些敏感的人可能会为他人的悲伤或愤怒承担责任，这最终会让他们感到压力。",
+              "source": ""
+            },
+            {
+              "phrase": "assume liability",
+              "meaning": "承担责任",
+              "example": "Chen asked to continue to perform the contract, and asked to assume liability for breach of contract.",
+              "translation": "陈某要求继续履行合同，并要求戴某承担违约责任。",
+              "source": ""
+            },
+            {
+              "phrase": "subjective assume",
+              "meaning": "主观臆断",
+              "example": "After all, when it comes to other humans, we can only assume they have subjective awareness too.",
+              "translation": "毕竟一旦涉及到其他人，我们只能假设他们也有主观意识。",
+              "source": ""
+            }
+          ],
+          "example": "Some sensitive individuals may assume responsibility for other people's sadness or anger, which ultimately stresses them out.",
+          "exampleTranslation": "一些敏感的人可能会为他人的悲伤或愤怒承担责任，这最终会让他们感到压力。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 3,
+            "phraseCount": 3
+          },
+          "enriched": true
+        },
+        {
+          "id": "composition",
+          "day": 6,
+          "word": "composition",
+          "phonetic": "/kɑmpəˈzɪʃən/",
+          "part": "n.",
+          "meaning": "创作；作文；构图",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "composed",
+              "镇静的；沉着的"
+            ],
+            [
+              "composer",
+              "作曲家；作家，著作者；设计者"
+            ],
+            [
+              "compose",
+              "组成；作曲；排字"
+            ]
+          ],
+          "phrases": [
+            "chemical composition",
+            "mineral composition",
+            "phase composition",
+            "species composition"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "chemical composition",
+              "meaning": "化学成分；化学组成",
+              "example": "The chemical composition of rainfall changes slightly as raid clouds move.",
+              "translation": "当雨云移动时，降雨的化学成分略有变化。",
+              "source": ""
+            },
+            {
+              "phrase": "mineral composition",
+              "meaning": "矿物组成，矿物成分",
+              "example": "A group of volcanic vents will produce a lava of the same mineral composition.",
+              "translation": "一群火山口将产生相同矿物成份的熔岩。",
+              "source": ""
+            },
+            {
+              "phrase": "phase composition",
+              "meaning": "相组成；相成分；相位成分",
+              "example": "I take my gas phase composition out and I re-liquefy it.",
+              "translation": "把气相部分拿出来再液化。",
+              "source": ""
+            },
+            {
+              "phrase": "species composition",
+              "meaning": "物种组成；种类成分",
+              "example": "There is usually a good deal of turnover in species composition, even in a mature community.",
+              "translation": "即使在一个成熟的群落中，物种组成通常也有很大的变化。",
+              "source": ""
+            }
+          ],
+          "example": "The chemical composition of rainfall changes slightly as raid clouds move.",
+          "exampleTranslation": "当雨云移动时，降雨的化学成分略有变化。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "sunshine",
+          "day": 6,
+          "word": "sunshine",
+          "phonetic": "/ˈsʌnʃaɪn/",
+          "part": "n.",
+          "meaning": "阳光",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "sunny",
+              "阳光充足的，和煦的；快活的；性情开朗的"
+            ]
+          ],
+          "phrases": [
+            "in the sunshine",
+            "sunshine duration",
+            "sunshine hotel",
+            "brilliant sunshine"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "in the sunshine",
+              "meaning": "在阳光下",
+              "example": "The bay glittered in the sunshine.",
+              "translation": "海湾在阳光下闪闪发光。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "sunshine duration",
+              "meaning": "日照时间；日照延时",
+              "example": "The trends of air temperature, precipitation and sunshine duration changes exhibited spatial variations over the research regions.",
+              "translation": "研究区气温、降水量、日照时数的变化趋势在空间分布上存在着一定的区域差异。",
+              "source": ""
+            },
+            {
+              "phrase": "sunshine hotel",
+              "meaning": "阳光酒店",
+              "example": "How far is Sunshine Hotel from here?",
+              "translation": "阳光酒店离这儿有多远？",
+              "source": ""
+            },
+            {
+              "phrase": "brilliant sunshine",
+              "meaning": "灿烂的阳光",
+              "example": "The event was held in brilliant sunshine.",
+              "translation": "这次活动在灿烂的阳光下举行。",
+              "source": "《柯林斯英汉双解大词典》"
+            }
+          ],
+          "example": "The bay glittered in the sunshine.",
+          "exampleTranslation": "海湾在阳光下闪闪发光。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "union",
+          "day": 6,
+          "word": "union",
+          "phonetic": "/ˈjuːnjən/",
+          "part": "n.",
+          "meaning": "联合；联盟",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "unionized",
+              "组织成工会的；[物][化学] 未电离的"
+            ],
+            [
+              "unionism",
+              "工会主义；联合主义；联邦主义"
+            ],
+            [
+              "unionization",
+              "工会化；联合；结合"
+            ],
+            [
+              "unionist",
+              "工会会员；联合主义者"
+            ],
+            [
+              "unionize",
+              "加入工会；成立工会"
+            ]
+          ],
+          "phrases": [
+            "european union",
+            "soviet union",
+            "trade union",
+            "student union"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "european union",
+              "meaning": "欧洲联盟，欧盟",
+              "example": "The hotel flies the European Union flag.",
+              "translation": "这家饭店悬挂着欧盟的旗帜。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "soviet union",
+              "meaning": "前苏联（1922-1991，首都莫斯科Moscow，位于欧、亚洲）",
+              "example": "The Soviet Union sent the first space station into space in 1971.",
+              "translation": "前苏联于1971年将首个空间站送入了太空。",
+              "source": ""
+            },
+            {
+              "phrase": "trade union",
+              "meaning": "工会",
+              "example": "",
+              "translation": "",
+              "source": ""
+            },
+            {
+              "phrase": "student union",
+              "meaning": "学生会；大学的学生活动大楼",
+              "example": "Bob is running for chairman of the student union.",
+              "translation": "鲍勃正在竞选学生会主席。",
+              "source": ""
+            }
+          ],
+          "example": "The hotel flies the European Union flag.",
+          "exampleTranslation": "这家饭店悬挂着欧盟的旗帜。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 3,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "legal",
+          "day": 6,
+          "word": "legal",
+          "phonetic": "/ˈliːɡəl/",
+          "part": "adj.",
+          "meaning": "合法的",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "legally",
+              "合法地；法律上"
+            ],
+            [
+              "legality",
+              "合法；合法性；墨守法规"
+            ],
+            [
+              "legalization",
+              "[法] 合法化；法律认可"
+            ],
+            [
+              "legalisation",
+              "合法化；正当化"
+            ],
+            [
+              "legalism",
+              "拘泥于法律或规定的人；律法尊重主义者；守法主义；法律术语"
+            ],
+            [
+              "legalese",
+              "法律术语，法律措辞"
+            ],
+            [
+              "legalize",
+              "使合法化；公认；法律上认为…正当"
+            ],
+            [
+              "legalise",
+              "使合法化（等于legalize）"
+            ]
+          ],
+          "phrases": [
+            "legal system",
+            "legal status",
+            "legal protection",
+            "legal services"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "legal system",
+              "meaning": "法律制度",
+              "example": "Their legal system parallels our own.",
+              "translation": "他们的法律制度与我们的相似。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "legal status",
+              "meaning": "法律地位",
+              "example": "In fact, the legal status of schools as administrative subjects was already acknowledged in the history at home and abroad.",
+              "translation": "事实上，从对国内外的历史考察看来，学校作为行政主体的法律地位已经得到承认。",
+              "source": ""
+            },
+            {
+              "phrase": "legal protection",
+              "meaning": "法律保护；合法保护",
+              "example": "Legal protection is provided for the owners of intellectual property.",
+              "translation": "知识产权所有者受到法律保护。",
+              "source": ""
+            },
+            {
+              "phrase": "legal services",
+              "meaning": "法律服务",
+              "example": "During the decade before the economic crisis, spending on legal services in America grew twice as fast as inflation.",
+              "translation": "在经济危机前的十年里，美国法律服务支出的增长速度是通货膨胀的两倍。",
+              "source": ""
+            }
+          ],
+          "example": "Their legal system parallels our own.",
+          "exampleTranslation": "他们的法律制度与我们的相似。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "death",
+          "day": 6,
+          "word": "death",
+          "phonetic": "/ˈdeθ/",
+          "part": "n.",
+          "meaning": "死亡；死神",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "dead",
+              "无生命的；呆板的；废弃了的"
+            ],
+            [
+              "deadly",
+              "致命的；非常的；死一般的"
+            ],
+            [
+              "deadness",
+              "死；死一样的状态；无精打采"
+            ],
+            [
+              "deaden",
+              "变得如死一般；失去活力"
+            ]
+          ],
+          "phrases": [
+            "life and death",
+            "cause of death",
+            "death penalty",
+            "death rate"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "life and death",
+              "meaning": "生与死，死活",
+              "example": "As the proverb says, \"Your tongue has the power of life and death.\"",
+              "translation": "正如谚语所说：“言语拥有决定生死的力量。”",
+              "source": ""
+            },
+            {
+              "phrase": "cause of death",
+              "meaning": "死因",
+              "example": "The immediate cause of death is unknown.",
+              "translation": "造成死亡的直接原因不明。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "death penalty",
+              "meaning": "死刑",
+              "example": "Are you for or against the death penalty?",
+              "translation": "你赞成还是反对死刑？",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "death rate",
+              "meaning": "死亡率",
+              "example": "By the turn of the century, Pittsburgh had the highest death rate in the United States.",
+              "translation": "到了世纪交替时，匹兹堡的死亡率居全美之首。",
+              "source": "《柯林斯英汉双解大词典》"
+            }
+          ],
+          "example": "As the proverb says, \"Your tongue has the power of life and death.\"",
+          "exampleTranslation": "正如谚语所说：“言语拥有决定生死的力量。”",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "observe",
+          "day": 6,
+          "word": "observe",
+          "phonetic": "/əˈbzɜːrv/",
+          "part": "v.",
+          "meaning": "观察；庆祝；遵守",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "observed",
+              "观察的；观测的"
+            ],
+            [
+              "observer",
+              "观察者；[天] 观测者；遵守者"
+            ]
+          ],
+          "phrases": [
+            "observe on"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "observe on",
+              "meaning": "评论",
+              "example": "And, that's what we observe on that picture there.",
+              "translation": "那就是我们在那幅图画所观察到的。",
+              "source": ""
+            }
+          ],
+          "example": "And, that's what we observe on that picture there.",
+          "exampleTranslation": "那就是我们在那幅图画所观察到的。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 1,
+            "phraseCount": 1
+          },
+          "enriched": true
+        },
+        {
+          "id": "splendid",
+          "day": 6,
+          "word": "splendid",
+          "phonetic": "/ˈsplendəd/",
+          "part": "adj.",
+          "meaning": "极好的；杰出的；灿烂的",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "splendidly",
+              "华丽地；豪华地；壮观地"
+            ]
+          ],
+          "phrases": [],
+          "phraseExamples": [],
+          "example": "The moon is splendid.",
+          "exampleTranslation": "",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退",
+              "Tatoeba"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 0,
+            "phraseCount": 0
+          },
+          "enriched": true
+        },
+        {
+          "id": "rent",
+          "day": 6,
+          "word": "rent",
+          "phonetic": "/ˈrent/",
+          "part": "n.",
+          "meaning": "租金 (v.)出租",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "rental",
+              "租赁的；收取租金的"
+            ],
+            [
+              "rentable",
+              "可租的"
+            ],
+            [
+              "renter",
+              "承租人；佃户；房东；（英）影片出租商"
+            ],
+            [
+              "rente",
+              "（法）年金，年收入；长期公债，公债利息"
+            ]
+          ],
+          "phrases": [
+            "for rent",
+            "rent out",
+            "pay the rent",
+            "pay rent"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "for rent",
+              "meaning": "出租；供出租",
+              "example": "The property is for rent with an option to buy at any time.",
+              "translation": "这房子供出租，但可随时买下。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "rent out",
+              "meaning": "租出",
+              "example": "We rent out rooms in our house to students.",
+              "translation": "我们把住宅里的房间出租给学生。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "pay the rent",
+              "meaning": "付租金",
+              "example": "She worked to pay the rent while I went to college.",
+              "translation": "当我读大学时，她工作挣钱来付租金。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "pay rent",
+              "meaning": "付租金",
+              "example": "Sarina Harper, a 19-year-old student at Virginia Tech, was faced with a tough dilemma when she first started college in 2015—pay rent or pay to turn in her chemistry homework.",
+              "translation": "19岁的萨琳娜·哈珀是弗吉尼亚理工大学的一名学生。在2015年刚开始上大学的时候，她面临着一个两难的困境：要么交房租，要么花钱交化学作业。",
+              "source": ""
+            }
+          ],
+          "example": "The property is for rent with an option to buy at any time.",
+          "exampleTranslation": "这房子供出租，但可随时买下。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "distinguish",
+          "day": 6,
+          "word": "distinguish",
+          "phonetic": "/dɪˈstɪŋɡwɪʃ/",
+          "part": "v.",
+          "meaning": "辨别，区分",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "distinct",
+              "明显的；独特的；清楚的；有区别的"
+            ],
+            [
+              "distinctively",
+              "特殊地；区别地"
+            ],
+            [
+              "distinction",
+              "区别；差别；特性；荣誉、勋章"
+            ],
+            [
+              "distinctiveness",
+              "特殊性；区别性；辨别性"
+            ]
+          ],
+          "phrases": [
+            "distinguish oneself",
+            "distinguish between",
+            "distinguish from"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "distinguish oneself",
+              "meaning": "使扬名；使杰出",
+              "example": "The ability to distinguish oneself from others had been shown only in humans, chimpanzees and, to a limited extent, dolphins.",
+              "translation": "目前，只有人类和黑猩猩具备这种能将自己与其他动物区分开的能力。另外，海豚也在某种程度上具备这种能力。",
+              "source": ""
+            },
+            {
+              "phrase": "distinguish between",
+              "meaning": "v. 区别；分辨",
+              "example": "He could no longer distinguish between illusion and reality.",
+              "translation": "他再也分不清幻想与现实之间的区别了。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "distinguish from",
+              "meaning": "区别，辨别",
+              "example": "When they stop beating their wings, they'd be much harder for the bat to distinguish from a leaf or some other object.",
+              "translation": "当它们停止拍打翅膀，蝙蝠就很难将它们与一片树叶或者其他什么东西区分开。",
+              "source": ""
+            }
+          ],
+          "example": "The ability to distinguish oneself from others had been shown only in humans, chimpanzees and, to a limited extent, dolphins.",
+          "exampleTranslation": "目前，只有人类和黑猩猩具备这种能将自己与其他动物区分开的能力。另外，海豚也在某种程度上具备这种能力。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 3,
+            "phraseCount": 3
+          },
+          "enriched": true
+        },
+        {
+          "id": "lead",
+          "day": 6,
+          "word": "lead",
+          "phonetic": "/ˈled/",
+          "part": "v.",
+          "meaning": "领导；导致",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "leading",
+              "领导的；主要的"
+            ],
+            [
+              "leaded",
+              "[冶] 加铅的"
+            ],
+            [
+              "leaden",
+              "铅灰色的；铅制的；沉闷的；铅一般重的"
+            ],
+            [
+              "leadless",
+              "无铅的；不含四乙铅的"
+            ],
+            [
+              "leadership",
+              "领导能力；领导阶层"
+            ],
+            [
+              "leader",
+              "领导者；首领；指挥者"
+            ]
+          ],
+          "phrases": [
+            "lead in",
+            "take the lead",
+            "in the lead",
+            "lead time"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "lead in",
+              "meaning": "导入；引入线；开场白",
+              "example": "She took the lead in the second lap.",
+              "translation": "她在第二圈时领先。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "take the lead",
+              "meaning": "v. 带头；为首",
+              "example": "We should be aware not to let the black sheep take the lead.",
+              "translation": "我们应该注意不要让害群之马来领头。",
+              "source": ""
+            },
+            {
+              "phrase": "in the lead",
+              "meaning": "领先；主要的；占主导地位的",
+              "example": "But Brazil's probably in the lead as far as biofuels are concerned—they've got to the point where they don't need to import any oil now.",
+              "translation": "但就生物燃料而言，巴西可能处于领先地位，因为他们现在根本无需进口石油。",
+              "source": ""
+            },
+            {
+              "phrase": "lead time",
+              "meaning": "n. 提前期；订货至交货的时间；研制周期；交付周期",
+              "example": "Paul: What about lead time?",
+              "translation": "保罗：交货时间呢？",
+              "source": ""
+            }
+          ],
+          "example": "She took the lead in the second lap.",
+          "exampleTranslation": "她在第二圈时领先。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "effect",
+          "day": 6,
+          "word": "effect",
+          "phonetic": "/ɪˈfekt/",
+          "part": "n.",
+          "meaning": "影响；作用",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "effective",
+              "有效的，起作用的；实际的，实在的；给人深刻印象"
+            ],
+            [
+              "effectively",
+              "有效地，生效地；有力地；实际上"
+            ],
+            [
+              "effectiveness",
+              "效力"
+            ],
+            [
+              "effector",
+              "[生理] 效应器；[遗] 效应物；操纵装置"
+            ],
+            [
+              "effectivity",
+              "有效；功效"
+            ]
+          ],
+          "phrases": [
+            "effect on",
+            "curative effect",
+            "main effect",
+            "negative effect"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "effect on",
+              "meaning": "对…的作用",
+              "example": "Her words had a magical effect on us.",
+              "translation": "她的话对我们有一种魔力般的作用。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "curative effect",
+              "meaning": "疗效",
+              "example": "The objective is to observe the curative effect of hemoperfusion and long-acting Tuoning in the treatment of heavy organophosphorus pesticide poisoning (HOPP).",
+              "translation": "目的是为了观察血液灌流联合长效托宁治疗重度有机磷农药中毒（HOPP）的疗效。",
+              "source": ""
+            },
+            {
+              "phrase": "main effect",
+              "meaning": "主效应",
+              "example": "The gases that may be warming the planet will have their main effect many years hence.",
+              "translation": "这些可能正在使行星变暖的气体，其重要影响将在许多年之后显现。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "negative effect",
+              "meaning": "负面影响；负效应；负磁力效应",
+              "example": "The crisis had a negative effect on trade.",
+              "translation": "这次危机对贸易产生了很坏的影响。",
+              "source": "《牛津词典》"
+            }
+          ],
+          "example": "Her words had a magical effect on us.",
+          "exampleTranslation": "她的话对我们有一种魔力般的作用。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "refer",
+          "day": 6,
+          "word": "refer",
+          "phonetic": "/rəˈfɜːr/",
+          "part": "v.",
+          "meaning": "提到；参考；查阅",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "referenced",
+              "引用的，参考的"
+            ],
+            [
+              "referential",
+              "指示的；用作参考的"
+            ],
+            [
+              "referable",
+              "可归因于…；可参考的；可交付的；可涉及的"
+            ],
+            [
+              "reference",
+              "参考，参照；涉及，提及；参考书目；介绍信；证明书"
+            ]
+          ],
+          "phrases": [
+            "refer to as",
+            "refer a friend"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "refer to as",
+              "meaning": "把…称作…",
+              "example": "The bottom line is that some animals called \"caribou\" now may be what people in Finland and other countries refer to as \"reindeer\".",
+              "translation": "归根结底，一些被称为“卡里布”的动物，可能就是芬兰等国人们所说的“驯鹿”。",
+              "source": ""
+            },
+            {
+              "phrase": "refer a friend",
+              "meaning": "介绍朋友；引见朋友",
+              "example": "Refer a friend, you will earn RM6, your friend will get 30 minutes talk time.",
+              "translation": "你直接推荐一个朋友，你会获得RM6，你的朋友会获得30分钟通话时间。",
+              "source": ""
+            }
+          ],
+          "example": "The bottom line is that some animals called \"caribou\" now may be what people in Finland and other countries refer to as \"reindeer\".",
+          "exampleTranslation": "归根结底，一些被称为“卡里布”的动物，可能就是芬兰等国人们所说的“驯鹿”。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 2,
+            "phraseCount": 2
+          },
+          "enriched": true
+        },
+        {
+          "id": "power",
+          "day": 6,
+          "word": "power",
+          "phonetic": "/ˈpaʊər/",
+          "part": "n.",
+          "meaning": "权力；力量；电力",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "powerlessly",
+              "麻痹地"
+            ],
+            [
+              "powerful",
+              "强大的；强有力的"
+            ],
+            [
+              "powered",
+              "有动力装置的；以…为动力的"
+            ],
+            [
+              "powerless",
+              "无力的；[劳经] 无能力的，无权的"
+            ],
+            [
+              "powerfulness",
+              "有力；强烈"
+            ],
+            [
+              "powerlessness",
+              "无力；无能为力；无力量"
+            ]
+          ],
+          "phrases": [
+            "in power",
+            "power supply",
+            "electric power",
+            "power plant"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "in power",
+              "meaning": "adj. 执政的；掌权的；当权的",
+              "example": "If he thinks he can remain in power by force, he is courting disaster.",
+              "translation": "如果他认为可以通过武力维持权力的话，那就是在招灾惹祸。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "power supply",
+              "meaning": "电源；电源供应器",
+              "example": "We finally got the new power supply in.",
+              "translation": "我们终于接通了新电源。",
+              "source": ""
+            },
+            {
+              "phrase": "electric power",
+              "meaning": "电力；电功率",
+              "example": "He is building a four-wheeled robot that will run on solar and electric power.",
+              "translation": "他正在建造一个四轮机器人，其将依靠太阳能和电力运行。",
+              "source": ""
+            },
+            {
+              "phrase": "power plant",
+              "meaning": "发电厂；动力装置",
+              "example": "Place down the finished power plant and start another refinery.",
+              "translation": "放下建造完成的电厂并开始建造另一个精炼厂。",
+              "source": ""
+            }
+          ],
+          "example": "If he thinks he can remain in power by force, he is courting disaster.",
+          "exampleTranslation": "如果他认为可以通过武力维持权力的话，那就是在招灾惹祸。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "marriage",
+          "day": 6,
+          "word": "marriage",
+          "phonetic": "/ˈmerɪdʒ/",
+          "part": "n.",
+          "meaning": "婚姻；婚姻生活",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "marry",
+              "结婚"
+            ]
+          ],
+          "phrases": [
+            "marriage law",
+            "happy marriage",
+            "marriage certificate",
+            "gay marriage"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "marriage law",
+              "meaning": "婚姻法",
+              "example": "In 1980, the first amendment to the Marriage Law was issued.",
+              "translation": "1980年，《婚姻法》进行了首次修订后颁布。",
+              "source": ""
+            },
+            {
+              "phrase": "happy marriage",
+              "meaning": "美满的婚姻",
+              "example": "Constant arguing doesn't make for a happy marriage.",
+              "translation": "不断争吵不可能使婚姻幸福。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "marriage certificate",
+              "meaning": "结婚证书",
+              "example": "The pastor showed the marriage certificate to all of the guests.",
+              "translation": "牧师向所有来宾展示了他们的结婚证书。",
+              "source": ""
+            },
+            {
+              "phrase": "gay marriage",
+              "meaning": "同性恋婚姻",
+              "example": "The ruling puts Walker at the forefront of the gay marriage debate.",
+              "translation": "这项裁决将沃克摆在在同性婚姻辩论的最前端。",
+              "source": ""
+            }
+          ],
+          "example": "In 1980, the first amendment to the Marriage Law was issued.",
+          "exampleTranslation": "1980年，《婚姻法》进行了首次修订后颁布。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "brilliant",
+          "day": 6,
+          "word": "brilliant",
+          "phonetic": "/ˈbrɪljənt/",
+          "part": "adj.",
+          "meaning": "明亮的；才华横溢的",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "brilliantly",
+              "灿烂地；辉煌地；光亮地"
+            ]
+          ],
+          "phrases": [
+            "brilliant blue",
+            "brilliant sunshine",
+            "brilliant green",
+            "coomassie brilliant blue"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "brilliant blue",
+              "meaning": "鲜蓝；酞青；孔雀兰",
+              "example": "The sky was a brilliant blue.",
+              "translation": "天空一片蔚蓝。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "brilliant sunshine",
+              "meaning": "灿烂的阳光",
+              "example": "The event was held in brilliant sunshine.",
+              "translation": "这次活动在灿烂的阳光下举行。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "brilliant green",
+              "meaning": "亮绿",
+              "example": "The woman had brilliant green eyes.",
+              "translation": "这个女人有一双亮晶晶的绿眼睛。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "coomassie brilliant blue",
+              "meaning": "考马斯亮蓝",
+              "example": "Coomassie Brilliant Blue method was used to quantify the proteins in cells.",
+              "translation": "考马斯亮蓝微板法测定细胞内蛋白总量。",
+              "source": ""
+            }
+          ],
+          "example": "The sky was a brilliant blue.",
+          "exampleTranslation": "天空一片蔚蓝。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "speech",
+          "day": 6,
+          "word": "speech",
+          "phonetic": "/ˈspiːtʃ/",
+          "part": "n.",
+          "meaning": "说话；演讲",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "speechless",
+              "说不出话的；哑的；非言语所能表达的"
+            ],
+            [
+              "speechlessly",
+              "一时不知怎么说地；哑口无言地"
+            ],
+            [
+              "speechlessness",
+              "一时讲不出话来的样子；哑口无言"
+            ],
+            [
+              "speechmaker",
+              "演讲人；演说家"
+            ],
+            [
+              "speechwriter",
+              "演讲稿撰写人"
+            ],
+            [
+              "speechify",
+              "演说；喋喋不休地说；高谈阔论"
+            ]
+          ],
+          "phrases": [
+            "speech recognition",
+            "freedom of speech",
+            "speech signal",
+            "speech act"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "speech recognition",
+              "meaning": "语音辨识",
+              "example": "The experiment shows that the MAP algorithm can considerably reduce the error rate of Mandarin digital speech recognition.",
+              "translation": "实验表明，MAP 算法可以大幅降低汉语数码语音识别的错误率。",
+              "source": ""
+            },
+            {
+              "phrase": "freedom of speech",
+              "meaning": "言论自由",
+              "example": "They were fighting for freedom of speech and freedom of assembly.",
+              "translation": "他们为言论自由和集会自由而斗争。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "speech signal",
+              "meaning": "语言信号，语音信号",
+              "example": "And the second part introduces the characteristics of speech signal and some key technique.",
+              "translation": "第二章则介绍语音信号的特性和处理的一些关键技术。",
+              "source": ""
+            },
+            {
+              "phrase": "speech act",
+              "meaning": "言语行为",
+              "example": "It's a speech act. Come on, I'm not just making marks.",
+              "translation": "它是一个言语行为得了吧，我不仅仅是做记号。",
+              "source": ""
+            }
+          ],
+          "example": "The experiment shows that the MAP algorithm can considerably reduce the error rate of Mandarin digital speech recognition.",
+          "exampleTranslation": "实验表明，MAP 算法可以大幅降低汉语数码语音识别的错误率。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "director",
+          "day": 6,
+          "word": "director",
+          "phonetic": "/dərˈektər/",
+          "part": "n.",
+          "meaning": "主管，主任；导演",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "direct",
+              "直接的；直系的；亲身的；恰好的"
+            ],
+            [
+              "directory",
+              "指导的；咨询的"
+            ],
+            [
+              "directive",
+              "指导的；管理的"
+            ],
+            [
+              "directed",
+              "定向的；经指导的；被控制的"
+            ],
+            [
+              "direction",
+              "方向；指导；趋势；用法说明"
+            ],
+            [
+              "directorship",
+              "管理者的职位"
+            ]
+          ],
+          "phrases": [
+            "deputy director",
+            "managing director",
+            "vice director",
+            "executive director"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "deputy director",
+              "meaning": "副局长，副厅长；副院长",
+              "example": "They opposed her nomination to the post of Deputy Director.",
+              "translation": "他们反对任命她为副主任。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "managing director",
+              "meaning": "n. 总经理，常务董事",
+              "example": "He rose through the ranks to become managing director.",
+              "translation": "他级级攀升，当上了常务董事。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "vice director",
+              "meaning": "副处长；副主任；副院长；副会长",
+              "example": "During the visit, Masaya Amano met with Liu Quan, vice director of the Department of Commerce of Hunan Province.",
+              "translation": "在长沙访问期间，天野真也所长接受了湖南省商务厅副厅长刘权的会见。",
+              "source": ""
+            },
+            {
+              "phrase": "executive director",
+              "meaning": "执行理事；常务董事",
+              "example": "The new report \"couldn't come at a better time\", says Gerald Wheeler, executive director of the National Science Teachers Association in Arlington.",
+              "translation": "位于阿灵顿的美国国家科学教师协会执行理事杰拉尔德·惠勒表示，这份新报告“来得正是时候”。",
+              "source": ""
+            }
+          ],
+          "example": "They opposed her nomination to the post of Deputy Director.",
+          "exampleTranslation": "他们反对任命她为副主任。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "replace",
+          "day": 6,
+          "word": "replace",
+          "phonetic": "/riˈpleɪs/",
+          "part": "v.",
+          "meaning": "取代，替代",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "replaceable",
+              "可替换的；可置换的；可放在原处的"
+            ],
+            [
+              "replacement",
+              "更换；复位；代替者；补充兵员"
+            ],
+            [
+              "replaceability",
+              "可替换性，替代性；置换能力"
+            ]
+          ],
+          "phrases": [
+            "replace with",
+            "replace by"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "replace with",
+              "meaning": "替换为；以…代替",
+              "example": "Although the tradition is to use painted chicken eggs, a modern custom is to replace with chocolate eggs or plastic eggs filled with confectionery.",
+              "translation": "虽然传统规定使用彩绘的鸡蛋，但是现代风俗里用巧克力彩蛋或装满糖果的塑料彩蛋代替。",
+              "source": ""
+            },
+            {
+              "phrase": "replace by",
+              "meaning": "取代；以…代替",
+              "example": "Now it is replace by a supermarket.",
+              "translation": "现在已经被一家超市取代了。",
+              "source": ""
+            }
+          ],
+          "example": "Although the tradition is to use painted chicken eggs, a modern custom is to replace with chocolate eggs or plastic eggs filled with confectionery.",
+          "exampleTranslation": "虽然传统规定使用彩绘的鸡蛋，但是现代风俗里用巧克力彩蛋或装满糖果的塑料彩蛋代替。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 2,
+            "phraseCount": 2
+          },
+          "enriched": true
+        },
+        {
+          "id": "autonomous",
+          "day": 6,
+          "word": "autonomous",
+          "phonetic": "/ɔˈtɑnəməs/",
+          "part": "adj.",
+          "meaning": "自治的；自主的",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "autonomy",
+              "自治，自治权"
+            ]
+          ],
+          "phrases": [
+            "autonomous region",
+            "autonomous county",
+            "autonomous prefecture",
+            "autonomous system"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "autonomous region",
+              "meaning": "自治区",
+              "example": "Five of the six provinces are to become autonomous regions in a new federal system of government.",
+              "translation": "在新的联邦政府体制下，6个省中的5个将成为自治区。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "autonomous county",
+              "meaning": "自治县",
+              "example": "First chapter introduced Yugur minority Autonomous County and profile of investigation community.",
+              "translation": "第一章介绍了裕固族自治县及调查社区概况；",
+              "source": ""
+            },
+            {
+              "phrase": "autonomous prefecture",
+              "meaning": "自治州",
+              "example": "Kong Legan, deputy chief of Dehong Dai and Jingpo autonomous prefecture, which administers Yingjiang, said that all schools in the county will restart March 21.",
+              "translation": "主抓盈江县的德宏傣族和景颇族自治州副州长孔勒干说，全县所有的学校将3月21日复课。",
+              "source": ""
+            },
+            {
+              "phrase": "autonomous system",
+              "meaning": "自治系统；独立系统",
+              "example": "New electric engines coupled with artificial intelligence and autonomous systems will contribute to a more efficient, integrated transport system that is less polluting and less noisy.",
+              "translation": "新型电动引擎与人工智能和自主系统相结合，将有助于建立一个更高效、污染更少、噪音更少的综合运输系统。",
+              "source": ""
+            }
+          ],
+          "example": "Five of the six provinces are to become autonomous regions in a new federal system of government.",
+          "exampleTranslation": "在新的联邦政府体制下，6个省中的5个将成为自治区。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "output",
+          "day": 6,
+          "word": "output",
+          "phonetic": "/ˈaʊtpʊt/",
+          "part": "n.",
+          "meaning": "产量；输出",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "outputted",
+              "已输出"
+            ],
+            [
+              "outputs",
+              "输出"
+            ],
+            [
+              "outputting",
+              "输出"
+            ],
+            [
+              "outputter",
+              "输出者"
+            ]
+          ],
+          "phrases": [
+            "output power",
+            "output voltage",
+            "output value",
+            "power output"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "output power",
+              "meaning": "[化]输出功率",
+              "example": "His other trick is to boost the output power of the lasing material, neodymium-doped yttrium aluminium garnet.",
+              "translation": "他所采用的另一个诀窍就是提高激光物质，掺钕的钇铝石榴石的输出功率。",
+              "source": ""
+            },
+            {
+              "phrase": "output voltage",
+              "meaning": "输出电压",
+              "example": "A modified dead time compensation method was used to obtain better output voltage waveforms.",
+              "translation": "采用了改进的死区效应补偿方法以获得理想的输出波形。",
+              "source": ""
+            },
+            {
+              "phrase": "output value",
+              "meaning": "n. 输出值，产值",
+              "example": "Field 5: The EWU output value.",
+              "translation": "字段5：ewu输出值。",
+              "source": ""
+            },
+            {
+              "phrase": "power output",
+              "meaning": "功率输出；电源输出",
+              "example": "A lot of their work comes down to measurement—everything from the exact angle of a swimmer's dive to the second-by-second power output of a cyclist.",
+              "translation": "他们的许多工作都归结于测量——从游泳运动员跳水的准确角度，到自行车运动员每秒的动力输出。",
+              "source": ""
+            }
+          ],
+          "example": "His other trick is to boost the output power of the lasing material, neodymium-doped yttrium aluminium garnet.",
+          "exampleTranslation": "他所采用的另一个诀窍就是提高激光物质，掺钕的钇铝石榴石的输出功率。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退",
+              "Datamuse"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "gifted",
+          "day": 6,
+          "word": "gifted",
+          "phonetic": "/ˈɡɪftəd/",
+          "part": "adj.",
+          "meaning": "有天赋的",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "gift",
+              "礼物；天赋；赠品"
+            ]
+          ],
+          "phrases": [
+            "gifted with",
+            "gifted child",
+            "gifted student"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "gifted with",
+              "meaning": "有……的天赋",
+              "example": "He was gifted with a charming smile.",
+              "translation": "他有一副迷人的微笑。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "gifted child",
+              "meaning": "天才儿童",
+              "example": "Pays Attention to Details : A gifted child has a keen eye for details.",
+              "translation": "注意细节。 资优的孩子会把眼睛注意到细节上。",
+              "source": ""
+            },
+            {
+              "phrase": "gifted student",
+              "meaning": "资优生；高材生",
+              "example": "He is a gifted student and he has lots of friends.",
+              "translation": "她是个天资聪慧的学生，有很多的朋友。",
+              "source": ""
+            }
+          ],
+          "example": "He was gifted with a charming smile.",
+          "exampleTranslation": "他有一副迷人的微笑。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 3,
+            "phraseCount": 3
+          },
+          "enriched": true
+        },
+        {
+          "id": "teamwork",
+          "day": 6,
+          "word": "teamwork",
+          "phonetic": "/ˈtiːmwərk/",
+          "part": "n.",
+          "meaning": "配合；团队合作",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "teamworks",
+              "团队合作"
+            ]
+          ],
+          "phrases": [],
+          "phraseExamples": [],
+          "example": "",
+          "exampleTranslation": "",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退",
+              "Tatoeba",
+              "Datamuse"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 0,
+            "phraseCount": 0
+          },
+          "enriched": true
+        },
+        {
+          "id": "link",
+          "day": 6,
+          "word": "link",
+          "phonetic": "/ˈlɪŋk/",
+          "part": "n.& v.",
+          "meaning": "联系；连接",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "linked",
+              "连接的；联合的；显示连环遗传的"
+            ],
+            [
+              "linkage",
+              "连接；结合；联接；联动装置"
+            ]
+          ],
+          "phrases": [
+            "key link",
+            "link up",
+            "link with",
+            "weak link"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "key link",
+              "meaning": "关键环节；中心环节",
+              "example": "Reading is a key link of English teaching.",
+              "translation": "阅读是英语教学的主要环节。",
+              "source": ""
+            },
+            {
+              "phrase": "link up",
+              "meaning": "会合；连接；联系",
+              "example": "Where do the two railroads connect [link up]?",
+              "translation": "两条铁路在何处连接？",
+              "source": "《新英汉大辞典》"
+            },
+            {
+              "phrase": "link with",
+              "meaning": "与……有关；与……相连接",
+              "example": "She was my only link with the past.",
+              "translation": "她是我和过去的惟一联系。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "weak link",
+              "meaning": "薄弱环节；弱键",
+              "example": "The weak link in this case is “Geoff”.",
+              "translation": "在这种情况下薄弱的环节在于“Geoff”。",
+              "source": ""
+            }
+          ],
+          "example": "Reading is a key link of English teaching.",
+          "exampleTranslation": "阅读是英语教学的主要环节。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "average",
+          "day": 6,
+          "word": "average",
+          "phonetic": "/ˈævərɪdʒ/",
+          "part": "adj.",
+          "meaning": "平均的；普通的 (n.)平均数",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "averagely",
+              "平均"
+            ],
+            [
+              "averages",
+              "平均值"
+            ],
+            [
+              "averageness",
+              "平均"
+            ],
+            [
+              "averaged",
+              "（平均）"
+            ]
+          ],
+          "phrases": [
+            "an average of",
+            "an average",
+            "on average",
+            "average level"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "an average of",
+              "meaning": "平均是…",
+              "example": "Americans spend an average of over $722 each year on their appearance.",
+              "translation": "美国人平均每年在外表上花费722美元以上。",
+              "source": ""
+            },
+            {
+              "phrase": "an average",
+              "meaning": "一般说来；平均起来",
+              "example": "I'm just an average Joe.",
+              "translation": "我不过是个普通人。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "on average",
+              "meaning": "平均；普通，通常",
+              "example": "Shares rose, on average, by 38%.",
+              "translation": "股值平均上涨了38%。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "average level",
+              "meaning": "平均水平，平均能级",
+              "example": "The average level of vitamin D was found at 35.7 nmol/L.",
+              "translation": "研究发现，维生素D的平均浓度为35.7nmol/L.",
+              "source": ""
+            }
+          ],
+          "example": "Americans spend an average of over $722 each year on their appearance.",
+          "exampleTranslation": "美国人平均每年在外表上花费722美元以上。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退",
+              "Datamuse"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "section",
+          "day": 6,
+          "word": "section",
+          "phonetic": "/ˈsekʃən/",
+          "part": "n.",
+          "meaning": "部门；部分；章节",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "sectorial",
+              "扇形的，适于切割的"
+            ],
+            [
+              "sector",
+              "部门；扇形，扇区；象限仪；函数尺"
+            ]
+          ],
+          "phrases": [
+            "cross section",
+            "in this section",
+            "cesarean section",
+            "section steel"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "cross section",
+              "meaning": "横截面",
+              "example": "The authors want to deduce a brief formulation, and use all-purpose program to get exact result for echelon, rectangle and rotundity cross section.",
+              "translation": "作者想推导简短的公式，对梯形、矩形和圆形断面采用通用的程序，以得到准确的结果。",
+              "source": ""
+            },
+            {
+              "phrase": "in this section",
+              "meaning": "在这部分；本节内容",
+              "example": "In this section, you will hear two passages.",
+              "translation": "在这一部分，你将听到两篇文章。",
+              "source": ""
+            },
+            {
+              "phrase": "cesarean section",
+              "meaning": "剖腹产术",
+              "example": "Savage, 40, is due to give birth to a boy within the next two weeks via cesarean section.",
+              "translation": "萨维奇，40岁，将会在两周内通过剖腹产分娩生下一个男孩。",
+              "source": ""
+            },
+            {
+              "phrase": "section steel",
+              "meaning": "型钢",
+              "example": "Of course. plate, sheet and various kinds of section steel.",
+              "translation": "当然可以。各种中厚板和薄板，以及各种型钢。",
+              "source": ""
+            }
+          ],
+          "example": "The authors want to deduce a brief formulation, and use all-purpose program to get exact result for echelon, rectangle and rotundity cross section.",
+          "exampleTranslation": "作者想推导简短的公式，对梯形、矩形和圆形断面采用通用的程序，以得到准确的结果。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "amusement",
+          "day": 6,
+          "word": "amusement",
+          "phonetic": "/əˈmjuːzmənt/",
+          "part": "n.",
+          "meaning": "娱乐",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "amused",
+              "愉快的，顽皮的；被逗乐的"
+            ],
+            [
+              "amuse",
+              "娱乐；消遣；使发笑；使愉快"
+            ]
+          ],
+          "phrases": [
+            "amusement park",
+            "amusement center"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "amusement park",
+              "meaning": "游乐园",
+              "example": "The amusement park is open (from) May through October.",
+              "translation": "游乐园从五月到十月每天都开放。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "amusement center",
+              "meaning": "娱乐中心",
+              "example": "There will be an amusement center, some restaurants and hundreds of stores in the shopping mall.",
+              "translation": "商场里将会有一家娱乐中心，一些餐馆以及数百家商店。",
+              "source": ""
+            }
+          ],
+          "example": "The amusement park is open (from) May through October.",
+          "exampleTranslation": "游乐园从五月到十月每天都开放。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 2,
+            "phraseCount": 2
+          },
+          "enriched": true
+        },
+        {
+          "id": "develop",
+          "day": 6,
+          "word": "develop",
+          "phonetic": "/dɪˈveləp/",
+          "part": "v.",
+          "meaning": "发展；开发；形成",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "developed",
+              "发达的（国家或地区）；成熟的"
+            ],
+            [
+              "developing",
+              "发展中的"
+            ],
+            [
+              "developmental",
+              "发展的；启发的"
+            ],
+            [
+              "development",
+              "发展；开发；发育；住宅小区（专指由同一开发商开发的）；[摄] 显影"
+            ],
+            [
+              "developer",
+              "开发者；[摄] 显影剂"
+            ]
+          ],
+          "phrases": [
+            "(begin to) develop",
+            "develop into",
+            "develop from",
+            "develop simultaneously"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "(begin to) develop",
+              "meaning": "开展；（开始）成长",
+              "example": "",
+              "translation": "",
+              "source": ""
+            },
+            {
+              "phrase": "develop into",
+              "meaning": "发展成为",
+              "example": "These clashes could develop into open warfare.",
+              "translation": "这些冲突可能会发展成公开的战争。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "develop from",
+              "meaning": "成长于；从…发展出来",
+              "example": "Once language starts to develop from about age 2, they do have a system for symbolic representation and can talk about things which aren't in their immediate environment including the past.",
+              "translation": "一旦语言从2岁左右开始发展，他们就有了一个符号表征系统，可以谈论过去和现在环境之外的事情。",
+              "source": ""
+            },
+            {
+              "phrase": "develop simultaneously",
+              "meaning": "并举",
+              "example": "The real hope is to refine geoengineering methods and develop standards while simultaneously working toward a future in which they would never have to be used.",
+              "translation": "真正的希望是完善地球工程方法，开发操作标准，同时在其它方面作出努力，争取永远不要使用它。",
+              "source": ""
+            }
+          ],
+          "example": "These clashes could develop into open warfare.",
+          "exampleTranslation": "这些冲突可能会发展成公开的战争。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 3,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "anxious",
+          "day": 6,
+          "word": "anxious",
+          "phonetic": "/ˈæŋkʃəs/",
+          "part": "adj.",
+          "meaning": "焦虑的",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "anxiously",
+              "不安地，忧虑地"
+            ],
+            [
+              "anxiousness",
+              "焦急"
+            ]
+          ],
+          "phrases": [
+            "anxious about",
+            "anxious for",
+            "feel anxious",
+            "to be anxious"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "anxious about",
+              "meaning": "为……担心；对……着急",
+              "example": "He seemed anxious about the meeting.",
+              "translation": "他似乎对这次会议忧心忡忡。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "anxious for",
+              "meaning": "为…而焦虑",
+              "example": "UCLA pediatrician Carlos Lerner acknowledged that the pediatricians' new prescription may meet with skepticism (怀疑) from parents, who are anxious for advice on how to give their kids a leg up in the world.",
+              "translation": "加利福尼亚大学洛杉矶分校的儿科医生卡洛斯·勒纳承认，他们的新建议可能会受到父母的怀疑，因为父母们迫切需要帮助他们孩子在社会上立足。",
+              "source": ""
+            },
+            {
+              "phrase": "feel anxious",
+              "meaning": "变得着急",
+              "example": "You're likely to feel anxious and pressured.",
+              "translation": "你可能会感到焦虑并且有压力。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "to be anxious",
+              "meaning": "急于做",
+              "example": "It is OK to be anxious, but remember that there is light at the end of the channel and life will get normal again.",
+              "translation": "感到焦虑是没关系的，但请记住，隧道的尽头有光，生活终将回归正常。",
+              "source": ""
+            }
+          ],
+          "example": "He seemed anxious about the meeting.",
+          "exampleTranslation": "他似乎对这次会议忧心忡忡。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "beyond",
+          "day": 6,
+          "word": "beyond",
+          "phonetic": "/bɪˈɑnd/",
+          "part": "prep.",
+          "meaning": "超过",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "beyonds",
+              "规则词形"
+            ]
+          ],
+          "phrases": [
+            "beyond oneself",
+            "go beyond",
+            "the back of beyond"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "beyond oneself",
+              "meaning": "精神错乱；忘形",
+              "example": "Downloading and consuming culture requires great skills, but failing to move beyond downloading is to strip oneself of a defining constituent of humanity.",
+              "translation": "下载并消费文化内容需要很强的能力，但止步于下载，就会剥夺人自身作为人类的核心组成部分。",
+              "source": ""
+            },
+            {
+              "phrase": "go beyond",
+              "meaning": "v. 超出；胜过",
+              "example": "Children rapidly tune out if you go beyond them.",
+              "translation": "如果你的话超出了孩子们的理解力，他们很快就不听了。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "the back of beyond",
+              "meaning": "[主英国口语]极远的地方；天涯海角；穷乡僻壤，僻远的地区，极偏僻的地方，内地(尤指澳大利亚内陆的荒野地带)",
+              "example": "They live on a farm somewhere in the back of beyond.",
+              "translation": "他们住在远处的一个农场里。",
+              "source": ""
+            }
+          ],
+          "example": "Downloading and consuming culture requires great skills, but failing to move beyond downloading is to strip oneself of a defining constituent of humanity.",
+          "exampleTranslation": "下载并消费文化内容需要很强的能力，但止步于下载，就会剥夺人自身作为人类的核心组成部分。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退",
+              "Datamuse"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 3,
+            "phraseCount": 3
+          },
+          "enriched": true
+        },
+        {
+          "id": "waitress",
+          "day": 6,
+          "word": "waitress",
+          "phonetic": "/ˈweɪtrəs/",
+          "part": "n.",
+          "meaning": "女服务生",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "waiter",
+              "服务员，侍者"
+            ]
+          ],
+          "phrases": [],
+          "phraseExamples": [],
+          "example": "Tom tipped the waitress.",
+          "exampleTranslation": "",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退",
+              "Tatoeba"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 0,
+            "phraseCount": 0
+          },
+          "enriched": true
+        },
+        {
+          "id": "rough",
+          "day": 6,
+          "word": "rough",
+          "phonetic": "/ˈrʌf/",
+          "part": "adj.",
+          "meaning": "粗糙的；粗略的",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "roughish",
+              "略粗糙的；略粗暴的；有点刺耳的；略有风浪的"
+            ],
+            [
+              "roughly",
+              "粗糙地；概略地"
+            ],
+            [
+              "roughness",
+              "粗糙（度）；粗暴；猛烈；篷乱毛发；未加工"
+            ],
+            [
+              "roughage",
+              "粗饲料；粗粮；粗糙的原料"
+            ],
+            [
+              "roughen",
+              "变粗糙"
+            ]
+          ],
+          "phrases": [
+            "in rough",
+            "in the rough",
+            "rough surface",
+            "rough and tumble"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "in rough",
+              "meaning": "作为草稿；在草稿纸上",
+              "example": "A fishing vessel and a cargo ship collided in rough seas.",
+              "translation": "一艘渔船与一艘货轮在风大浪急的海上相撞了。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "in the rough",
+              "meaning": "未完成的；未加工的；大致上",
+              "example": "The ship was rolling in the rough sea.",
+              "translation": "船在汹涌的大海中颠簸着。",
+              "source": ""
+            },
+            {
+              "phrase": "rough surface",
+              "meaning": "粗糙表面",
+              "example": "When laser light scatters off a rough surface, a random shimmering and sparkling pattern is produced.",
+              "translation": "激光在粗糙表面散射时，会生成一种随机闪烁的亮斑图案。",
+              "source": ""
+            },
+            {
+              "phrase": "rough and tumble",
+              "meaning": "争夺；乱作一团",
+              "example": "But as insights from academia arrived in the rough and tumble of Wall Street, such delicacies were put aside.",
+              "translation": "但是当学术界的观点参与到华尔街的口水战之中时，大家并没有把这些周全的考虑当回事。",
+              "source": ""
+            }
+          ],
+          "example": "A fishing vessel and a cargo ship collided in rough seas.",
+          "exampleTranslation": "一艘渔船与一艘货轮在风大浪急的海上相撞了。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "instant",
+          "day": 6,
+          "word": "instant",
+          "phonetic": "/ˈɪnstənt/",
+          "part": "adj.",
+          "meaning": "立即的；紧急的",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "instantaneous",
+              "瞬间的；即时的；猝发的"
+            ],
+            [
+              "instantly",
+              "立即地；马上地；即刻地"
+            ],
+            [
+              "instantaneousness",
+              "瞬间；即刻"
+            ]
+          ],
+          "phrases": [
+            "in an instant",
+            "instant messaging",
+            "for an instant",
+            "instant noodle"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "in an instant",
+              "meaning": "瞬间；马上",
+              "example": "I'll be back in an instant.",
+              "translation": "我马上就回来。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "instant messaging",
+              "meaning": "即时通讯",
+              "example": "9 percent of primary and middle students in China use the Wechat instant messaging App.",
+              "translation": "9%的中国中小学生使用微信即时通讯应用。",
+              "source": ""
+            },
+            {
+              "phrase": "for an instant",
+              "meaning": "片刻，瞬间",
+              "example": "For an instant I was infected by her fear.",
+              "translation": "一瞬间，我被她的恐惧所感染。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "instant noodle",
+              "meaning": "方便面；速食面；泡面",
+              "example": "Why do people think instant noodle lovers are lazy?",
+              "translation": "为什么人们认为方便面爱好者很懒？",
+              "source": ""
+            }
+          ],
+          "example": "I'll be back in an instant.",
+          "exampleTranslation": "我马上就回来。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "centre",
+          "day": 6,
+          "word": "centre",
+          "phonetic": "/ˈsentər/",
+          "part": "n.",
+          "meaning": "中心；中枢 (v.)以…为中心",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "centred",
+              "固定于中心的；在中心的"
+            ]
+          ],
+          "phrases": [
+            "in the centre of",
+            "centre of gravity",
+            "research centre",
+            "business centre"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "in the centre of",
+              "meaning": "在…的中心",
+              "example": "This grand building in the centre of town used to be the hub of the capital's social life.",
+              "translation": "这座位于城镇中央的宏伟建筑曾经是首都社交生活的中心。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "centre of gravity",
+              "meaning": "重心；惯性中心",
+              "example": "The wrong shoes can affect the body's centre of gravity.",
+              "translation": "不舒适的鞋子会影响身体的重心。",
+              "source": ""
+            },
+            {
+              "phrase": "research centre",
+              "meaning": "研究中心",
+              "example": "Recent polls by the Pew Research Centre in Washington, DC, found that 75-80 percent of participants regarded climate change as an important issue.",
+              "translation": "华盛顿皮尤研究中心最近的民意调查发现，75%至80%的参与者认为气候变化是一个重要问题。",
+              "source": ""
+            },
+            {
+              "phrase": "business centre",
+              "meaning": "商务中心；商业中心",
+              "example": "Anyway, go and ask the Business Centre.",
+              "translation": "不管怎样，去到商务中心问问吧。",
+              "source": ""
+            }
+          ],
+          "example": "This grand building in the centre of town used to be the hub of the capital's social life.",
+          "exampleTranslation": "这座位于城镇中央的宏伟建筑曾经是首都社交生活的中心。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "determine",
+          "day": 6,
+          "word": "determine",
+          "phonetic": "/dəˈtɜːrmən/",
+          "part": "v.",
+          "meaning": "下决心，决定",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "determined",
+              "决定了的；坚决的"
+            ],
+            [
+              "determinedly",
+              "决然地；断然地"
+            ],
+            [
+              "determiner",
+              "[语] 限定词；决定因素"
+            ]
+          ],
+          "phrases": [],
+          "phraseExamples": [],
+          "example": "Existence determines conscience.",
+          "exampleTranslation": "",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退",
+              "Tatoeba"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 0,
+            "phraseCount": 0
+          },
+          "enriched": true
+        },
+        {
+          "id": "voyage",
+          "day": 6,
+          "word": "voyage",
+          "phonetic": "/ˈvɔɪədʒ/",
+          "part": "n.",
+          "meaning": "航海，航行；旅程",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "voyager",
+              "航海者，航行者"
+            ]
+          ],
+          "phrases": [
+            "maiden voyage",
+            "sea voyage",
+            "bon voyage",
+            "voyage charter"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "maiden voyage",
+              "meaning": "n. 初航，首航，处女航",
+              "example": "In 1912, the Titanic sank on her maiden voyage.",
+              "translation": "1912年，泰坦尼克号首次航行时沉没。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "sea voyage",
+              "meaning": "远航，航海",
+              "example": "After I retire, I will make a long sea voyage.",
+              "translation": "在我退休之后，我要做一次远航。",
+              "source": ""
+            },
+            {
+              "phrase": "bon voyage",
+              "meaning": "一路平安",
+              "example": "Have a good trip!; Bon voyage!",
+              "translation": "一路平安！",
+              "source": "《新英汉大辞典》"
+            },
+            {
+              "phrase": "voyage charter",
+              "meaning": "程租船；计程包船；航程佣船",
+              "example": "His last arbitration case was with a London firm on a voyage charter party dispute.",
+              "translation": "他最近参与的一个仲裁案件涉及一家伦敦公司的承租船纠纷。",
+              "source": ""
+            }
+          ],
+          "example": "In 1912, the Titanic sank on her maiden voyage.",
+          "exampleTranslation": "1912年，泰坦尼克号首次航行时沉没。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "patient",
+          "day": 6,
+          "word": "patient",
+          "phonetic": "/ˈpeɪʃənt/",
+          "part": "adj.",
+          "meaning": "耐心的 (n.)病人",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "patiently",
+              "耐心地；有毅力地"
+            ]
+          ],
+          "phrases": [
+            "patient of",
+            "patient with",
+            "patient care",
+            "patient safety"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "patient of",
+              "meaning": "能忍受",
+              "example": "She is the more patient of the two.",
+              "translation": "她是俩人中比较有耐心的。",
+              "source": ""
+            },
+            {
+              "phrase": "patient with",
+              "meaning": "对……有耐心",
+              "example": "What can a patient with emphysema do to help themselves?",
+              "translation": "肺气肿的病人能做些什么来自助？",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "patient care",
+              "meaning": "病人护工；病人照护；病患照顾",
+              "example": "Some doctors see a potential conflict in trying to be both providers of patient care and financial overseers.",
+              "translation": "一些医生认为，他们既要为病人提供医疗服务，又要充当财务监督者，这两者之间可能存在冲突。",
+              "source": ""
+            },
+            {
+              "phrase": "patient safety",
+              "meaning": "病人安全",
+              "example": "the Second Global Patient Safety Challenge initiative.",
+              "translation": "第二次全球患者安全挑战行动。",
+              "source": ""
+            }
+          ],
+          "example": "She is the more patient of the two.",
+          "exampleTranslation": "她是俩人中比较有耐心的。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "wake",
+          "day": 6,
+          "word": "wake",
+          "phonetic": "/ˈweɪk/",
+          "part": "v.",
+          "meaning": "醒；唤醒",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "wakeful",
+              "醒着的；失眠的；警觉的"
+            ],
+            [
+              "wakefulness",
+              "[生理] 觉醒；不眠"
+            ],
+            [
+              "wakening",
+              "唤醒"
+            ],
+            [
+              "waken",
+              "醒来；觉醒"
+            ]
+          ],
+          "phrases": [
+            "wake up",
+            "in the wake of",
+            "wake up call",
+            "wake flow"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "wake up",
+              "meaning": "醒来，起床；开始警觉；开始了解真相",
+              "example": "You have to wake up now, baby.",
+              "translation": "你现在得醒了，宝贝儿。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "in the wake of",
+              "meaning": "紧紧跟随；随着…而来；作为…的结果；仿效",
+              "example": "Dolphins sometimes play in the wake of the boats.",
+              "translation": "海豚有时跟着船只的尾波戏水。",
+              "source": "《柯林斯英汉双解大词典》"
+            },
+            {
+              "phrase": "wake up call",
+              "meaning": "叫醒电话",
+              "example": "I'd like a wake up call.",
+              "translation": "我想要一个叫早服务。",
+              "source": ""
+            },
+            {
+              "phrase": "wake flow",
+              "meaning": "[物]尾流（由空气动力压力差产生的一对绕着翼尖的闭合涡旋）",
+              "example": "A wake flow with relatively lower pressure and recirculation zone exists on the lee side of the injector.",
+              "translation": "在喷口后的背风区，存在具有低压和回流区的尾迹。",
+              "source": ""
+            }
+          ],
+          "example": "You have to wake up now, baby.",
+          "exampleTranslation": "你现在得醒了，宝贝儿。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
+          },
+          "enriched": true
+        },
+        {
+          "id": "coast",
+          "day": 6,
+          "word": "coast",
+          "phonetic": "/ˈkoʊst/",
+          "part": "n.",
+          "meaning": "海岸；滑坡",
+          "standardMeaning": "",
+          "segments": [],
+          "mnemonic": "",
+          "logic": "",
+          "derivatives": [
+            [
+              "coastal",
+              "沿海的；海岸的"
+            ],
+            [
+              "coastward",
+              "向海岸的；朝着海岸"
+            ],
+            [
+              "coastwise",
+              "沿岸的；近海的"
+            ],
+            [
+              "coaster",
+              "沿岸贸易船；杯托，小托盘；雪橇"
+            ]
+          ],
+          "phrases": [
+            "east coast",
+            "west coast",
+            "off the coast",
+            "along the coast"
+          ],
+          "phraseExamples": [
+            {
+              "phrase": "east coast",
+              "meaning": "东海岸",
+              "example": "They live on the east coast.",
+              "translation": "他们住在东海岸。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "west coast",
+              "meaning": "美国西海岸",
+              "example": "Sunshine will be in short supply for the west coast.",
+              "translation": "西海岸将不会有充足的阳光。",
+              "source": "《牛津词典》"
+            },
+            {
+              "phrase": "off the coast",
+              "meaning": "沿海；离开海岸；在海面上；在远离沿岸海面",
+              "example": "A leaping manta ray seems to fly above the Gulf of California off the coast of Mexico.",
+              "translation": "一条跃起的蝠鲼似乎在墨西哥海岸外的加利福尼亚海湾上空飞跃。",
+              "source": ""
+            },
+            {
+              "phrase": "along the coast",
+              "meaning": "沿着海岸",
+              "example": "We walked along the coast for five miles.",
+              "translation": "我们沿着海岸步行了五英里。",
+              "source": "《牛津词典》"
+            }
+          ],
+          "example": "They live on the east coast.",
+          "exampleTranslation": "他们住在东海岸。",
+          "enrichment": {
+            "providers": [
+              "有道词典",
+              "Datamuse 发音回退"
+            ],
+            "needsReview": true,
+            "verifiedExampleCount": 4,
+            "phraseCount": 4
           },
           "enriched": true
         }
