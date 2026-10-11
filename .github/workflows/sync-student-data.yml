@@ -1,0 +1,48 @@
+name: 自动更新学生复习版
+
+on:
+  push:
+    paths:
+      - 'teacher-words.txt'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 生成学生复习数据
+        run: python scripts/build_student_data.py
+      - name: 提交到 main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add student-data.json
+          if git diff --cached --quiet; then
+            echo "main 数据没有变化"
+          else
+            git commit -m "自动更新学生复习词库"
+            git push origin HEAD:main
+          fi
+      - name: 更新 gh-pages
+        run: |
+          git fetch origin gh-pages
+          git worktree add /tmp/student-pages origin/gh-pages
+          cp student-data.json /tmp/student-pages/student-data.json
+          cd /tmp/student-pages
+          git add student-data.json
+          if git diff --cached --quiet; then
+            echo "gh-pages 数据没有变化"
+          else
+            git commit -m "自动更新学生复习词库"
+            git push origin HEAD:gh-pages
+          fi

@@ -246,3 +246,34 @@ https://zhangjiayi-momo.github.io/pixel-word-farm-v2/student.html
 ```
 
 该页面不依赖 Codespaces，学生可以随时打开听发音、看释义、派生词和例句。课堂互动、默写和教师验收仍在 Codespaces 中进行。
+## 不打开 Codespaces 也能更新学生版
+
+现在可以直接在 GitHub 网页更新学生永久复习版：
+
+1. 打开仓库根目录；
+2. 新建或编辑 `teacher-words.txt`；
+3. 按以下格式粘贴单词：
+
+```text
+DAY 1
+1. field (n.)田地；场地；领域
+2. limit (n.&v.)界线；限制
+3. manage (v.)管理，经营；设法对付
+```
+
+4. 保存并提交；
+5. GitHub Actions 会自动生成 `student-data.json`；
+6. Actions 会同时更新 `main` 和 `gh-pages`；
+7. 1～3 分钟后刷新学生永久复习版。
+
+学生永久复习版：
+
+```text
+https://zhangjiayi-momo.github.io/pixel-word-farm-v2/student.html
+```
+
+创建词表文件的快捷入口：
+
+```text
+https://github.com/Zhangjiayi-momo/pixel-word-farm-v2/new/main?filename=teacher-words.txt
+```
