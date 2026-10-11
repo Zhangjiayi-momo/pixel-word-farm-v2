@@ -934,7 +934,11 @@ def enrich_words_batch(words: list[dict]) -> list[dict]:
         else:
             pending.append((index, normalized))
     if pending:
-        with ThreadPoolExecutor(max_workers=min(4, len(pending))) as executor:
+        try:
+            max_workers = max(1, min(12, int(os.environ.get("ENRICH_MAX_WORKERS", "4"))))
+        except ValueError:
+            max_workers = 4
+        with ThreadPoolExecutor(max_workers=min(max_workers, len(pending))) as executor:
             futures = {executor.submit(enrich_word_online, item): (index, item) for index, item in pending}
             for future in as_completed(futures):
                 index, original = futures[future]

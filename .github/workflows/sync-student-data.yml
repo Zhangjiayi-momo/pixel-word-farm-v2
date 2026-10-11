@@ -9,10 +9,16 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: student-data-sync
+  cancel-in-progress: false
+
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 120
+    env:
+      ENRICH_MAX_WORKERS: '8'
     steps:
       - uses: actions/checkout@v4
         with:
@@ -26,7 +32,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add student-data.json
+          touch enrichment-cache.json
+          git add student-data.json enrichment-cache.json
           if git diff --cached --quiet; then
             echo "main 数据没有变化"
           else

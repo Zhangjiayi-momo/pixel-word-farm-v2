@@ -1,5 +1,6 @@
 import json
 import re
+import shutil
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -10,6 +11,8 @@ from server import enrich_words_batch  # noqa: E402
 
 INPUT = ROOT / "teacher-words.txt"
 OUTPUT = ROOT / "student-data.json"
+CACHE_FILE = ROOT / "enrichment-cache.json"
+RUNTIME_CACHE = ROOT / "runtime" / "rooms" / "enrichment_cache.json"
 LINE_RE = re.compile(r"^\s*(?:\d+[.、)]\s*)?(?P<word>[A-Za-z][A-Za-z'’-]*)\s*(?:\((?P<part>[^)]*)\))?\s*(?P<meaning>.*?)\s*$")
 
 
@@ -49,7 +52,12 @@ def main() -> None:
     words = parse_words(INPUT.read_text(encoding="utf-8"))
     if not words:
         raise SystemExit("teacher-words.txt 中没有识别到单词。请使用“单词 + 词性 + 中文释义”的格式。")
+    RUNTIME_CACHE.parent.mkdir(parents=True, exist_ok=True)
+    if CACHE_FILE.exists():
+        shutil.copyfile(CACHE_FILE, RUNTIME_CACHE)
     enriched = enrich_words_batch(words)
+    if RUNTIME_CACHE.exists():
+        shutil.copyfile(RUNTIME_CACHE, CACHE_FILE)
     grouped = {}
     for word in enriched:
         grouped.setdefault(int(word.get("day") or 1), []).append(word)
