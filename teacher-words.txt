@@ -563,3 +563,67 @@ DAY 9
 538. truck (n.)卡车
 539. wide (adj.)宽的；广阔的；张开很大的
 540. arrival (n.)到达；到达者
+
+DAY 10
+
+541. intelligence (n.)智力；情报
+542. theme (n.)主题
+543. hole (n.)孔；洞穴
+544. deserve (v.)应得；值得
+545. institute (n.)学院；协会；(教育、专业等)机构
+546. surrounding (adj.)周围的，附近的 (n.)环境(复数)
+547. twice (adv.)两倍；两次
+548. coal (n.)煤
+549. yard (n.)院子；码(等于3英尺)
+550. destroy (v.)破坏，摧毁；消灭
+551. ownership (n.)所有权
+552. predict (v.)预言，预测；预告
+553. agency (n.)代理，代理处；机构
+554. automatic (adj.)自动的
+555. burden (n.)负担；责任 (v.)使负担
+556. enter (v.)进入；参加
+557. discussion (n.)讨论，议论
+558. struggle (n.& v.)挣扎；奋斗；努力
+559. editor (n.)编辑
+560. reduce (v.)减少；降低
+561. persuade (v.)说服；劝说
+562. research (n.& v.)调查；研究
+563. greet (v.)打招呼；欢迎
+564. penny (n.)便士
+565. customs (n.)海关
+566. height (n.)高度
+567. aid (n.& v.)援助；帮助
+568. fuel (n.)燃料
+569. bend (n.)弯道；拐弯 (v.)使弯曲
+570. winner (n.)获胜者
+571. stream (n.)小河；潮流，趋势
+572. musician (n.)音乐家
+573. cuisine (n.)菜肴；烹饪
+574. sacrifice (n.& v.)牺牲；祭品
+575. recommend (v.)推荐；劝告
+576. soldier (n.)士兵
+577. ruin (v.)破坏，毁灭 (n.)遗迹，废墟(复数)
+578. judge (n.)法官；裁判员 (v.)审判；断定
+579. attraction (n.)吸引；引人注意的东西
+580. pool (n.)水池
+581. personally (adv.)就个人而言
+582. application (n.)申请；适用；应用
+583. obvious (adj.)明显的
+584. mistake (n.)错误 (v.)弄错；误解
+585. least (adj.& adv.)最小；最少
+586. sympathy (n.)同情
+587. league (n.)联盟；社团
+588. clumsy (adj.)笨拙的
+589. nod (v.)点头；打盹
+590. willing (adj.)愿意的
+591. blame (v.)指责；责备
+592. status (n.)地位；情形
+593. emergency (n.)紧急情况；突发事件
+594. nature (n.)大自然；天性
+595. pollute (v.)污染；玷污
+596. contribute (v.)捐赠；贡献出；投稿
+597. poster (n.)海报
+598. postage (n.)邮资，邮费
+599. routine (n.)常规；惯例；生活乏味
+600. electric (adj.)电动的；带电的
+
