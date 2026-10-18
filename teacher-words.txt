@@ -523,3 +523,43 @@ DAY 9
 498. tobacco (n.)烟草，烟叶
 499. relation (n.)关系；亲属
 500. breathe (v.)呼吸
+501. faith (n.)忠诚；信任
+502. percent (n.)百分之…
+503. instruction (n.)指令，命令；教导
+504. intention (n.)意图；目的
+505. voice (n.)声音；发言权
+506. strait (n.)海峡；困境
+507. addicted (adj.)上瘾的
+508. prepare (v.)准备；预备(饭菜)
+509. shave (n.& v.)剃须，修面；削去
+510. fight (n.& v.)打架；战斗
+511. metal (n.)金属
+512. passive (adj.)被动的；消极的
+513. click (n.& v.)点击，单击
+514. fire (n.)火；火灾 (v.)开火；解雇
+515. grasp (v.)抓住；理解；领会，领悟
+516. ashamed (adj.)惭愧的；感到难为情的
+517. weed (n.)杂草 (v.)除草
+518. beg (v.)乞讨；恳求
+519. symptom (n.)症状；征兆
+520. allow (v.)允许；容许
+521. accountant (n.)会计师
+522. disturb (v.)打扰，妨碍；使不安
+523. avenue (n.)大街；林荫道
+524. message (n.)信息，消息
+525. secret (n.)秘密，秘诀
+526. pardon (n.& v.)原谅；宽恕
+527. physical (adj.)身体的；物质的
+528. athlete (n.)运动员
+529. requirement (n.)要求；必要条件
+530. glory (n.)光荣，荣誉；赞颂
+531. nuclear (adj.)原子核的
+532. equal (adj.)平等的 (v.)等于 (n.)匹敌；相等的事物
+533. soup (n.)汤
+534. adjustment (n.)调整；调解
+535. steady (adj.)稳定的；沉着的
+536. rope (n.)绳子
+537. sink (v.)下沉；消沉 (n.)水槽；洗涤槽
+538. truck (n.)卡车
+539. wide (adj.)宽的；广阔的；张开很大的
+540. arrival (n.)到达；到达者
