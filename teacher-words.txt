@@ -627,3 +627,128 @@ DAY 10
 599. routine (n.)常规；惯例；生活乏味
 600. electric (adj.)电动的；带电的
 
+DAY 11
+
+601. competition (n.)竞争；比赛
+602. seem (v.)似乎；好像
+603. expose (v.)暴露；揭露；曝光
+604. protect (v.)保护
+605. accident (n.)事故；意外事件
+606. plate (n.)盘子；金属板(牌)
+607. inspire (v.)鼓舞；激励；赋予灵感
+608. merciful (adj.)仁慈的
+609. bathroom (n.)浴室，卫生间
+610. journey (n.)旅行
+611. patience (n.)耐心，耐性
+612. cinema (n.)电影院
+613. survive (v.)幸存，活下来
+614. change (n. & v.)零钱；改变；交换
+615. dirty (adj.)脏的
+616. gather (v.)收集；聚集；集合
+617. object (n.)物体；目标；宾语 (v.)反对
+618. patent (n.)专利；专利证
+619. media (n.)媒体
+620. tale (n.)传说；故事
+621. guest (n.)客人，宾客
+622. positive (adj.)积极的；肯定的
+623. march (n. & v.)行军；前进；三月(大写)
+624. satisfaction (n.)满意，满足
+625. donate (v.)捐赠；捐献(血、器官)
+626. polite (adj.)有礼貌的
+627. classify (v.)分类，归类
+628. fingernail (n.)指甲
+629. facial (adj.)面部的
+630. graduation (n.)毕业
+631. pattern (n.)模式；图案
+632. powerful (adj.)强大的；(药)有效的
+633. distant (adj.)遥远的；冷漠的，冷淡的
+634. trust (n. & v.)信任，信赖
+635. stage (n.)阶段；舞台
+636. import (n. & v.)进口
+637. convince (v.)使相信，说服
+638. suffering (n.)受苦；遭难
+639. pork (n.)猪肉
+640. satellite (n.)卫星；人造卫星
+641. defense (n.)防御；辩护
+642. rate (n.)比率；速度
+643. tense (adj.)紧张的 (n.)时态
+644. army (n.)军队；陆军
+645. agriculture (n.)农业
+646. impression (n.)印象，感觉
+647. accustomed (adj.)习惯的
+648. flow (n. & v.)流动
+649. swear (v.)诅咒；发誓
+650. condition (n.)环境；状况；健康状况
+651. courage (n.)勇气；胆量
+652. marry (v.)娶；结婚
+653. extreme (adj.)极端的；极限的；非常的
+654. tourism (n.)旅游；旅游业
+655. ground (n.)地面；基础
+656. glove (n.)手套
+657. contain (v.)包含；容纳
+658. chain (n.)链子，链条；连锁
+659. midnight (n.)午夜
+660. obtain (v.)获得，得到；达到
+
+DAY 12
+
+661. update (v.)更新；校正，修正
+662. pay (n. & v.)工资，薪水；支付，付款
+663. evidence (n.)证据
+664. blow (n.)打击 (v.)吹
+665. reject (v.)拒绝；排斥
+666. bathe (v.)给…洗澡，冲凉
+667. dumpling (n.)饺子
+668. promise (n. & v.)允诺；许诺
+669. refuse (v.)拒绝
+670. organ (n.)器官；机构；风琴
+671. cautious (adj.)小心的，谨慎的
+672. advise (v.)建议；劝告
+673. wet (adj.)湿的 (v.)弄湿，变湿
+674. remind (v.)使想起；提醒
+675. whole (adj.)完整的；所有的
+676. premier (n.)总理；首相
+677. hunt (v.)打猎；寻找
+678. healthy (adj.)健康的
+679. respond (v.)回答；回应
+680. approve (v.)赞成；批准
+681. avoid (v.)避免，避开
+682. sort (n.)种类 (v.)分类；整理
+683. daily (adj. & adv.)日常的；每日
+684. approach (v.)接近，靠近 (n.)方法，途径
+685. rude (adj.)粗鲁的
+686. cab (n.)出租车
+687. band (n.)乐队；带子
+688. paragraph (n.)段落
+689. production (n.)生产；产量
+690. international (adj.)国际的
+691. invent (v.)发明；虚构
+692. security (n.)安全；证券(复数)
+693. treasure (n.)宝藏 (v.)重视，珍惜
+694. govern (v.)统治；管理
+695. discount (n.)折扣
+696. fantastic (adj.)极好的
+697. sight (n.)视力；视野；景象
+698. delay (n. & v.)推迟；耽搁
+699. independence (n.)独立
+700. accept (v.)接受；承认
+701. scientist (n.)科学家
+702. fever (n.)发烧，发热
+703. argument (n.)争吵；论证
+704. holy (adj.)神圣的；宗教的
+705. crew (n.)全体船员；全体乘务员
+706. scenery (n.)风景，景色
+707. gesture (n.)姿势；手势 (v.)做手势
+708. meanwhile (adv.)与此同时，在此期间
+709. construction (n.)建造；建筑物
+710. intend (v.)打算，计划
+711. nervous (adj.)紧张不安的；神经质的
+712. divide (v.)分；划分
+713. page (n.)页，页面；版面
+714. movement (n.)运动；动作
+715. decrease (n. & v.)减小，减少
+716. raise (v.)举起；提升；筹集
+717. manager (n.)经理；管理人
+718. interval (n.)间隔，幕间休息
+719. bowl (n.)碗 (v.)玩保龄球
+720. disability (n.)残疾；无能力
