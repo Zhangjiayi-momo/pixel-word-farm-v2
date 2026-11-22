@@ -48777,5 +48777,2891 @@
       "phraseCount": 0
     },
     "enriched": true
+  },
+  "v9:marathon": {
+    "id": "marathon",
+    "day": 12,
+    "word": "marathon",
+    "phonetic": "/ˈmerəθɑn/",
+    "part": "",
+    "meaning": "n. 马拉松赛跑",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "marathoner",
+        "马拉松运动员"
+      ]
+    ],
+    "phrases": [
+      "boston marathon"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "boston marathon",
+        "meaning": "波士顿马拉松赛",
+        "example": "That's where the Boston Marathon starts.",
+        "translation": "波士顿马拉松比赛就从这里开始。",
+        "source": ""
+      }
+    ],
+    "example": "That's where the Boston Marathon starts.",
+    "exampleTranslation": "波士顿马拉松比赛就从这里开始。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 1,
+      "phraseCount": 1
+    },
+    "enriched": true
+  },
+  "v9:badminton": {
+    "id": "badminton",
+    "day": 12,
+    "word": "badminton",
+    "phonetic": "/ˈbædmɪntən/",
+    "part": "",
+    "meaning": "n. 羽毛球运动",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "badmintons",
+        "规则词形"
+      ]
+    ],
+    "phrases": [
+      "badminton court",
+      "badminton racket"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "badminton court",
+        "meaning": "羽毛球场",
+        "example": "Less than an hour away by snowmobile, Chinese laborers have updated the Great Wall Station, a vital part of China's plan to operate five bases on Antarctica, complete with an indoor badminton court and sleeping quarters for 150 people.",
+        "translation": "中国工人重建了长城站，如今乘雪地摩托不到一小时就能到达此站；长城站是中国计划在南极洲运营的五个基地中的重要组成部分，其配有一个室内羽毛球场和可容纳150人的宿舍。",
+        "source": ""
+      },
+      {
+        "phrase": "badminton racket",
+        "meaning": "羽毛球拍",
+        "example": "Can I try your new badminton racket?",
+        "translation": "我可以试用你的羽毛球拍吗？",
+        "source": ""
+      }
+    ],
+    "example": "Less than an hour away by snowmobile, Chinese laborers have updated the Great Wall Station, a vital part of China's plan to operate five bases on Antarctica, complete with an indoor badminton court and sleeping quarters for 150 people.",
+    "exampleTranslation": "中国工人重建了长城站，如今乘雪地摩托不到一小时就能到达此站；长城站是中国计划在南极洲运营的五个基地中的重要组成部分，其配有一个室内羽毛球场和可容纳150人的宿舍。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退",
+        "Datamuse"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 2,
+      "phraseCount": 2
+    },
+    "enriched": true
+  },
+  "v9:come": {
+    "id": "come",
+    "day": 12,
+    "word": "come",
+    "phonetic": "/ˈkʌm/",
+    "part": "",
+    "meaning": "along 跟随；到达；进步；赶快",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "comer",
+        "来者，来的人；有成功希望的人"
+      ]
+    ],
+    "phrases": [
+      "come true",
+      "come from",
+      "come back",
+      "come out"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "come true",
+        "meaning": "实现，成真；成为现实",
+        "example": "If I win, it will be a dream come true.",
+        "translation": "如果我赢了，那就是梦想成真。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "come from",
+        "meaning": "来自；出生于",
+        "example": "That is where we've come from.",
+        "translation": "这就是我们的起点。",
+        "source": ""
+      },
+      {
+        "phrase": "come back",
+        "meaning": "回来；记起；恢复原状，重新流行",
+        "example": "'He'll come back,' Susan assured her.",
+        "translation": "“他会回来的。”苏珊安慰她道。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "come out",
+        "meaning": "出现；出版；结果是",
+        "example": "If you're stuck for something to do tonight, come out with us.",
+        "translation": "你要是正愁今晚没事做，就跟我们一块儿出去吧。",
+        "source": "《牛津词典》"
+      }
+    ],
+    "example": "If I win, it will be a dream come true.",
+    "exampleTranslation": "如果我赢了，那就是梦想成真。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:ski": {
+    "id": "ski",
+    "day": 12,
+    "word": "ski",
+    "phonetic": "/ˈskiː/",
+    "part": "",
+    "meaning": "adj. 滑雪的 vi. 滑雪",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "skiing",
+        "滑雪运动；滑雪术"
+      ],
+      [
+        "skier",
+        "滑雪的人"
+      ]
+    ],
+    "phrases": [
+      "ski resort",
+      "water ski",
+      "ski jumping",
+      "ski pole"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "ski resort",
+        "meaning": "滑雪胜地",
+        "example": "We took a bus to a ski resort in the Canadian Rockies.",
+        "translation": "我们乘公共汽车去了加拿大落基山脉的一个滑雪胜地。",
+        "source": ""
+      },
+      {
+        "phrase": "water ski",
+        "meaning": "滑水橇",
+        "example": "The staff will be happy to help arrange for you to swim, sail, or water-ski.",
+        "translation": "工作人员会很乐意为您安排游泳、航行或滑水等活动。",
+        "source": "《柯林斯英汉双解大词典》"
+      },
+      {
+        "phrase": "ski jumping",
+        "meaning": "跳台滑雪（滑雪运动项目之一）",
+        "example": "Gregor Schlierenzauer of Austria soars through the air during the ski jumping World Cup competition in Zakopane, Poland.",
+        "translation": "奥地利的格里戈尔·施里伦扎厄在波兰扎科帕内的跳台滑雪世界杯比赛中腾空而起。",
+        "source": ""
+      },
+      {
+        "phrase": "ski pole",
+        "meaning": "滑雪杖",
+        "example": "This time the sledge moved a little. I hacked at the ice with my ski-pole and boot, desperately trying to break the sledge free - and heaved again.",
+        "translation": "这次雪橇有点动了，我用滑雪杆和靴子铲开冰雪，拼命向前推动，想把雪橇解脱出来。",
+        "source": ""
+      }
+    ],
+    "example": "We took a bus to a ski resort in the Canadian Rockies.",
+    "exampleTranslation": "我们乘公共汽车去了加拿大落基山脉的一个滑雪胜地。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:boxing": {
+    "id": "boxing",
+    "day": 12,
+    "word": "boxing",
+    "phonetic": "/ˈbɑksɪŋ/",
+    "part": "",
+    "meaning": "n. 拳击（运动）",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "boxed",
+        "醉酒的"
+      ],
+      [
+        "boxlike",
+        "像箱子一样的"
+      ],
+      [
+        "box",
+        "箱，盒子；包厢；一拳"
+      ],
+      [
+        "boxer",
+        "拳师，拳击手"
+      ]
+    ],
+    "phrases": [
+      "boxing match",
+      "boxing day",
+      "shadow boxing",
+      "thai boxing"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "boxing match",
+        "meaning": "n. 拳赛",
+        "example": "The karate bout has many similarities to a boxing match.",
+        "translation": "空手道比赛和拳击比赛有许多类似的地方。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "boxing day",
+        "meaning": "n. 节礼日；圣诞节后的第一个工作日",
+        "example": "Boxing Day hunts kicked off in Kent, southeast England.",
+        "translation": "盛大的节礼日狩猎活动在英格兰东南部肯特郡拉开序幕。",
+        "source": ""
+      },
+      {
+        "phrase": "shadow boxing",
+        "meaning": "太极拳；拳坛暗影；拳击练习",
+        "example": "The practice of shadow boxing and breath exercise is based on this theory.",
+        "translation": "太极拳和气功就是以这个理论为基础的。",
+        "source": ""
+      },
+      {
+        "phrase": "thai boxing",
+        "meaning": "泰国拳",
+        "example": "Besides Thai boxing, the popular sports in Thailand include boxing and soccer.",
+        "translation": "除了泰拳之外，泰国流行的运动还包括拳击和足球。",
+        "source": ""
+      }
+    ],
+    "example": "The karate bout has many similarities to a boxing match.",
+    "exampleTranslation": "空手道比赛和拳击比赛有许多类似的地方。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:fitness": {
+    "id": "fitness",
+    "day": 12,
+    "word": "fitness",
+    "phonetic": "/ˈfɪtnəs/",
+    "part": "",
+    "meaning": "n. 健康；健壮；适合",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "fit",
+        "健康的；合适的；恰当的；准备好的"
+      ],
+      [
+        "fitting",
+        "适合的，适宜的；相称的"
+      ],
+      [
+        "fitted",
+        "合适的；订做的；有…设备的"
+      ],
+      [
+        "fitter",
+        "胜任的；适当的"
+      ],
+      [
+        "fittingly",
+        "适切地，适合地"
+      ],
+      [
+        "fitly",
+        "恰好地；适当地；整齐地"
+      ]
+    ],
+    "phrases": [
+      "physical fitness",
+      "fitness equipment",
+      "fitness center",
+      "fitness club"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "physical fitness",
+        "meaning": "身体健康；体力；身体适宜性",
+        "example": "I'm afraid that says something about the students' physical fitness.",
+        "translation": "恐怕这反映了学生们的身体状况。",
+        "source": ""
+      },
+      {
+        "phrase": "fitness equipment",
+        "meaning": "健身器材",
+        "example": "Nowadays, government-funded fitness equipment and paved fitness trails can be seen everywhere in many cities, which not only greatly enhances the conditions of outdoor activities of the residents but also makes the city more beautiful.",
+        "translation": "如今，政府出资购置的健身器械和铺设的健身步道在不少城市随处可见，既明显改善了市民户外活动的条件，又使城市更加美丽。",
+        "source": ""
+      },
+      {
+        "phrase": "fitness center",
+        "meaning": "健身中心；健身房",
+        "example": "To help maximize fitness levels in our town's residents, we should, therefore, equip our new community fitness center with such machines.",
+        "translation": "因此，为了帮助我们城镇的居民最大限度地提高健身水平，我们应该为我们新的社区健身中心配备这样的机器。",
+        "source": ""
+      },
+      {
+        "phrase": "fitness club",
+        "meaning": "健身俱乐部",
+        "example": "He is a coach of a fitness club.",
+        "translation": "他是一家健身俱乐部的教练。",
+        "source": ""
+      }
+    ],
+    "example": "I'm afraid that says something about the students' physical fitness.",
+    "exampleTranslation": "恐怕这反映了学生们的身体状况。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:stadium": {
+    "id": "stadium",
+    "day": 12,
+    "word": "stadium",
+    "phonetic": "/ˈsteɪdiəm/",
+    "part": "",
+    "meaning": "n.  体育场；运动场",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "stadiums",
+        "场馆"
+      ]
+    ],
+    "phrases": [
+      "olympic stadium",
+      "emirates stadium",
+      "indoor stadium"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "olympic stadium",
+        "meaning": "奥林匹克体育场",
+        "example": "A I love the Olympic Stadium.",
+        "translation": "A我喜欢奥林匹克体育场。",
+        "source": ""
+      },
+      {
+        "phrase": "emirates stadium",
+        "meaning": "酋长球场；阿联酋航空球场",
+        "example": "Wenger, though, is confident the Frenchman will extend his stay at the Emirates Stadium.",
+        "translation": "尽管如此，温格仍然坚信法国人会延长他在酋长球场的职业生涯。",
+        "source": ""
+      },
+      {
+        "phrase": "indoor stadium",
+        "meaning": "体育馆，室内运动场",
+        "example": "Chen Yibing of China beat compatriot Yang Wei to take gold in the men's rings gymnastics event Monday at the National indoor stadium.",
+        "translation": "周一，国家体育馆，中国选手陈一冰战胜同胞杨威，获得男子吊环比赛的冠军。",
+        "source": ""
+      }
+    ],
+    "example": "A I love the Olympic Stadium.",
+    "exampleTranslation": "A我喜欢奥林匹克体育场。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退",
+        "Datamuse"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 3,
+      "phraseCount": 3
+    },
+    "enriched": true
+  },
+  "v9:gym": {
+    "id": "gym",
+    "day": 12,
+    "word": "gym",
+    "phonetic": "/ˈdʒɪm/",
+    "part": "",
+    "meaning": "n. 健身房；体育馆",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "gymnastic",
+        "体操的，体育的"
+      ],
+      [
+        "gymnastics",
+        "体操；体育；体操运动"
+      ]
+    ],
+    "phrases": [],
+    "phraseExamples": [],
+    "example": "Was the gym open Wednesday?",
+    "exampleTranslation": "",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退",
+        "Tatoeba"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 0,
+      "phraseCount": 0
+    },
+    "enriched": true
+  },
+  "v9:track": {
+    "id": "track",
+    "day": 12,
+    "word": "track",
+    "phonetic": "/ˈtræk/",
+    "part": "",
+    "meaning": "n. 跑道；足迹；铁路轨道 vt. & vi. 追踪；跟踪",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "tracked",
+        "有履带的"
+      ],
+      [
+        "trackable",
+        "可追踪的；可跟踪的"
+      ],
+      [
+        "trackless",
+        "无路的；无足迹的；不在轨道上行驶的"
+      ],
+      [
+        "tracking",
+        "追踪，跟踪"
+      ],
+      [
+        "tracker",
+        "拉纤者，纤夫；追踪系统，[自] 跟踪装置；追踪者"
+      ]
+    ],
+    "phrases": [
+      "track and field",
+      "on track",
+      "keep track",
+      "keep track of"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "track and field",
+        "meaning": "田径；田径赛",
+        "example": "The United States won most of the track and field events. Similarly, in swimming, the top three places went to Americans.",
+        "translation": "美国队赢得了田径比赛大多数项目的胜利。同样，在游泳方面，美国人也囊括了前三名。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "on track",
+        "meaning": "走上正轨",
+        "example": "Nicole admitted she was fortunate, as she was able to live with her parents and overhaul her spending—and life—to get herself on track financially.",
+        "translation": "妮可承认自己很幸运，因为她能和父母住在一起，并彻底改变自己的消费和生活方式，让自己的财务管理走上正轨。",
+        "source": ""
+      },
+      {
+        "phrase": "keep track",
+        "meaning": "通晓事态，注意动向",
+        "example": "Matrix codes on the backs of plates keep track of how long a sushi portion has been circulating on conveyor belts.",
+        "translation": "盘子后面的矩阵代码记录寿司在传送带上循环了多长时间。",
+        "source": ""
+      },
+      {
+        "phrase": "keep track of",
+        "meaning": "记录；与…保持联系",
+        "example": "It was a very effective way for them to keep track of their spending.",
+        "translation": "对他们来说，这是一种记录支出的非常有效的方法。",
+        "source": ""
+      }
+    ],
+    "example": "The United States won most of the track and field events. Similarly, in swimming, the top three places went to Americans.",
+    "exampleTranslation": "美国队赢得了田径比赛大多数项目的胜利。同样，在游泳方面，美国人也囊括了前三名。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:unit": {
+    "id": "unit",
+    "day": 12,
+    "word": "Unit",
+    "phonetic": "/ˈjuːnət/",
+    "part": "",
+    "meaning": "3：",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "unitary",
+        "单一的；统一的；单位的"
+      ],
+      [
+        "unitization",
+        "单元化；联合经营；统一化"
+      ],
+      [
+        "unitize",
+        "使成为一单位；使成一整体；单元化"
+      ]
+    ],
+    "phrases": [
+      "per unit",
+      "control unit",
+      "basic unit",
+      "pumping unit"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "per unit",
+        "meaning": "每单位",
+        "example": "Phone calls cost 20c per unit off-peak.",
+        "translation": "非高峰时间电话费每单位两角。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "control unit",
+        "meaning": "控制器，控制部件",
+        "example": "Electronic control unit (ECU) for hardware description.",
+        "translation": "硬件描述的电子控制单元(Electronic control unit, ECU)。",
+        "source": ""
+      },
+      {
+        "phrase": "basic unit",
+        "meaning": "基本单元",
+        "example": "The basic unit of society is the family.",
+        "translation": "社会的基本单位是家庭。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "pumping unit",
+        "meaning": "抽油机；水泵机组",
+        "example": "Applying variable frequency technique and automation control technique in intelligent oil pumping system improves the existing pumping unit.",
+        "translation": "应用变频调速技术、自动控制技术改造现有的游梁式抽油机，实现了抽油系统的智能化。",
+        "source": ""
+      }
+    ],
+    "example": "Phone calls cost 20c per unit off-peak.",
+    "exampleTranslation": "非高峰时间电话费每单位两角。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:host": {
+    "id": "host",
+    "day": 12,
+    "word": "host",
+    "phonetic": "/ˈhoʊst/",
+    "part": "",
+    "meaning": "vt. 主办；主持 n. 主人；东道主；节目主持人",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "hostess",
+        "女主人，女老板；女服务员；舞女；女房东"
+      ],
+      [
+        "hostage",
+        "人质；抵押品"
+      ],
+      [
+        "hosteller",
+        "旅馆主人"
+      ]
+    ],
+    "phrases": [
+      "a host of",
+      "host country",
+      "host city",
+      "host computer"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "a host of",
+        "meaning": "许多，一大群；众多，大量",
+        "example": "Americans' growing aversion to spending time in the kitchen signifies a host of challenges for the grocery industry.",
+        "translation": "美国人越来越不愿意花时间在厨房里，这意味着食品杂货业面临一系列挑战。",
+        "source": ""
+      },
+      {
+        "phrase": "host country",
+        "meaning": "东道国；主办国；所在国",
+        "example": "In most World Cups, the home team, or the team from the host country usually plays better than most people expect.",
+        "translation": "在大多数世界杯比赛中，主队或东道国球队的表现通常比大多数人预期的要好。",
+        "source": ""
+      },
+      {
+        "phrase": "host city",
+        "meaning": "n. 主办城市；举办城市",
+        "example": "It was the host city of the first modern Olympic Games in 1896.",
+        "translation": "它是1896年第一届现代奥运会的主办城市。",
+        "source": ""
+      },
+      {
+        "phrase": "host computer",
+        "meaning": "[计]主机",
+        "example": "Subscribers dial directly from their computers into the BBS host computer.",
+        "translation": "用户直接从自己的计算机拨号接入公告版系统的主机。",
+        "source": "《柯林斯英汉双解大词典》"
+      }
+    ],
+    "example": "Americans' growing aversion to spending time in the kitchen signifies a host of challenges for the grocery industry.",
+    "exampleTranslation": "美国人越来越不愿意花时间在厨房里，这意味着食品杂货业面临一系列挑战。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:gymnastics": {
+    "id": "gymnastics",
+    "day": 12,
+    "word": "gymnastics",
+    "phonetic": "/dʒɪˈmnæstɪks/",
+    "part": "",
+    "meaning": "n. 体操（训练）",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "gymnastic",
+        "体操的，体育的"
+      ],
+      [
+        "gym",
+        "健身房；体育；体育馆"
+      ],
+      [
+        "gymnasium",
+        "体育馆；健身房"
+      ],
+      [
+        "gymnast",
+        "体操运动员"
+      ],
+      [
+        "gymkhana",
+        "比赛，运动会；竞技场，体育馆"
+      ]
+    ],
+    "phrases": [
+      "rhythmic gymnastics",
+      "artistic gymnastics"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "rhythmic gymnastics",
+        "meaning": "艺术体操；韵律操，韵律体操",
+        "example": "Alina is Russia's most successful rhythmic gymnast to date and is also one of the most decorated gymnasts in the history of rhythmic gymnastics.",
+        "translation": "阿丽娜是俄罗斯迄今为止最成功的艺术体操运动员，也是艺术体操历史上最出色的运动员之一。",
+        "source": ""
+      },
+      {
+        "phrase": "artistic gymnastics",
+        "meaning": "艺术体操；竞技体操",
+        "example": "The men's team artistic gymnastics final starts at 7:30 PM.",
+        "translation": "竞技体操：男子团体决赛，今天晚上7点半。",
+        "source": ""
+      }
+    ],
+    "example": "Alina is Russia's most successful rhythmic gymnast to date and is also one of the most decorated gymnasts in the history of rhythmic gymnastics.",
+    "exampleTranslation": "阿丽娜是俄罗斯迄今为止最成功的艺术体操运动员，也是艺术体操历史上最出色的运动员之一。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 2,
+      "phraseCount": 2
+    },
+    "enriched": true
+  },
+  "v9:legend": {
+    "id": "legend",
+    "day": 12,
+    "word": "legend",
+    "phonetic": "/ˈledʒənd/",
+    "part": "",
+    "meaning": "n. 传奇故事（或人物）；传说",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "legendary",
+        "传说的，传奇的"
+      ]
+    ],
+    "phrases": [
+      "urban legend",
+      "legend group"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "urban legend",
+        "meaning": "n. 都市传奇，传闻",
+        "example": "Truth or urban legend?",
+        "translation": "是事实还是传说？",
+        "source": ""
+      },
+      {
+        "phrase": "legend group",
+        "meaning": "n. 联想集团（现名为lenovo）",
+        "example": "We're going to visit the Legend Group today.",
+        "translation": "今天我们要去联想集团。",
+        "source": ""
+      }
+    ],
+    "example": "Truth or urban legend?",
+    "exampleTranslation": "是事实还是传说？",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 2,
+      "phraseCount": 2
+    },
+    "enriched": true
+  },
+  "v9:set": {
+    "id": "set",
+    "day": 12,
+    "word": "set",
+    "phonetic": "/ˈset/",
+    "part": "",
+    "meaning": "an example 树立榜样",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "setter",
+        "[机] 调节器；作曲者；排字工人；安装员，从事安装的人"
+      ]
+    ],
+    "phrases": [
+      "set up",
+      "a set of",
+      "set out",
+      "complete set"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "set up",
+        "meaning": "v. 建立；装配；开业；竖立",
+        "example": "They got married and set up home together in Hull.",
+        "translation": "他们结婚了，一同在赫尔建立了新家。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "a set of",
+        "meaning": "一套；一组；一副",
+        "example": "On his retirement, colleagues presented him with a set of golf clubs.",
+        "translation": "在他退休之际，同事们赠给他一套高尔夫球杆。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "set out",
+        "meaning": "出发；开始；陈述；陈列",
+        "example": "He set out to chisel a dog out of sandstone.",
+        "translation": "他开始用凿子将砂岩雕刻成一只狗。",
+        "source": "《柯林斯英汉双解大词典》"
+      },
+      {
+        "phrase": "complete set",
+        "meaning": "整套；[计]成套机组；完全集",
+        "example": "Many have a complete set of false teeth by that time.",
+        "translation": "很多人在那个时候已经有了一副完整的假牙。",
+        "source": ""
+      }
+    ],
+    "example": "They got married and set up home together in Hull.",
+    "exampleTranslation": "他们结婚了，一同在赫尔建立了新家。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:make": {
+    "id": "make",
+    "day": 12,
+    "word": "make",
+    "phonetic": "/ˈmeɪk/",
+    "part": "",
+    "meaning": "it 获得成功；准时到达",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "maker",
+        "制造者；造物主；出期票人"
+      ]
+    ],
+    "phrases": [
+      "make sure",
+      "make up",
+      "make full use of",
+      "make friends with"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "make sure",
+        "meaning": "确信；证实",
+        "example": "I make sure I make time for fishing because it's how I de-stress.",
+        "translation": "我确保抽出时间钓鱼，因为这是我消除紧张的方式。",
+        "source": "《柯林斯英汉双解大词典》"
+      },
+      {
+        "phrase": "make up",
+        "meaning": "弥补；组成；化妆；整理",
+        "example": "Mrs. Hardie hurried to make up for her tactlessness by asking her guest about his holiday.",
+        "translation": "哈迪太太赶紧问她的客人假期过得如何，以弥补此前不得体的言行。",
+        "source": "《柯林斯英汉双解大词典》"
+      },
+      {
+        "phrase": "make full use of",
+        "meaning": "充分利用",
+        "example": "Let's make full use of what comes.",
+        "translation": "让我们充分利用得来的一切。",
+        "source": ""
+      },
+      {
+        "phrase": "make friends with",
+        "meaning": "与…交友",
+        "example": "I want to make friends with you.",
+        "translation": "我想和你交个朋友。",
+        "source": ""
+      }
+    ],
+    "example": "I make sure I make time for fishing because it's how I de-stress.",
+    "exampleTranslation": "我确保抽出时间钓鱼，因为这是我消除紧张的方式。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:sweat": {
+    "id": "sweat",
+    "day": 12,
+    "word": "sweat",
+    "phonetic": "/ˈswet/",
+    "part": "",
+    "meaning": "vt. 使出汗；出汗弄湿 vi. 出汗；流汗 n. 汗水；出汗",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "sweaty",
+        "出汗的；吃力的；使人出汗的"
+      ],
+      [
+        "sweater",
+        "毛线衣，运动衫；大量出汗的人，发汗剂"
+      ],
+      [
+        "sweating",
+        "发汗（等于exudation）"
+      ]
+    ],
+    "phrases": [
+      "no sweat",
+      "sweat it out",
+      "cold sweat",
+      "night sweat"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "no sweat",
+        "meaning": "不费力地",
+        "example": "LL: Well, if someone accidentally bumps into you in the hallway and they say, \"sorry,\" you can tell them, \"no sweat.\"",
+        "translation": "嗯，要是有人在楼道里不小心撞到我，他如果说sorry, 我就可以说，No sweat! 也就是没关系的意思。",
+        "source": ""
+      },
+      {
+        "phrase": "sweat it out",
+        "meaning": "苦熬；忍受下去",
+        "example": "I didn't like the job, but I decided to sweat it out until I could get something better.",
+        "translation": "那个工作我不喜欢，但在没找到更好的工作之前，我决心再坚持一下。",
+        "source": ""
+      },
+      {
+        "phrase": "cold sweat",
+        "meaning": "冷汗",
+        "example": "He awoke from his sleep in a cold sweat.",
+        "translation": "他从睡梦中醒来，浑身冷汗。",
+        "source": "《柯林斯英汉双解大词典》"
+      },
+      {
+        "phrase": "night sweat",
+        "meaning": "盗汗",
+        "example": "They won't stop a hot flush, but they'll keep it from turning into a majorly disruptive night sweat in which you have to get up and change clothes.",
+        "translation": "虽然它们不会消除潮热，但是能保证不让它变成极具破坏性、使你不得不起来换衣服的盗汗。",
+        "source": ""
+      }
+    ],
+    "example": "LL: Well, if someone accidentally bumps into you in the hallway and they say, \"sorry,\" you can tell them, \"no sweat.\"",
+    "exampleTranslation": "嗯，要是有人在楼道里不小心撞到我，他如果说sorry, 我就可以说，No sweat! 也就是没关系的意思。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:championship": {
+    "id": "championship",
+    "day": 12,
+    "word": "championship",
+    "phonetic": "/ˈtʃæmpiənʃɪp/",
+    "part": "",
+    "meaning": "n. 锦标赛；冠军赛；冠军称号",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "champion",
+        "优胜的；第一流的"
+      ]
+    ],
+    "phrases": [
+      "open championship"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "open championship",
+        "meaning": "公开锦标赛",
+        "example": "The 14th seed was unable to defend her Australian Open championship last year while sidelined 10 months because of right shoulder surgery.",
+        "translation": "去年，莎娃因右肩伤患休赛10个月之久，并因此错失了卫冕澳网女单冠军的机会。",
+        "source": ""
+      }
+    ],
+    "example": "The 14th seed was unable to defend her Australian Open championship last year while sidelined 10 months because of right shoulder surgery.",
+    "exampleTranslation": "去年，莎娃因右肩伤患休赛10个月之久，并因此错失了卫冕澳网女单冠军的机会。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 1,
+      "phraseCount": 1
+    },
+    "enriched": true
+  },
+  "v9:work": {
+    "id": "work",
+    "day": 12,
+    "word": "work",
+    "phonetic": "/ˈwɜːrk/",
+    "part": "",
+    "meaning": "out 锻炼；计算出；解决",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "workaholic",
+        "醉心于工作的"
+      ],
+      [
+        "working",
+        "工作的；操作的；可行的"
+      ],
+      [
+        "workable",
+        "切实可行的；可经营的；能工作的"
+      ],
+      [
+        "workday",
+        "日常的，工作日的；平凡的"
+      ],
+      [
+        "workaday",
+        "工作日的；日常的；普通的，平凡的"
+      ],
+      [
+        "worker",
+        "工人；劳动者；职蚁"
+      ],
+      [
+        "workaholism",
+        "迷恋工作；醉心工作"
+      ]
+    ],
+    "phrases": [
+      "work in",
+      "at work",
+      "work with",
+      "hard work"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "work in",
+        "meaning": "进入；插进",
+        "example": "I have been doing community service work in Oakland for the past several years.",
+        "translation": "过去几年里我一直在奥克兰做社区服务工作。",
+        "source": "《柯林斯英汉双解大词典》"
+      },
+      {
+        "phrase": "at work",
+        "meaning": "在工作；上班",
+        "example": "I leave junior with Mom when I'm at work.",
+        "translation": "我工作时就把儿子留给母亲照看。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "work with",
+        "meaning": "与…共事；对……有效",
+        "example": "She set to work with a vengeance.",
+        "translation": "她加倍努力地工作起来。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "hard work",
+        "meaning": "努力工作；繁重的工作",
+        "example": "He deserves a pat on the back for all his hard work.",
+        "translation": "他工作兢兢业业，值得嘉许。",
+        "source": "《牛津词典》"
+      }
+    ],
+    "example": "I have been doing community service work in Oakland for the past several years.",
+    "exampleTranslation": "过去几年里我一直在奥克兰做社区服务工作。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:medal": {
+    "id": "medal",
+    "day": 12,
+    "word": "medal",
+    "phonetic": "/ˈmedəl/",
+    "part": "",
+    "meaning": "n. 奖章；勋章",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "medallion",
+        "大奖章；圆形浮雕"
+      ],
+      [
+        "medalist",
+        "奖牌获得者"
+      ],
+      [
+        "medallist",
+        "奖章获得者"
+      ]
+    ],
+    "phrases": [
+      "gold medal",
+      "silver medal",
+      "bronze medal",
+      "medal of honor"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "gold medal",
+        "meaning": "金牌；金质奖章",
+        "example": "She is hoping to win the gold medal.",
+        "translation": "她希望赢得金牌。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "silver medal",
+        "meaning": "银质奖章；银牌奖",
+        "example": "Gillingham won the silver medal in the 200 metres at Seoul.",
+        "translation": "吉林厄姆在汉城获得了200米的银牌。",
+        "source": "《柯林斯英汉双解大词典》"
+      },
+      {
+        "phrase": "bronze medal",
+        "meaning": "铜牌；铜质奖章",
+        "example": "Former Olympic champion Angel Matos of Cuba faces a life ban after kicking a referee in the face during his taekwondo bronze medal match in Beijing.",
+        "translation": "在北京奥运会一场跆拳道铜牌争夺战中，前奥运冠军古巴选手马托斯因踢打裁判面临终身禁赛。",
+        "source": ""
+      },
+      {
+        "phrase": "medal of honor",
+        "meaning": "荣誉勋章",
+        "example": "Moms should get more than a special day, they should get a medal of honor.",
+        "translation": "妈妈们应该得到的不只是一个节日，她们该获得荣誉勋章。",
+        "source": ""
+      }
+    ],
+    "example": "She is hoping to win the gold medal.",
+    "exampleTranslation": "她希望赢得金牌。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:fall": {
+    "id": "fall",
+    "day": 12,
+    "word": "fall",
+    "phonetic": "/ˈfɔl/",
+    "part": "",
+    "meaning": "apart 破裂；破碎；崩溃",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "falling",
+        "下降的；落下的"
+      ],
+      [
+        "fallen",
+        "堕落的；落下来的；陷落的"
+      ],
+      [
+        "faller",
+        "砍伐树木的人"
+      ]
+    ],
+    "phrases": [
+      "fall in",
+      "fall in love",
+      "fall into",
+      "fall in love with"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "fall in",
+        "meaning": "到期；集合；排队；倒塌；与某人在一起",
+        "example": "Never stop smiling, not even when you're sad, someone might fall in love with you.",
+        "translation": "永远都不要停止微笑，即使是在你难过的时候，说不定有人会爱上你。",
+        "source": ""
+      },
+      {
+        "phrase": "fall in love",
+        "meaning": "坠入爱河；爱上某人",
+        "example": "Never stop smiling, not even when you're sad, someone might fall in love with you.",
+        "translation": "永远都不要停止微笑，即使是在你难过的时候，说不定有人会爱上你。",
+        "source": ""
+      },
+      {
+        "phrase": "fall into",
+        "meaning": "落入；分成",
+        "example": "Ants are collected when they fall into the trap while foraging.",
+        "translation": "蚂蚁在觅食时落入陷阱，就会被收集起来。",
+        "source": ""
+      },
+      {
+        "phrase": "fall in love with",
+        "meaning": "爱上",
+        "example": "Slowly but surely she started to fall in love with him.",
+        "translation": "虽然缓慢，但她确实开始爱上他了。",
+        "source": "《柯林斯英汉双解大词典》"
+      }
+    ],
+    "example": "Never stop smiling, not even when you're sad, someone might fall in love with you.",
+    "exampleTranslation": "永远都不要停止微笑，即使是在你难过的时候，说不定有人会爱上你。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:honour": {
+    "id": "honour",
+    "day": 12,
+    "word": "honour",
+    "phonetic": "/ˈɑnər/",
+    "part": "",
+    "meaning": "n. 荣誉；尊敬；荣幸",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "honored",
+        "受尊敬的；已承兑或付款的"
+      ],
+      [
+        "honorary",
+        "荣誉的；名誉的；道义上的"
+      ],
+      [
+        "honorific",
+        "尊敬的；敬称的"
+      ],
+      [
+        "honorably",
+        "体面地；值得尊敬地"
+      ],
+      [
+        "honor",
+        "荣誉；信用；头衔"
+      ]
+    ],
+    "phrases": [
+      "in honour of",
+      "have the honour",
+      "in one's honour",
+      "for the honour of"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "in honour of",
+        "meaning": "为纪念；为庆祝",
+        "example": "The monument was erected in honour of the soldiers who sacrificed their lives for the country.",
+        "translation": "这个纪念碑是为纪念为国牺牲的战士而建立的。",
+        "source": ""
+      },
+      {
+        "phrase": "have the honour",
+        "meaning": "有幸，荣幸",
+        "example": "I have the honour to inform you that you won the game.",
+        "translation": "我很荣幸地通知你，你赢了这场比赛。",
+        "source": ""
+      },
+      {
+        "phrase": "in one's honour",
+        "meaning": "向…表示敬意；祝贺；纪念",
+        "example": "",
+        "translation": "",
+        "source": ""
+      },
+      {
+        "phrase": "for the honour of",
+        "meaning": "为了…的声誉",
+        "example": "Five other cities had been competing for the honour of staging the Games.",
+        "translation": "另外五个城市一直在为赢得该运动会的举办权而相互竞争。",
+        "source": "《柯林斯英汉双解大词典》"
+      }
+    ],
+    "example": "The monument was erected in honour of the soldiers who sacrificed their lives for the country.",
+    "exampleTranslation": "这个纪念碑是为纪念为国牺牲的战士而建立的。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 3,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:injured": {
+    "id": "injured",
+    "day": 12,
+    "word": "injured",
+    "phonetic": "/ˈɪndʒərd/",
+    "part": "",
+    "meaning": "adj. 受伤的；有伤的",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "injure",
+        "伤害，损害"
+      ]
+    ],
+    "phrases": [
+      "get injured",
+      "injured party"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "get injured",
+        "meaning": "受伤",
+        "example": "They are likely to get injured when moving too fast.",
+        "translation": "当他们移动太快时，很可能会受伤。",
+        "source": ""
+      },
+      {
+        "phrase": "injured party",
+        "meaning": "遭受损失的一方",
+        "example": "The injured party got some compensation.",
+        "translation": "受害方得到了一些补偿。",
+        "source": "《柯林斯英汉双解大词典》"
+      }
+    ],
+    "example": "They are likely to get injured when moving too fast.",
+    "exampleTranslation": "当他们移动太快时，很可能会受伤。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 2,
+      "phraseCount": 2
+    },
+    "enriched": true
+  },
+  "v9:graceful": {
+    "id": "graceful",
+    "day": 12,
+    "word": "graceful",
+    "phonetic": "/ˈɡreɪsfəl/",
+    "part": "",
+    "meaning": "adj. 优美的；优雅的",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "gracefully",
+        "优雅地；温文地"
+      ],
+      [
+        "gracelessly",
+        "笨拙地；不优美地"
+      ],
+      [
+        "grace",
+        "优雅；恩惠；魅力；慈悲"
+      ],
+      [
+        "gracefulness",
+        "温文，优雅；优美"
+      ]
+    ],
+    "phrases": [
+      "graceful bearing"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "graceful bearing",
+        "meaning": "风采",
+        "example": "With the graceful bearing of encouraging youth, we are approaching to spring.",
+        "translation": "扬着青春的风采，我们向春天走来。",
+        "source": ""
+      }
+    ],
+    "example": "With the graceful bearing of encouraging youth, we are approaching to spring.",
+    "exampleTranslation": "扬着青春的风采，我们向春天走来。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 1,
+      "phraseCount": 1
+    },
+    "enriched": true
+  },
+  "v9:determination": {
+    "id": "determination",
+    "day": 12,
+    "word": "determination",
+    "phonetic": "/dɪtərməˈneɪʃən/",
+    "part": "",
+    "meaning": "n. 决心；决定",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "determined",
+        "决定了的；坚决的"
+      ],
+      [
+        "determinedly",
+        "决然地；断然地"
+      ],
+      [
+        "determiner",
+        "[语] 限定词；决定因素"
+      ],
+      [
+        "determine",
+        "确定；决定；判决，终止"
+      ]
+    ],
+    "phrases": [
+      "quantitative determination",
+      "orbit determination",
+      "sex determination",
+      "final determination"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "quantitative determination",
+        "meaning": "定量测定",
+        "example": "Objective: To establish the method of quantitative determination of liver metabolic function.",
+        "translation": "目的：建立临床定量检测肝代谢功能的方法及指标。",
+        "source": ""
+      },
+      {
+        "phrase": "orbit determination",
+        "meaning": "轨道计算，定轨",
+        "example": "High precise real-time autonomous relative orbit determination between distributed spacecraft is a key technology in the task of spacecraft formation maintenance.",
+        "translation": "分布式航天器间相对位置的实时高精度测量是分布式航天器实现空间队形保持的关键技术之一。",
+        "source": ""
+      },
+      {
+        "phrase": "sex determination",
+        "meaning": "性别决定；性决定",
+        "example": "This is a method of sex determination known as haplodiploidy.",
+        "translation": "这是一种性别决定的方法，叫做单倍二倍体。",
+        "source": ""
+      },
+      {
+        "phrase": "final determination",
+        "meaning": "最后决定",
+        "example": "Article 37. If a final determination establishes the existence of dumping and injury caused by dumping to a domestic industry, an anti-dumping duty may be imposed.",
+        "translation": "第三十七条终裁决定确定倾销成立，并由此对国内产业造成损害的，可以征收反倾销税。",
+        "source": ""
+      }
+    ],
+    "example": "Objective: To establish the method of quantitative determination of liver metabolic function.",
+    "exampleTranslation": "目的：建立临床定量检测肝代谢功能的方法及指标。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:lose": {
+    "id": "lose",
+    "day": 12,
+    "word": "lose",
+    "phonetic": "/ˈluːz/",
+    "part": "",
+    "meaning": "heart 丧失信心；泄气",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "loser",
+        "失败者；遗失者"
+      ]
+    ],
+    "phrases": [
+      "lose oneself",
+      "lose sight of",
+      "lose face",
+      "lose time"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "lose oneself",
+        "meaning": "迷路",
+        "example": "Reading requires effort by the reader; it is easier to lose oneself in a movie.",
+        "translation": "阅读需要读者的努力；看电影就更容易让自己沉浸其中。",
+        "source": ""
+      },
+      {
+        "phrase": "lose sight of",
+        "meaning": "忽略；不再看见",
+        "example": "Sometimes we lose sight of the fact that the music has a wider context.",
+        "translation": "有时候我们会忽视了音乐有着更广泛的背景。",
+        "source": ""
+      },
+      {
+        "phrase": "lose face",
+        "meaning": "丢脸",
+        "example": "They don't want a war, but they don't want to lose face.",
+        "translation": "他们不想要战争，但他们也不想丢脸面。",
+        "source": "《柯林斯英汉双解大词典》"
+      },
+      {
+        "phrase": "lose time",
+        "meaning": "耽误时间；走得慢；失去时机",
+        "example": "\"Come, come,\" said the Little Man, \"do not lose time over a donkey that can weep.\"",
+        "translation": "“好了，好了，”矮个子说，“别为一头会哭的驴子浪费时间了。”",
+        "source": ""
+      }
+    ],
+    "example": "Reading requires effort by the reader; it is easier to lose oneself in a movie.",
+    "exampleTranslation": "阅读需要读者的努力；看电影就更容易让自己沉浸其中。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:injury": {
+    "id": "injury",
+    "day": 12,
+    "word": "injury",
+    "phonetic": "/ˈɪndʒəri/",
+    "part": "",
+    "meaning": "n. 伤害；损伤",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "injured",
+        "受伤的；受损害的"
+      ],
+      [
+        "injure",
+        "伤害，损害"
+      ]
+    ],
+    "phrases": [
+      "brain injury",
+      "spinal cord injury",
+      "personal injury",
+      "serious injury"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "brain injury",
+        "meaning": "[医]脑损伤",
+        "example": "It has trouble concentrating after a brain injury.",
+        "translation": "脑部受伤后很难集中注意力。",
+        "source": ""
+      },
+      {
+        "phrase": "spinal cord injury",
+        "meaning": "脊髓受伤，脊椎损伤",
+        "example": "Matt had suffered a spinal cord injury from an accident.",
+        "translation": "Matt在一次意外中脊髓损伤。",
+        "source": ""
+      },
+      {
+        "phrase": "personal injury",
+        "meaning": "人身伤害",
+        "example": "Many policies do not protect you against personal injury.",
+        "translation": "许多保单都列明不保障人身伤害。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "serious injury",
+        "meaning": "重伤；严重损害",
+        "example": "He suffered a serious injury that obliged him to give up work.",
+        "translation": "他受伤严重，不得已只好放弃工作。",
+        "source": "《牛津词典》"
+      }
+    ],
+    "example": "It has trouble concentrating after a brain injury.",
+    "exampleTranslation": "脑部受伤后很难集中注意力。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:pretend": {
+    "id": "pretend",
+    "day": 12,
+    "word": "pretend",
+    "phonetic": "/priˈtend/",
+    "part": "",
+    "meaning": "vi. & vt. 假装；装扮",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "pretended",
+        "假装的；虚假的"
+      ],
+      [
+        "pretender",
+        "冒牌者；妄求者；妄提要求者"
+      ]
+    ],
+    "phrases": [],
+    "phraseExamples": [],
+    "example": "Stop pretending.",
+    "exampleTranslation": "",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退",
+        "Tatoeba"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 0,
+      "phraseCount": 0
+    },
+    "enriched": true
+  },
+  "v9:give": {
+    "id": "give",
+    "day": 12,
+    "word": "give",
+    "phonetic": "/ˈɡɪv/",
+    "part": "",
+    "meaning": "up 放弃；投降",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "given",
+        "赠予的；沉溺的"
+      ],
+      [
+        "giver",
+        "给予者，赠予人；送礼者"
+      ]
+    ],
+    "phrases": [
+      "give oneself",
+      "give up",
+      "give out",
+      "give full play to"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "give oneself",
+        "meaning": "（为...）献身",
+        "example": "Even the love, also should give oneself and the other a space, let you see clearly, live at ease.",
+        "translation": "即使爱的火热，也要给自己和对方一个空间，让你们看得清楚，活得自在。",
+        "source": ""
+      },
+      {
+        "phrase": "give up",
+        "meaning": "放弃；交出",
+        "example": "She was not going to give up her hard-won freedom so easily.",
+        "translation": "她不会这么轻易地放弃得来不易的自由。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "give out",
+        "meaning": "分发，发出；公布，发表；用尽，精疲力竭",
+        "example": "The teacher started to give out the test papers to each student.",
+        "translation": "老师开始给每个学生发考卷。",
+        "source": ""
+      },
+      {
+        "phrase": "give full play to",
+        "meaning": "充分发挥",
+        "example": "We will give full play to traditional Chinese medicine and folk medicines of ethnic minorities in disease prevention and control.",
+        "translation": "要充分发挥中医药和民族医药在防病治病中的重要作用。",
+        "source": ""
+      }
+    ],
+    "example": "Even the love, also should give oneself and the other a space, let you see clearly, live at ease.",
+    "exampleTranslation": "即使爱的火热，也要给自己和对方一个空间，让你们看得清楚，活得自在。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:failure": {
+    "id": "failure",
+    "day": 12,
+    "word": "failure",
+    "phonetic": "/ˈfeɪljər/",
+    "part": "",
+    "meaning": "n. 失败；失败的人（或事物）",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "failed",
+        "已失败的，不成功的"
+      ],
+      [
+        "failing",
+        "失败的"
+      ],
+      [
+        "fail",
+        "不及格"
+      ]
+    ],
+    "phrases": [
+      "failure in",
+      "heart failure",
+      "renal failure",
+      "failure mechanism"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "failure in",
+        "meaning": "…的失败",
+        "example": "The rate of heart failure in the LOPE group was higher than that in the EOPE group.",
+        "translation": "LOPE 组心衰发生率高于 EOPE 组。",
+        "source": ""
+      },
+      {
+        "phrase": "heart failure",
+        "meaning": "n. 心力衰竭",
+        "example": "He remained in a critical condition after suffering heart failure.",
+        "translation": "他患心力衰竭之后一直处于危险状况。",
+        "source": "《柯林斯英汉双解大词典》"
+      },
+      {
+        "phrase": "renal failure",
+        "meaning": "肾衰竭",
+        "example": "He collapsed from acute renal failure.",
+        "translation": "他的身体因严重的肾衰竭而垮掉了。",
+        "source": "《柯林斯英汉双解大词典》"
+      },
+      {
+        "phrase": "failure mechanism",
+        "meaning": "破坏机理；失效机理",
+        "example": "The study provides the basis for the research of the casing failure mechanism and controlling measure of the loosen sandstone reservoirs.",
+        "translation": "这为研究疏松砂岩地层套管的损害机制及防治措施提供了理论依据。",
+        "source": ""
+      }
+    ],
+    "example": "The rate of heart failure in the LOPE group was higher than that in the EOPE group.",
+    "exampleTranslation": "LOPE 组心衰发生率高于 EOPE 组。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:strength": {
+    "id": "strength",
+    "day": 12,
+    "word": "strength",
+    "phonetic": "/ˈstreŋkθ/",
+    "part": "",
+    "meaning": "n. 力量；体力",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "strong",
+        "坚强的；强壮的；牢固的；擅长的"
+      ],
+      [
+        "strongly",
+        "强有力地；坚强地；激烈地；气味浓地"
+      ]
+    ],
+    "phrases": [
+      "tensile strength",
+      "actual strength",
+      "compressive strength",
+      "shear strength"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "tensile strength",
+        "meaning": "抗张强度",
+        "example": "A new material developed recently has a tensile strength higher than diamond, yet it's much more flexible.",
+        "translation": "最近开发的一种新材料的抗拉强度比钻石还高，而且柔韧性更好。",
+        "source": ""
+      },
+      {
+        "phrase": "actual strength",
+        "meaning": "实际强度",
+        "example": "When we have actual strength, we can go in front gradually.",
+        "translation": "当我们有实力的时候，我们会逐渐走在前面。",
+        "source": ""
+      },
+      {
+        "phrase": "compressive strength",
+        "meaning": "抗压强度；压缩强度",
+        "example": "The conduit is filled with concrete, which provides compressive strength, and steel rods along the bottom of the tube provide tensile strength.",
+        "translation": "管子里填满了混凝土，提供了抗压强度，管子底部的钢条提供了抗拉强度。",
+        "source": ""
+      },
+      {
+        "phrase": "shear strength",
+        "meaning": "切变强度",
+        "example": "Experimental results showed that terpolymer emulsion had higher shear strength and the ability to resist water and freeze than the normal PVAc emulsion.",
+        "translation": "实验结果表明，三元共聚物乳液具有比聚醋酸乙烯乳液更高的剪切强度和抗水、抗冻能力。",
+        "source": ""
+      }
+    ],
+    "example": "A new material developed recently has a tensile strength higher than diamond, yet it's much more flexible.",
+    "exampleTranslation": "最近开发的一种新材料的抗拉强度比钻石还高，而且柔韧性更好。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:even": {
+    "id": "even",
+    "day": 12,
+    "word": "even",
+    "phonetic": "/ˈiːvɪn/",
+    "part": "",
+    "meaning": "if/though 即使；虽然",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "evening",
+        "在晚上的；为晚上的；晚上用的"
+      ],
+      [
+        "evenly",
+        "均匀地；平衡地；平坦地；平等地"
+      ],
+      [
+        "evenness",
+        "均匀性；平坦；平均；平等"
+      ]
+    ],
+    "phrases": [
+      "and even",
+      "even if",
+      "even more",
+      "even when"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "and even",
+        "meaning": "乃至",
+        "example": "It can sit down, roll over, and even play dead.",
+        "translation": "它会坐下、打滚，还会装死。",
+        "source": ""
+      },
+      {
+        "phrase": "even if",
+        "meaning": "即使；虽然",
+        "example": "We won't give up even if we should fail 100 times.",
+        "translation": "即使失败了一百次我们也不放弃。",
+        "source": ""
+      },
+      {
+        "phrase": "even more",
+        "meaning": "更多地，更多的",
+        "example": "She's even more intelligent than her sister.",
+        "translation": "她甚至比她姐姐还聪明。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "even when",
+        "meaning": "即使当",
+        "example": "They can communicate even when they strongly disagree.",
+        "translation": "他们即使是在有较大分歧时也能相互交流。",
+        "source": "《柯林斯英汉双解大词典》"
+      }
+    ],
+    "example": "It can sit down, roll over, and even play dead.",
+    "exampleTranslation": "它会坐下、打滚，还会装死。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:slim": {
+    "id": "slim",
+    "day": 12,
+    "word": "slim",
+    "phonetic": "/ˈslɪm/",
+    "part": "",
+    "meaning": "adj. 苗条的；单薄的",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "slimly",
+        "苗条地；微弱地；狡猾地"
+      ],
+      [
+        "slimness",
+        "细长；微薄"
+      ]
+    ],
+    "phrases": [
+      "slim hole",
+      "slim down"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "slim hole",
+        "meaning": "小口径钻孔",
+        "example": "Therefore, researching the fishing technology of deep and ultra-deep slim hole contains very important meanings to reduce economic losses and speed up the pace of oil production for oil fields.",
+        "translation": "因此，研究深井超深井小井眼打捞工艺技术，对减少油田经济损失，加快夺油上产的步伐具有十分重要的意义。",
+        "source": ""
+      },
+      {
+        "phrase": "slim down",
+        "meaning": "消瘦",
+        "example": "People will lose weight when they slim down with a friend.",
+        "translation": "人们若和朋友一起减肥，就会减轻体重。",
+        "source": "《柯林斯英汉双解大词典》"
+      }
+    ],
+    "example": "Therefore, researching the fishing technology of deep and ultra-deep slim hole contains very important meanings to reduce economic losses and speed up the pace of oil production for oil fields.",
+    "exampleTranslation": "因此，研究深井超深井小井眼打捞工艺技术，对减少油田经济损失，加快夺油上产的步伐具有十分重要的意义。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 2,
+      "phraseCount": 2
+    },
+    "enriched": true
+  },
+  "v9:million": {
+    "id": "million",
+    "day": 12,
+    "word": "million",
+    "phonetic": "/ˈmɪljən/",
+    "part": "",
+    "meaning": "num. 一百万",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "millionaire",
+        "100万以上人口的"
+      ],
+      [
+        "millionfold",
+        "百万倍的"
+      ],
+      [
+        "millionth",
+        "百万分之一的；第一百万的"
+      ],
+      [
+        "millionairess",
+        "百万富婆；百万富翁的妻子"
+      ]
+    ],
+    "phrases": [
+      "in a million",
+      "thanks a million",
+      "one in a million",
+      "feel like a million"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "in a million",
+        "meaning": "(人、物)千里挑一的，无与伦比的",
+        "example": "He's a man in a million.",
+        "translation": "他是个出类拔萃的人物。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "thanks a million",
+        "meaning": "非常感谢",
+        "example": "Stone: Oh, thanks a million! I am flattered!",
+        "translation": "斯通：哦，万分感谢！过奖了！",
+        "source": ""
+      },
+      {
+        "phrase": "one in a million",
+        "meaning": "百里挑一；极稀有的人或事",
+        "example": "Suppose that his estimate is correct, in the sense that the probability of an accident of this magnitude in any year was one in a million.",
+        "translation": "假设一年内发生同等规模事故的可能性为百万分之一。",
+        "source": ""
+      },
+      {
+        "phrase": "feel like a million",
+        "meaning": "[口语]感到精力十分充沛",
+        "example": "I feel like a million bucks.",
+        "translation": "我感觉好像中了一百万。",
+        "source": ""
+      }
+    ],
+    "example": "He's a man in a million.",
+    "exampleTranslation": "他是个出类拔萃的人物。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:soccer": {
+    "id": "soccer",
+    "day": 12,
+    "word": "soccer",
+    "phonetic": "/ˈsɑkər/",
+    "part": "",
+    "meaning": "n. 足球；足球运动",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "socceroo",
+        "澳大利亚足球队"
+      ],
+      [
+        "soccerer",
+        "足球运动员"
+      ],
+      [
+        "socceroos",
+        "澳大利亚国家男子足球队"
+      ],
+      [
+        "soccerball",
+        "足球"
+      ],
+      [
+        "soccers",
+        "规则词形"
+      ]
+    ],
+    "phrases": [
+      "play soccer",
+      "soccer player",
+      "soccer ball",
+      "soccer field"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "play soccer",
+        "meaning": "踢足球；踢（英式）足球",
+        "example": "Did you play soccer yesterday?",
+        "translation": "你昨天踢足球了吗？",
+        "source": ""
+      },
+      {
+        "phrase": "soccer player",
+        "meaning": "足球运动员；足球选手",
+        "example": "Is he the Brazilian soccer player?",
+        "translation": "他是那个巴西的足球员吗？",
+        "source": ""
+      },
+      {
+        "phrase": "soccer ball",
+        "meaning": "英式足球",
+        "example": "I need a soccer ball and he needs one, too.",
+        "translation": "我需要一个足球，他也需要一个足球。",
+        "source": ""
+      },
+      {
+        "phrase": "soccer field",
+        "meaning": "足球场",
+        "example": "When I'm on the soccer field, I'm at my happiest.",
+        "translation": "当我在足球场上时，我最开心了。",
+        "source": "《柯林斯英汉双解大词典》"
+      }
+    ],
+    "example": "Did you play soccer yesterday?",
+    "exampleTranslation": "你昨天踢足球了吗？",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退",
+        "Datamuse"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:diet": {
+    "id": "diet",
+    "day": 12,
+    "word": "diet",
+    "phonetic": "/ˈdaɪət/",
+    "part": "",
+    "meaning": "n. 规定饮食；日常饮食 vi. 节食",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "dietary",
+        "饮食的，饭食的"
+      ],
+      [
+        "dietetic",
+        "饮食的；饮食学的"
+      ],
+      [
+        "dietetical",
+        "饮食的"
+      ],
+      [
+        "dieting",
+        "节食；节食减肥"
+      ],
+      [
+        "dietitian",
+        "（美）营养学家；饮食学家"
+      ],
+      [
+        "dieter",
+        "节食者"
+      ],
+      [
+        "dietetics",
+        "营养学；饮食学"
+      ]
+    ],
+    "phrases": [
+      "balanced diet",
+      "on a diet",
+      "on diet",
+      "go on a diet"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "balanced diet",
+        "meaning": "均衡饮食",
+        "example": "He cut down on coffee and cigarettes, and ate a balanced diet.",
+        "translation": "他少喝咖啡，少抽烟，饮食均衡。",
+        "source": "《柯林斯英汉双解大词典》"
+      },
+      {
+        "phrase": "on a diet",
+        "meaning": "遵守饮食特别规定的",
+        "example": "I'm forever on a diet, since I put on weight easily.",
+        "translation": "我一直在节食，因为我的体重很容易增加。",
+        "source": "《柯林斯英汉双解大词典》"
+      },
+      {
+        "phrase": "on diet",
+        "meaning": "节食；减肥",
+        "example": "Let me add a postscript to this section on diet.",
+        "translation": "让我对饮食这一部分加个补笔。",
+        "source": "《柯林斯英汉双解大词典》"
+      },
+      {
+        "phrase": "go on a diet",
+        "meaning": "节食，减肥",
+        "example": "Don't go on a diet.",
+        "translation": "不要节食。",
+        "source": ""
+      }
+    ],
+    "example": "He cut down on coffee and cigarettes, and ate a balanced diet.",
+    "exampleTranslation": "他少喝咖啡，少抽烟，饮食均衡。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:cut": {
+    "id": "cut",
+    "day": 12,
+    "word": "cut",
+    "phonetic": "/ˈkʌt/",
+    "part": "",
+    "meaning": "... out 停止做（或使用、食用）；剪下",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "cutty",
+        "短的，极短的；锐利的"
+      ],
+      [
+        "cuttable",
+        "可缩减的"
+      ],
+      [
+        "cutter",
+        "刀具，切割机；切割者；裁剪者"
+      ]
+    ],
+    "phrases": [
+      "cut off",
+      "cut down",
+      "cut in",
+      "cut into"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "cut off",
+        "meaning": "切断；中断；使死亡；剥夺继承权",
+        "example": "He had his finger cut off in an accident at work.",
+        "translation": "他在一次工伤中被切断了手指。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "cut down",
+        "meaning": "v. 削减；砍倒；杀死；删节；胜过",
+        "example": "In ancient Greece, for example, anyone who cut down an olive tree was heavily punished.",
+        "translation": "例如，在古希腊，任何砍倒橄榄树的人都会受到严厉的惩罚。",
+        "source": ""
+      },
+      {
+        "phrase": "cut in",
+        "meaning": "插嘴；超车；插入",
+        "example": "'Forget it!' she cut in.",
+        "translation": "“算了吧！”她插嘴道。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "cut into",
+        "meaning": "v. 打断；侵犯",
+        "example": "She had her long hair cut into a boyish crop.",
+        "translation": "她让人把她的长发剪成了像男孩子的短发。",
+        "source": "《柯林斯英汉双解大词典》"
+      }
+    ],
+    "example": "He had his finger cut off in an accident at work.",
+    "exampleTranslation": "他在一次工伤中被切断了手指。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:apart": {
+    "id": "apart",
+    "day": 12,
+    "word": "apart",
+    "phonetic": "/əˈpɑrt/",
+    "part": "",
+    "meaning": "adv. 分离；分开；成碎片",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "apartment",
+        "公寓"
+      ],
+      [
+        "apartness",
+        "分离"
+      ],
+      [
+        "apartheid",
+        "n.种族隔离"
+      ],
+      [
+        "apartotel",
+        "公寓式酒店"
+      ],
+      [
+        "aparts",
+        "规则词形"
+      ]
+    ],
+    "phrases": [
+      "apart from",
+      "fall apart",
+      "set apart",
+      "take apart"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "apart from",
+        "meaning": "远离，除…之外；且不说；缺少",
+        "example": "What other sports do you like apart from football?",
+        "translation": "除足球外你还喜欢哪些运动？",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "fall apart",
+        "meaning": "崩溃；土崩瓦解；破碎",
+        "example": "Marriages often fall apart over little things, like who should do the cooking or laundry.",
+        "translation": "婚姻的破裂往往因为一些小事，比如谁应该做饭或洗衣服。",
+        "source": ""
+      },
+      {
+        "phrase": "set apart",
+        "meaning": "留出…；使分离；区别",
+        "example": "Two rooms were set apart for use as libraries.",
+        "translation": "留出两个房间作为图书室。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "take apart",
+        "meaning": "拆开；剖析；粗暴对待",
+        "example": "The analyzer's job is to take apart a string of text and give you back a stream of tokens.",
+        "translation": "分析器的工作是分离一串文本并返回一个标号流。",
+        "source": ""
+      }
+    ],
+    "example": "What other sports do you like apart from football?",
+    "exampleTranslation": "除足球外你还喜欢哪些运动？",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退",
+        "Datamuse"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:stress": {
+    "id": "stress",
+    "day": 12,
+    "word": "stress",
+    "phonetic": "/ˈstres/",
+    "part": "",
+    "meaning": "n. 压力；紧张；重音 vt. 强调；重读；使焦虑不安 vi. 焦虑不安",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "stressful",
+        "紧张的；有压力的"
+      ],
+      [
+        "stressor",
+        "紧张性刺激；光彩"
+      ]
+    ],
+    "phrases": [
+      "stress on",
+      "stress distribution",
+      "stress field",
+      "residual stress"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "stress on",
+        "meaning": "对…的强调",
+        "example": "It helps reduce stress on muscles.",
+        "translation": "它有助于减轻肌肉的压力。",
+        "source": ""
+      },
+      {
+        "phrase": "stress distribution",
+        "meaning": "应力分布",
+        "example": "The fractures are always controlled by the tectonic stress distribution; therefore, to study the paleo-stress field is a useful method to predict the fractures.",
+        "translation": "由于构造裂缝主要受控于构造应力场，从构造应力场分析入手预测构造裂缝发育规律是十分有效的手段。",
+        "source": ""
+      },
+      {
+        "phrase": "stress field",
+        "meaning": "n. 应力场；胁强场",
+        "example": "The fractures are always controlled by the tectonic stress distribution; therefore, to study the paleo-stress field is a useful method to predict the fractures.",
+        "translation": "由于构造裂缝主要受控于构造应力场，从构造应力场分析入手预测构造裂缝发育规律是十分有效的手段。",
+        "source": ""
+      },
+      {
+        "phrase": "residual stress",
+        "meaning": "剩余应力",
+        "example": "Strain gage hole drilling method is one of the most popular residual stress measurement methods.",
+        "translation": "应变片钻孔法是工程中应用最广的残余应力测量方法之一。",
+        "source": ""
+      }
+    ],
+    "example": "It helps reduce stress on muscles.",
+    "exampleTranslation": "它有助于减轻肌肉的压力。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:push-up": {
+    "id": "push-up",
+    "day": 12,
+    "word": "push-up",
+    "phonetic": "/ˈpʊʃəp/",
+    "part": "",
+    "meaning": "俯卧撑",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "push-ups",
+        "俯卧撑"
+      ]
+    ],
+    "phrases": [],
+    "phraseExamples": [],
+    "example": "Yumiko has a push-up bra.",
+    "exampleTranslation": "",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退",
+        "Tatoeba",
+        "Datamuse"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 0,
+      "phraseCount": 0
+    },
+    "enriched": true
+  },
+  "v9:rather": {
+    "id": "rather",
+    "day": 12,
+    "word": "rather",
+    "phonetic": "/ˈræðər/",
+    "part": "",
+    "meaning": "adv. 相当；有点儿",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "ratherish",
+        "有点"
+      ],
+      [
+        "rathergate",
+        "拉瑟门"
+      ],
+      [
+        "ratheripe",
+        "过熟"
+      ],
+      [
+        "rathers",
+        "宁愿"
+      ]
+    ],
+    "phrases": [
+      "rather than",
+      "would rather",
+      "or rather",
+      "rather too"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "rather than",
+        "meaning": "而不是；宁可…也不愿",
+        "example": "She made students think for themselves, rather than telling them what to think.",
+        "translation": "她让学生们自己思考，而不是告诉他们思考什么。",
+        "source": "《柯林斯英汉双解大词典》"
+      },
+      {
+        "phrase": "would rather",
+        "meaning": "宁愿，宁可",
+        "example": "They would rather struggle for peace.",
+        "translation": "他们宁愿为和平而奋斗。",
+        "source": ""
+      },
+      {
+        "phrase": "or rather",
+        "meaning": "更精确地说，倒不如说",
+        "example": "I live on my standard unemployment benefit—or rather, social security benefit.",
+        "translation": "我靠我的标准失业救济金生活——或者更确切地说，靠社会保障救济金生活。",
+        "source": ""
+      },
+      {
+        "phrase": "rather too",
+        "meaning": "adv. 稍微...一点",
+        "example": "He was conscious that he was talking rather too much.",
+        "translation": "他意识到他说得实在太多了。",
+        "source": "《牛津词典》"
+      }
+    ],
+    "example": "She made students think for themselves, rather than telling them what to think.",
+    "exampleTranslation": "她让学生们自己思考，而不是告诉他们思考什么。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退",
+        "Datamuse"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:now": {
+    "id": "now",
+    "day": 12,
+    "word": "now",
+    "phonetic": "/ˈnaʊ/",
+    "part": "",
+    "meaning": "and then 有时；偶尔",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "nowt",
+        "啥也没有"
+      ],
+      [
+        "nowadays",
+        "現在 现在 [xian4 zai4]"
+      ],
+      [
+        "nowhither",
+        "无处可去"
+      ],
+      [
+        "nowhere",
+        "否"
+      ],
+      [
+        "nows",
+        "规则词形"
+      ]
+    ],
+    "phrases": [
+      "up to now",
+      "just now",
+      "for now",
+      "from now on"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "up to now",
+        "meaning": "到目前为止",
+        "example": "This book is a great introduction to the lives and works of some of the most important and up to now unknown women in science.",
+        "translation": "这本书是一部出色的入门读物，介绍了科学界一些最重要、迄今仍鲜为人知的女性的生平与作品。",
+        "source": ""
+      },
+      {
+        "phrase": "just now",
+        "meaning": "刚才；眼下",
+        "example": "You looked pretty upset just now.",
+        "translation": "你刚才看上去很沮丧。",
+        "source": "《柯林斯英汉双解大词典》"
+      },
+      {
+        "phrase": "for now",
+        "meaning": "目前，暂时",
+        "example": "That's enough for now—let's go on with it tomorrow.",
+        "translation": "现在就到这里—咱们明天再继续吧。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "from now on",
+        "meaning": "从现在开始",
+        "example": "You should look out for yourself from now on.",
+        "translation": "从现在起你应该多为自己着想。",
+        "source": "《牛津词典》"
+      }
+    ],
+    "example": "This book is a great introduction to the lives and works of some of the most important and up to now unknown women in science.",
+    "exampleTranslation": "这本书是一部出色的入门读物，介绍了科学界一些最重要、迄今仍鲜为人知的女性的生平与作品。",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退",
+        "Datamuse"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:compare": {
+    "id": "compare",
+    "day": 12,
+    "word": "compare",
+    "phonetic": "/kəˈmper/",
+    "part": "",
+    "meaning": "... with/to ... 与……比较",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "comparer",
+        "比较器"
+      ],
+      [
+        "compared",
+        "Compared"
+      ],
+      [
+        "compares",
+        "比较"
+      ]
+    ],
+    "phrases": [
+      "compare with",
+      "compare notes",
+      "compare favourably with",
+      "beyond compare"
+    ],
+    "phraseExamples": [
+      {
+        "phrase": "compare with",
+        "meaning": "与…相比较",
+        "example": "How do they compare with our alternatives?",
+        "translation": "他们如何和我们的选择相比较？",
+        "source": ""
+      },
+      {
+        "phrase": "compare notes",
+        "meaning": "交换意见",
+        "example": "We meet every so often and compare notes.",
+        "translation": "我们时常碰头，交换意见。",
+        "source": "《新英汉大辞典》"
+      },
+      {
+        "phrase": "compare favourably with",
+        "meaning": "比…毫不逊色，比得上",
+        "example": "These figures compare favourably with last year's.",
+        "translation": "这些数字比去年的好多了。",
+        "source": "《牛津词典》"
+      },
+      {
+        "phrase": "beyond compare",
+        "meaning": "adv. 非常好；无以伦比",
+        "example": "The light, as always, was beyond compare and there was a watery chill in the air.",
+        "translation": "光线一如既往地无与伦比，空气里还有潮湿的寒意。",
+        "source": ""
+      }
+    ],
+    "example": "How do they compare with our alternatives?",
+    "exampleTranslation": "他们如何和我们的选择相比较？",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退",
+        "Datamuse"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 4,
+      "phraseCount": 4
+    },
+    "enriched": true
+  },
+  "v9:jog": {
+    "id": "jog",
+    "day": 12,
+    "word": "jog",
+    "phonetic": "/ˈdʒɑɡ/",
+    "part": "",
+    "meaning": "vi. 慢跑 n. 慢跑",
+    "standardMeaning": "",
+    "segments": [],
+    "mnemonic": "",
+    "logic": "",
+    "derivatives": [
+      [
+        "jogging",
+        "慢跑"
+      ],
+      [
+        "jogger",
+        "慢跑者；[印刷] 撞纸机"
+      ]
+    ],
+    "phrases": [],
+    "phraseExamples": [],
+    "example": "Shall we jog?",
+    "exampleTranslation": "",
+    "enrichment": {
+      "providers": [
+        "有道词典",
+        "Datamuse 发音回退",
+        "Tatoeba"
+      ],
+      "needsReview": true,
+      "verifiedExampleCount": 0,
+      "phraseCount": 0
+    },
+    "enriched": true
   }
 }
